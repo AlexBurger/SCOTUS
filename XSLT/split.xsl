@@ -4,7 +4,7 @@
     exclude-result-prefixes="xs"
     version="2.0">
     <xsl:template match="opinion">
-        <xsl:result-document href="{concat('opinions/',@id,'.xml')}">
+        <xsl:result-document href="{concat('opinions_name/',@date_filed,'.xml')}">
             <xsl:copy-of select="."/>
         </xsl:result-document>
     </xsl:template>
