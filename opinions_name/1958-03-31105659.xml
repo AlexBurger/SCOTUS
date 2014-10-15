@@ -1,205 +1,278 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opinion>
    <metadata>
-      <case_name>Green v. United States</case_name>
-      <id>105662</id>
+      <case_name>Trop v. Dulles</case_name>
+      <id>105659</id>
       <date_filed>1958-03-31</date_filed>
-      <judges>Harlan</judges>
+      <judges/>
       <nature_of_suit/>
       <citation>
          <volume>356</volume>
          <reporter>U.S.</reporter>
-         <page>165</page>
+         <page>86</page>
          <lexis_cite/>
       </citation>
-      <federal_cite_one>356 U.S. 165</federal_cite_one>
+      <federal_cite_one>356 U.S. 86</federal_cite_one>
       <cited_by>
-         <case>2643145</case>
-         <case>2116427</case>
-         <case>1886883</case>
-         <case>1677616</case>
-         <case>1636933</case>
-         <case>1475255</case>
-         <case>1473780</case>
-         <case>1464308</case>
-         <case>1351419</case>
-         <case>1340396</case>
-         <case>1235464</case>
-         <case>1204541</case>
-         <case>1173314</case>
-         <case>357166</case>
-         <case>324088</case>
-         <case>311602</case>
-         <case>305648</case>
-         <case>294662</case>
-         <case>294661</case>
-         <case>281531</case>
-         <case>272923</case>
-         <case>271181</case>
-         <case>267615</case>
-         <case>256995</case>
-         <case>253161</case>
-         <case>245747</case>
-         <case>1070905</case>
-         <case>1045180</case>
-         <case>1043869</case>
-         <case>1043838</case>
-         <case>820256</case>
-         <case>800884</case>
-         <case>795900</case>
-         <case>790147</case>
-         <case>779294</case>
-         <case>776419</case>
-         <case>762199</case>
-         <case>752345</case>
-         <case>738215</case>
-         <case>732376</case>
-         <case>727692</case>
-         <case>723869</case>
-         <case>716650</case>
-         <case>712919</case>
-         <case>679983</case>
-         <case>609171</case>
-         <case>582907</case>
-         <case>576646</case>
-         <case>551828</case>
-         <case>542949</case>
-         <case>536508</case>
-         <case>534801</case>
-         <case>527790</case>
-         <case>523222</case>
-         <case>504698</case>
-         <case>504377</case>
-         <case>490556</case>
-         <case>478983</case>
-         <case>476641</case>
-         <case>463361</case>
-         <case>449479</case>
-         <case>449263</case>
-         <case>448867</case>
-         <case>446760</case>
-         <case>438792</case>
-         <case>407802</case>
-         <case>406483</case>
-         <case>397388</case>
-         <case>385870</case>
-         <case>382142</case>
-         <case>378896</case>
-         <case>378893</case>
-         <case>378203</case>
-         <case>364044</case>
-         <case>361950</case>
-         <case>360242</case>
-         <case>360240</case>
-         <case>350891</case>
-         <case>350234</case>
-         <case>345756</case>
-         <case>344419</case>
-         <case>340575</case>
-         <case>339944</case>
-         <case>339776</case>
-         <case>339201</case>
-         <case>330765</case>
-         <case>330590</case>
-         <case>326741</case>
-         <case>324692</case>
-         <case>318270</case>
-         <case>317779</case>
-         <case>317262</case>
-         <case>311015</case>
-         <case>307206</case>
-         <case>305216</case>
-         <case>303800</case>
-         <case>302127</case>
-         <case>301254</case>
-         <case>300081</case>
-         <case>297555</case>
-         <case>293858</case>
-         <case>292944</case>
-         <case>291169</case>
-         <case>290014</case>
-         <case>287990</case>
-         <case>286121</case>
-         <case>285485</case>
-         <case>285466</case>
-         <case>277102</case>
-         <case>276628</case>
-         <case>273464</case>
-         <case>272370</case>
-         <case>271046</case>
-         <case>268772</case>
-         <case>268274</case>
-         <case>267864</case>
-         <case>266063</case>
-         <case>263939</case>
-         <case>262762</case>
-         <case>260441</case>
-         <case>257422</case>
-         <case>253486</case>
-         <case>250249</case>
-         <case>248804</case>
-         <case>248648</case>
-         <case>248331</case>
-         <case>246758</case>
-         <case>246668</case>
-         <case>176652</case>
-         <case>162814</case>
-         <case>152423</case>
-         <case>117872</case>
-         <case>112570</case>
-         <case>111893</case>
-         <case>110318</case>
-         <case>109635</case>
-         <case>109300</case>
-         <case>108605</case>
-         <case>108596</case>
-         <case>108025</case>
-         <case>107939</case>
-         <case>107687</case>
-         <case>107686</case>
-         <case>107277</case>
-         <case>107249</case>
-         <case>107248</case>
-         <case>107121</case>
-         <case>106792</case>
-         <case>106283</case>
-         <case>106146</case>
-         <case>106057</case>
-         <case>105901</case>
-         <case>105848</case>
-         <case>105679</case>
-         <case>105661</case>
-         <case>78468</case>
-         <case>68748</case>
-         <case>15305</case>
-         <case>15304</case>
-         <case>14433</case>
-      </cited_by>
-      <precedential_status>Published</precedential_status>
-      <download_url/>
-      <source>lawbox merged with resource.org</source>
-   </metadata>
-   <body>
-      <span class="citation no-link">
-         <span class="volume">356</span> 
-         <span class="reporter">U.S.</span> 
-         <span class="page">165</span>
-      </span> (1958)
-GREEN ET AL.
-v.
-UNITED STATES.
-No. 100.
-<p>Supreme Court of United States.</p>
-Argued October 21, 1957.
-Decided March 31, 1958.
-CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SECOND CIRCUIT.
-<p>
-         <span class="star-pagination">*166</span> John J. Abt argued the cause and filed a brief for petitioners.</p>
-      <p>Ralph S. Spritzer argued the cause for the United States. With him on the brief were Solicitor General Rankin, Assistant Attorney General Tompkins, Philip R. Monahan and Jerome L. Avedon.</p>
-      <p>
-         <span class="star-pagination">*167</span> MR. JUSTICE HARLAN delivered the opinion of the Court.</p>
-      <p>Petitioners are two of eleven defendants who were convicted in the Southern District of New York in 1949 of conspiring to teach and advocate the violent overthrow of the Government in violation of the Smith Act, 54 Stat. 670, 671, 18 U. S. C. §§ 371, 2385. Their convictions, each carrying a $10,000 fine and five years' imprisonment, were affirmed by this Court on June 4, 1951, in Dennis v. United States, 341 U. S. 494. After their convictions, petitioners had been enlarged on bail, and following the affirmance, the United States Attorney served counsel for the petitioners on June 28, 1951, with copies of a proposed order on mandate requiring petitioners to surrender to the United States Marshal on July 2 for the execution of their sentences, and with a notice that such order would be presented to the District Court for signature on the indicated day of surrender. Petitioners were thereupon informed by their counsel that their presence in court would be required on July 2. Both, however, disappeared from their homes, failed to appear in court when the surrender order was signed on July 2, and remained fugitives for more than four and a half years. Ultimately both voluntarily surrendered to the United States Marshal in New York, Green on February 27, 1956, and Winston on March 5, 1956.</p>
-      <p>Shortly thereafter, the United States instituted criminal contempt proceedings against the petitioners in the District Court for willful disobedience of the surrender order in violation of 18 U. S. C. § 401 (see p. 168, infra). Pursuant to Rule 42 (b) of the Federal Rules of Criminal Procedure, these proceedings were tried to the court without a jury.<span class="sup">[1]</span> Following a hearing, the court found <span class="star-pagination">*168</span> petitioners guilty of the contempts charged and sentenced each to three years' impris317263</case>
+         <case>1690384</case>
+         <case>1681413</case>
+         <case>1629749</case>
+         <case>1625314</case>
+         <case>1591621</case>
+         <case>1572861</case>
+         <case>1563959</case>
+         <case>1551266</case>
+         <case>1530591</case>
+         <case>1518571</case>
+         <case>1505170</case>
+         <case>1488009</case>
+         <case>1476426</case>
+         <case>1434004</case>
+         <case>1406342</case>
+         <case>1399729</case>
+         <case>1394902</case>
+         <case>1387064</case>
+         <case>1383929</case>
+         <case>1358379</case>
+         <case>1340410</case>
+         <case>1280727</case>
+         <case>1277221</case>
+         <case>1275481</case>
+         <case>1270323</case>
+         <case>1267090</case>
+         <case>1253285</case>
+         <case>1238939</case>
+         <case>1235071</case>
+         <case>1232857</case>
+         <case>1207005</case>
+         <case>1206366</case>
+         <case>1203068</case>
+         <case>1195124</case>
+         <case>1194892</case>
+         <case>1178322</case>
+         <case>1176187</case>
+         <case>1173425</case>
+         <case>1167554</case>
+         <case>1165515</case>
+         <case>1162730</case>
+         <case>1161062</case>
+         <case>1156709</case>
+         <case>1155457</case>
+         <case>1133622</case>
+         <case>1133523</case>
+         <case>1129297</case>
+         <case>1119092</case>
+         <case>1118297</case>
+         <case>1113464</case>
+         <case>1100871</case>
+         <case>1097828</case>
+         <case>1091964</case>
+         <case>1087956</case>
+         <case>1060864</case>
+         <case>900941</case>
+         <case>900693</case>
+         <case>900601</case>
+         <case>900315</case>
+         <case>900338</case>
+         <case>867549</case>
+         <case>303419</case>
+         <case>286950</case>
+         <case>48706</case>
+         <case>1085420</case>
+         <case>1084995</case>
+         <case>1067783</case>
+         <case>1063385</case>
+         <case>1060419</case>
+         <case>1059169</case>
+         <case>1058176</case>
+         <case>1057134</case>
+         <case>1046133</case>
+         <case>1042115</case>
+         <case>891474</case>
+         <case>878443</case>
+         <case>877465</case>
+         <case>876694</case>
+         <case>876202</case>
+         <case>867414</case>
+         <case>867277</case>
+         <case>864993</case>
+         <case>864774</case>
+         <case>859213</case>
+         <case>858974</case>
+         <case>854182</case>
+         <case>853470</case>
+         <case>853148</case>
+         <case>852517</case>
+         <case>852104</case>
+         <case>852025</case>
+         <case>844263</case>
+         <case>822660</case>
+         <case>821245</case>
+         <case>808783</case>
+         <case>803271</case>
+         <case>802973</case>
+         <case>797890</case>
+         <case>796271</case>
+         <case>794467</case>
+         <case>793099</case>
+         <case>792088</case>
+         <case>790029</case>
+         <case>789653</case>
+         <case>789020</case>
+         <case>788905</case>
+         <case>787368</case>
+         <case>787344</case>
+         <case>786083</case>
+         <case>780887</case>
+         <case>780499</case>
+         <case>780117</case>
+         <case>779712</case>
+         <case>779213</case>
+         <case>778694</case>
+         <case>777875</case>
+         <case>776953</case>
+         <case>776853</case>
+         <case>775015</case>
+         <case>756528</case>
+         <case>751112</case>
+         <case>748625</case>
+         <case>747610</case>
+         <case>745442</case>
+         <case>744597</case>
+         <case>744160</case>
+         <case>739338</case>
+         <case>733319</case>
+         <case>724945</case>
+         <case>719596</case>
+         <case>718323</case>
+         <case>716733</case>
+         <case>715843</case>
+         <case>713093</case>
+         <case>713061</case>
+         <case>696282</case>
+         <case>688188</case>
+         <case>686752</case>
+         <case>681325</case>
+         <case>678567</case>
+         <case>672922</case>
+         <case>670705</case>
+         <case>666941</case>
+         <case>664725</case>
+         <case>664623</case>
+         <case>663963</case>
+         <case>659878</case>
+         <case>624987</case>
+         <case>620055</case>
+         <case>608748</case>
+         <case>596955</case>
+         <case>584280</case>
+         <case>584262</case>
+         <case>581383</case>
+         <case>578192</case>
+         <case>567270</case>
+         <case>565638</case>
+         <case>565227</case>
+         <case>564808</case>
+         <case>561257</case>
+         <case>560416</case>
+         <case>558585</case>
+         <case>555129</case>
+         <case>554023</case>
+         <case>551359</case>
+         <case>548437</case>
+         <case>544257</case>
+         <case>538237</case>
+         <case>537821</case>
+         <case>534844</case>
+         <case>529726</case>
+         <case>528300</case>
+         <case>525602</case>
+         <case>524196</case>
+         <case>522881</case>
+         <case>521606</case>
+         <case>514780</case>
+         <case>513977</case>
+         <case>513969</case>
+         <case>510971</case>
+         <case>505843</case>
+         <case>504472</case>
+         <case>498148</case>
+         <case>496812</case>
+         <case>490012</case>
+         <case>488138</case>
+         <case>483863</case>
+         <case>476906</case>
+         <case>470037</case>
+         <case>470010</case>
+         <case>469867</case>
+         <case>464658</case>
+         <case>461279</case>
+         <case>461278</case>
+         <case>459883</case>
+         <case>457158</case>
+         <case>456382</case>
+         <case>451897</case>
+         <case>447905</case>
+         <case>445494</case>
+         <case>442090</case>
+         <case>441813</case>
+         <case>441777</case>
+         <case>440392</case>
+         <case>440091</case>
+         <case>437253</case>
+         <case>429592</case>
+         <case>425963</case>
+         <case>423648</case>
+         <case>422241</case>
+         <case>420928</case>
+         <case>415359</case>
+         <case>415253</case>
+         <case>412118</case>
+         <case>409392</case>
+         <case>406694</case>
+         <case>406187</case>
+         <case>404985</case>
+         <case>398696</case>
+         <case>398641</case>
+         <case>391181</case>
+         <case>387937</case>
+         <case>379128</case>
+         <case>377861</case>
+         <case>373003</case>
+         <case>369396</case>
+         <case>367000</case>
+         <case>366376</case>
+         <case>363504</case>
+         <case>358852</case>
+         <case>357906</case>
+         <case>357262</case>
+         <case>355955</case>
+         <case>355911</case>
+         <case>354174</case>
+         <case>351737</case>
+         <case>350001</case>
+         <case>348619</case>
+         <case>343592</case>
+         <case>342252</case>
+         <case>340064</case>
+         <case>339856</case>
+         <case>336393</case>
+         <case>336337</case>
+         <case>332972</case>
+         <case>332442</case>
+         <case>332213</case>
+         <case>331278</case>
+         <case>330656</case>
+         <case>330586</case>
+         <case>328969</case>
+         <case>328698</case>
+         <case>328655</case>
+         <case>327672</case>
+         <case>326070</case>
+         <case>323432</case>
+         <case>321970</case>
+         <case>319903</case>
+         <case>317263</case>
          <case>316964</case>
          <case>316658</case>
          <case>316233</case>
@@ -583,137 +656,6 @@ CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SECOND CIRCUIT.
       <p>[5]  There is no basis for finding that the Congress that enacted this provision regarded it otherwise than as part of the clearly nonpenal scheme of "acts of expatriation" represented by § 401 of the Nationality Act of 1940, supra.</p>
       <p>[6]  In the United States, denaturalization is based exclusively on the theory that the individual obtained his citizenship by fraud, see Luria v. United States, 231 U. S. 9, 24; the laws of many countries making naturalized citizens subject to expatriation for grounds not applicable to natural-born citizens do not relate those grounds to the actual naturalization process. E. g., British Nationality Act, 1948, 11 &amp;amp; 12 Geo. VI, c. 56, § 20 (3).</p>
       <p>[7]  See note 2, supra.</p>
-
-   </body>
-</opinion>
- at that time that their presence was required in court yesterday morning?</p>
-      <p>"Mr. Sacher: Definitely. As a matter of fact I advised that because I think I saw them among other defendants after I had been here on Friday, your Honor, and had made these motions [apparently referring to counsel's efforts to postpone the surrender date until after July 4], and therefore I advised that they all should be present and I was assured they would be.</p>
-      <p>.....</p>
-      <p>"The Court: Mr. Isserman, do you know where any of these defendants are?</p>
-      <p>"Mr. Isserman: I might say to the Court that I would not rest on privilege in this situation at all. I have no knowledge of the present whereabouts of any of these defendants. . . . I remember, Green being my client, I remember distinctly that I saw him on that day [June 29] and received from him the assurance that he would be here Monday morning [July 2]."</p>
-      <p>[7]  Excerpts from Green's press release:
-</p>
-      <p>"On Monday, February 27th at 12 noon I shall cease being a fugitive from injustice and instead become its prisoner. At that time, I shall appear at Foley Square. . . . The course I chose five years ago was not dictated by personal considerations. In many ways it was harsher than that of imprisonment. . . . [I]t seemed incumbent upon me to resist that trend [i.e. to `an American brand of fascism'] with every ounce of strength I possessed. Some could do so by going to jail; others by not. . . . I enter prison with head high and conscience clear." (Italics added.)</p>
-      <p>Excerpts from Winston's press release:</p>
-      <p>"Reiterating my innocence, and protesting the flagrant miscarriage of justice in my case, I now enter prison . . . . I shall appear this coming Monday, March 5th, 12:30 p. m., at the U. S. Marshal's Office in Foley Square." (Italics added.)</p>
-      <p>[8]  The substance of §§ 21 and 22 was that one charged with the commission of acts constituting willful disobedience to a lawful court order could demand a trial by jury if (§ 21) ". . . the act or thing so done by him be of such character as to constitute also a criminal offense under any statute of the United States, or under the laws of any State in which the act was committed . . . ." Section 22 provided that the jury trial ". . . shall conform, as near as may be, to the practice in criminal cases prosecuted by indictment or upon information."</p>
-      <p>[9]  This section excluded from the Act, inter alia, contempts committed by disobedience to any court order entered in any suit or action ". . . brought or prosecuted in the name of, or on behalf of, the United States . . . ."</p>
-      <p>[10]  At the present time, 18 U. S. C. § 402 contains the definitional provision formerly in § 21 of the Clayton Act and expressly refers to 18 U. S. C. § 3691, which provides that contempts falling within this definition are subject to trial by jury.</p>
-      <p>[11]  Petitioners have shown us no federal decision which intimates any constitutional or common-law restriction on the power of federal courts to sentence for over one year. As stated by the Court of Appeals in the present case, 241 F. 2d, at 634, ". . . there is not in the books a syllable of recognition of any such supposed limitation." Under English law contempt sentences were not subject to any statutory limit. See Fox, Eccentricities of the Law of Contempt of Court, 36 L. Q. Rev. 394, 398.</p>
-      <p>[12]  See p. 182, infra.</p>
-      <p>[13]  Hill v. United States ex rel. Weiner, 300 U. S. 105; United States v. Brown, 247 F. 2d 332 (2d Cir.); Lopiparo v. United States, 216 F. 2d 87 (8th Cir.); United States v. Thompson, 214 F. 2d 545 (2d Cir.); United States v. Hall, 198 F. 2d 726 (2d Cir.); United States ex rel. Brown v. Lederer, 140 F. 2d 136 (7th Cir.); Warring v. Huff, 74 U. S. App. D. C. 302, 122 F. 2d 641 (D. C. Cir.); Conley v. United States, 59 F. 2d 929 (8th Cir.); Creekmore v. United States, <span class="citation no-link">
-            <span class="volume">237</span> 
-            <span class="reporter">F.</span> 
-            <span class="page">743</span>
-         </span> (8th Cir.).</p>
-      <p>[14]  The following are the major opinions of this Court which have discussed the relationship between criminal contempts and jury trial and have concluded or assumed that criminal contempts are not subject to jury trial under Art. III, § 2, or the Sixth Amendment: Savin, Petitioner, 131 U. S. 267, 278; Eilenbecker v. District Court of Plymouth County, 134 U. S. 31, 36-39; Interstate Commerce Commission v. Brimson, 154 U. S. 447, 489; In re Debs, 158 U. S. 564, 594-596; Bessette v. W. B. Conkey Co., 194 U. S. 324, 336-337; Gompers v. United States, 233 U. S. 604, 610-611; Ex parte Hudgings, 249 U. S. 378, 383; Michaelson v. United States, 266 U. S. 42, 67; United States v. United Mine Workers, 330 U. S. 258, 298. Although the statements contained in these cases, with few exceptions, are broadly phrased and do not refer to particular categories of criminal contempts, several of the cases involved review of contempt convictions arising out of disobedience to court orders. See in particular In re Debs, Gompers v. United States, and United States v. United Mine Workers.
-</p>
-      <p>For more general statements of the nature of the contempt power and its indispensability to federal courts, see United States v. Hudson, 7 Cranch 32, 34; Ex parte Robinson, <span class="citation no-link">
-            <span class="volume">19</span> 
-            <span class="reporter">Wall.</span> 
-            <span class="page">505</span>
-         </span>, 510; Ex parte Terry, 128 U. S. 289, 302-304; Bessette v. W. B. Conkey Co., supra, at 326; Myers v. United States, 264 U. S. 95, 103; Michaelson v. United States, supra, at 65-66.</p>
-      <p>[15]  See, e. g., Cooke v. United States, 267 U. S. 517, 537 (compulsory process and assistance of counsel); Gompers v. United States, 233 U. S. 604, 611-612 (benefit of a statute of limitations generally governing crimes); Gompers v. Bucks Stove &amp;amp; Range Co., 221 U. S. 418, 444 (proof of guilt beyond a reasonable doubt and freedom from compulsion to testify).</p>
-      <p>[16]  "The Trial of all Crimes, except in Cases of Impeachment, shall be by Jury . . . ."</p>
-      <p>[17]  "In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the State and district wherein the crime shall have been committed . . . ."</p>
-      <p>[18]  Petitioners derive their argument as to historical error from the writings of Sir John Charles Fox. However, Fox's major effort was to show that a statement in an unpublished opinion by Wilmot, J., in The King v. Almon (1765), to the effect that summary punishment for contempts committed out of court stood upon "immemorial usage," was based on an erroneous interpretation of earlier law as applied to the case before him, namely, contempt by libel on the court by a stranger to court proceedings. See Fox, The King v. Almon (Parts I and II), 24 L. Q. Rev. 184, 266; Fox, The History of Contempt of Court (1927), 5-43. That contempts committed in the view of the court were at an early date dealt with summarily is not disputed by Fox. The History of Contempt of Court, supra, at 50. Insofar as Fox discusses contempts out of court by disobedience to court orders, it is not clear whether the author contends that such contempts were tried at early English law under summary procedures only for civil coercive purposes, or for criminal, punitive purposes as well. Cf. The King v. Almon, supra, at 188, 277-278; and Fox, The Summary Process to Punish Contempt (Parts I and II), 25 L. Q. Rev. 238, 354, with The King v. Almon, at 195, 276; The Summary Process to Punish Contempt, at 249; and The History of Contempt of Court, supra, at 108-110. See also Beale, Contempt of Court, 21 Harv. L. Rev. 161, 164, 169-171. Fox concludes that by the mid-Seventeenth or early Eighteenth Century, a variety of contempts committed outside of court were subject to punishment by the exercise of a court's summary jurisdiction. The Summary Process to Punish Contempts, supra, at 252, 366, 370-371. It appears that under present English law disobedience to court process is but one of the many categories of contempts of court which are dealt with summarily. 8 Halsbury, Laws of England (3d ed. 1954), 3-4, 25-26; 1 Russell, Crime (10th ed. 1950), 329-330.</p>
-      <p>[19]  See 18 U. S. C. § 402, supra, note 10; 18 U. S. C. § 3692 (jury trial for contempts based on violation of injunctions in cases involving labor disputes); § 151, 71 Stat. 638, 42 U. S. C. A. § 1995 (right to jury trial under provisions of the Civil Rights Act of 1957 in limited circumstances in cases of criminal contempts).</p>
-      <p>[20]  This holding makes unnecessary consideration of petitioners' argument based on Rule 7 of the Federal Rules of Criminal Procedure, which falls with their constitutional argument. Rule 7 refers to criminal offenses, that is "crimes" in the constitutional sense. Criminal contempts are governed by Rule 42.</p>
-      <p>[1]  Oliver Ellsworth, Chairman, William Paterson, Caleb Strong, Richard Bassett, William Few. 1 Annals of Cong. 17.</p>
-      <p>[2]  Ex parte Kearney, 7 Wheat, 38; In re Chiles, <span class="citation">
-            <a href="/scotus/sty/in-re-chiles/">
-               <span class="volume">22</span> 
-               <span class="reporter">Wall.</span> 
-               <span class="page">157</span>
-            </a>
-         </span>; Ex parte Terry, 128 U. S. 289; In re Savin, 131 U. S. 267; In re Cuddy, 131 U. S. 280; In re Swan, 150 U. S. 637; In re Debs, 158 U. S. 564; Brown v. Walker, 161 U. S. 591; In re Lennon, 166 U. S. 548; Bessette v. W. B. Conkey Co., 194 U. S. 324; Nelson v. United States, 201 U. S. 92; United States v. Shipp, 203 U. S. 563, 214 U. S. 386; Ex parte Young, 209 U. S. 123; Toledo Newspaper Co. v. United States, 247 U. S. 402; Blair v. United States, 250 U. S. 273; Craig v. Hecht, 263 U. S. 255; Brown v. United States, 276 U. S. 134; Sinclair v. United States, 279 U. S. 749; Blackmer v. United States, 284 U. S. 421; Clark v. United States, 289 U. S. 1; United States v. United Mine Workers, 330 U. S. 258; Rogers v. United States, 340 U. S. 367; Sacher v. United States, 343 U. S. 1; Nilva v. United States, 352 U. S. 385; Yates v. United States, 355 U. S. 66.
-</p>
-      <p>In the following cases the Court, although refusing to sustain contempt convictions for other reasons, took for granted trial by the court without a jury: Ex parte Robinson, <span class="citation no-link">
-            <span class="volume">19</span> 
-            <span class="reporter">Wall.</span> 
-            <span class="page">505</span>
-         </span>; In re Burrus, 136 U. S. 586; Wilson v. North Carolina, 169 U. S. 586; In re Watts, 190 U. S. 1; Baglin v. Cusenier Co., 221 U. S. 580; Gompers v. Bucks Stove &amp;amp; Range Co., 221 U. S. 418; Ex parte Hudgings, 249 U. S. 378; Cooke v. United States, 267 U. S. 517; Nye v. United States, 313 U. S. 33; Pendergast v. United States, 317 U. S. 412; United States v. White, 322 U. S. 694; In re Michael, 326 U. S. 224; Blau v. United States, 340 U. S. 332; Hoffman v. United States, 341 U. S. 479; Cammer v. United States, 350 U. S. 399.</p>
-      <p>The materials on the basis of which this unbroken course of adjudication is proposed to be reversed have in fact been known in this country for almost half a century and were available to the Justices who participated in many of these decisions. The first of the studies of criminal contempt by Sir John Charles Fox, The King v. Almon, 24 Law Q. Rev. 184, appeared in 1908, and the results of the research of Solly-Flood were published as early as 1886. The Story of Prince Henry of Monmouth and Chief-Justice Gascoign, 3 Transactions of the Royal Historical Society (N. S.) 47. Mr. Justice Holmes, writing for the Court in Gompers v. United States, 233 U. S. 604 (1914), noted the work of Solly-Flood. He observed that: "It does not follow that contempts of the class under consideration are not crimes, or rather, in the language of the statute, offenses, because trial by jury as it has been gradually worked out and fought out has been thought not to extend to them as a matter of constitutional right. These contempts are infractions of the law, visited with punishment as such. If such acts are not criminal, we are in error as to the most fundamental characteristic of crimes as that word has been understood in English speech. So truly are they crimes that it seems to be proved that in the early law they were punished only by the usual criminal procedure, 3 Transactions of the Royal Historical Society, N. S. p. 147 (1885), and that at least in England it seems that they still may be and preferably are tried in that way." 233 U. S., at 610-611.</p>
-      <p>[3]  Beginning with Ex parte Robinson, <span class="citation no-link">
-            <span class="volume">19</span> 
-            <span class="reporter">Wall.</span> 
-            <span class="page">505</span>
-         </span>, and In re Chiles, <span class="citation">
-            <a href="/scotus/sty/in-re-chiles/">
-               <span class="volume">22</span> 
-               <span class="reporter">Wall.</span> 
-               <span class="page">157</span>
-            </a>
-         </span>, this list includes every Justice who sat on the Court since 1874, with the exception of Mr. Justice Woods (1881-1887), and Mr. Justice Byrnes (1941-1942).</p>
-      <p>[4]  "We do not write on a blank sheet. The Court has its jurisprudence, the helpful repository of the deliberate and expressed convictions of generations of sincere minds addressing themselves to exposition and decision, not with the freedom of casual critics or even of studious commentators, but under the pressure and within the limits of a definite official responsibility." Chief Justice Hughes speaking on the occasion of the 150th anniversary of the Court. 309 U. S. XIV.</p>
-      <p>[1]  The term "summary proceeding" (or "summary trial") is used in its ordinary sense to refer to a "form of trial in which the ancient established course of legal proceedings is disregarded, especially in the matter of trial by jury, and, in the case of the heavier crimes, presentment by a grand jury." 3 Bouvier's Law Dictionary (8th ed. 1914) 3182. Of course as the law now stands contempts committed in the presence of the judge may be punished without any hearing or trial at all, summary or otherwise. For a flagrant example see Sacher v. United States, 343 U. S. 1.</p>
-      <p>[2]  State ex rel. Ashbaugh v. Circuit Court, <span class="citation no-link">
-            <span class="volume">97</span> 
-            <span class="reporter">Wis.</span> 
-            <span class="page">1</span>
-         </span>, 8, 72 N. W. 193, 194-195.</p>
-      <p>[3]  The precedents are adequately collected in note 14 of the Court's opinion.
-</p>
-      <p>Much of what is said in this opinion is equally applicable to contempts committed in the presence of the court. My opposition to summary punishment for those contempts was fully set forth in my dissent in Sacher v. United States, 343 U. S. 1, 14.</p>
-      <p>[4]  "I . . . am quite willing that it be regarded hereafter as the law of this court, that its opinion upon the construction of the Constitution is always open to discussion when it is supposed to have been founded in error, and that its judicial authority should hereafter depend altogether on the force of the reasoning by which it is supported." Chief Justice Taney, Passenger Cases, <span class="citation no-link">
-            <span class="volume">7</span> 
-            <span class="reporter">How.</span> 
-            <span class="page">283</span>
-         </span>, 470 (dissenting opinion).</p>
-      <p>[5]  Frankfurter and Landis, Power to Regulate Contempts, 37 Harv. L. Rev. 1010, 1011.
-</p>
-      <p>It also seems significant that the initial decisions by this Court actually upholding the power of the federal courts to punish contempts by summary process were not made until as late as the final decades of the last century, almost a full century after the adoption of the Constitution. Since that time the power has been vigorously challenged on a number of occasions. See, e. g., Toledo Newspaper Co. v. United States, 247 U. S. 402, 425 (dissenting opinion); Sacher v. United States, 343 U. S. 1, 14 (dissenting opinion). Within the past few years there has been a tendency on the part of this Court to restrict the substantive scope of the contempt power to narrower bounds than had been formerly thought to exist. See, e. g., Nye v. United States, 313 U. S. 33; Bridges v. California, 314 U. S. 252; In re Michael, 326 U. S. 224; Cammer v. United States, 350 U. S. 399. Cf. In re Oliver, 333 U. S. 257. In substantial part this is attributable to a deeply felt antipathy toward the arbitrary procedures now used to punish contempts.</p>
-      <p>[6]  Perhaps the classic example is the much criticized decision in In re Debs, 158 U. S. 564. For some of the milder comment see Lewis, A Protest Against Administering Criminal Law by Injunction&#x97; The Debs Case, 42 Am. L. Reg. 879; Lewis, Strikes and Courts of Equity, 46 Am. L. Reg. 1; Dunbar, Government by Injunction, 13 L. Q. Rev. 347; Gregory, Government by Injunction, 11 Harv. L. Rev. 487.</p>
-      <p>[7]  E. g., see Beauharnais v. Illinois, 343 U. S. 250; Perez v. Brownell, ante, p. 44.</p>
-      <p>[8]  A series of recent cases in this Court alone indicates that the personal emotions or opinions of judges often become deeply involved in the punishment of an alleged contempt. See, e. g., Fisher v. Pace, 336 U. S. 155; Sacher v. United States 343 U. S. 1; Offutt v. United States, 348 U. S. 11; Nilva v. United States, 352 U. S. 385; Yates v. United States, 355 U. S. 66.</p>
-      <p>[9]  Oswald, Contempt of Court (3d ed. 1911), 6.</p>
-      <p>[10]  See pp. 202-213, infra.</p>
-      <p>[11]  In accordance with established usage 18 U. S. C. § 1 defines a felony as any "offense punishable by death or imprisonment for a term exceeding one year." By this standard the offense of contempt is not only a crime, but a felony&#x97;a crime of the gravest and most serious kind.
-</p>
-      <p>Of course if the maximum punishment for criminal contempt were sufficiently limited that offense might no longer fall within the category of "crimes"; instead it might then be regarded, in the light of our previous decisions, as a "petty" or "minor" offense for which the defendant would not necessarily be entitled to trial by jury. See District of Columbia v. Clawans, 300 U. S. 617; Callan v. Wilson, 127 U. S. 540.</p>
-      <p>[12]  Cf. New Orleans v. Steamship Co., <span class="citation">
-            <a href="/scotus/srz/new-orleans-v-steamship-co/">
-               <span class="volume">20</span> 
-               <span class="reporter">Wall.</span> 
-               <span class="page">387</span>
-            </a>
-         </span>, 392 ("Contempt of court is a specific criminal offence."). And see Michaelson v. United States ex rel. Chicago, St. P., M. &amp;amp; O. R. Co., 266 U. S. 42, 66-67; Pendergast v. United States, 317 U. S. 412, 417-418.
-</p>
-      <p>"Since a charge of criminal contempt is essentially an accusation of crime, all the constitutional safeguards available to an accused in a criminal trial should be extended to prosecutions for such contempt." Frankfurter and Greene, The Labor Injunction, 226.</p>
-      <p>[13]  18 U. S. C. § 3146.</p>
-      <p>[14]  One scholar has argued that even contempts in the face of the courts were tried by jury after indictment by grand jury until the reign of Elizabeth I. Solly-Flood, Prince Henry of Monmouth and Chief Justice Gascoign, 3 Transactions of the Royal Historical Society (N. S.) 47. Although agreeing that contempts in facie were often tried by a jury up to and beyond this period, Fox takes the view that such contempts were also punishable by summary procedures from the early common law.</p>
-      <p>[15]  In passing it is interesting to note that even Wilmot felt obliged to bolster his position by pointing to the fact that a defendant, under a notion then prevalent, could exonerate himself from a charge of contempt by fully denying the charges under oath. In this event he could only be prosecuted for false swearing in which case he was entitled, as Wilmot elaborately observes, to trial by jury. See Curtis and Curtis, The Story of a Notion in the Law of Criminal Contempt, 41 Harv. L. Rev. 51.</p>
-      <p>[16]  Fox, The History of Contempt of Court, VII.</p>
-      <p>[17]  Id., at 116-117. See also, id., at 3-4, 13, 54-55, 71-72, 89.</p>
-      <p>[18]  Power to Regulate Contempts, 37 Harv. L. Rev. 1010, 1042, 1046.</p>
-      <p>[19]  Contempt of Court, Criminal and Civil, 21 Harv. L. Rev. 161, 169-170, 174.</p>
-      <p>[20]  See United States v. Thompson, 214 F. 2d 545; United States v. Hall, 198 F. 2d 726.</p>
-      <p>[21]  Although records of the colonial era are extremely fragmentary and inaccessible apparently such contempts as existed were not the subject of major punishment in that period. From the scattered reported cases it appears that alleged offenders were let off after an apology, a reprimand or a small fine or other relatively slight punishment. I have found no instance where anyone was unconditionally imprisoned for even a term of months, let alone years, during that era when extremely harsh penalties were otherwise commonplace.</p>
-      <p>[22]  The following are merely random samples of important and far-reaching federal regulatory Acts now in effect under which a violation of any provision of the Act is not only a statutory crime punishable as such but also may be enjoined at the Government's request and punished as a criminal contempt by summary process if the injunction is disobeyed. Securities Exchange Act, 48 Stat. 900, 15 U. S. C. § 78u; Natural Gas Act, 52 Stat. 832, 15 U. S. C. § 717s; Fair Labor Standards Act, 52 Stat. 1069, 29 U. S. C. § 217; Atomic Energy Act, 68 Stat. 959, 42 U. S. C. (Supp. IV) § 2280; Federal Communications Act, 48 Stat. 1092, 47 U. S. C. § 401; Defense Production Act of 1950, 64 Stat. 817, 50 U. S. C. App. § 2156.</p>
-      <p>[23]  As early as 1765 delegates from nine colonies meeting in New York declared in a Declaration of Rights that trial by jury was the "inherent and invaluable right" of every colonial. 43 Harvard Classics 147, 148.</p>
-      <p>[24]  In 1775 Jefferson protested: "[Parliament has] extended the jurisdiction of the courts of admiralty beyond their antient limits thereby depriving us of the inestimable right of trial by jury in cases affecting both life and property and subjecting both to the decision arbitrary decision [sic] of a single and dependent judge." 2 Journals of the Continental Congress (Ford ed.) 132.</p>
-      <p>[25]  Although Section 17 of the Judiciary Act of 1789, 1 Stat. 73, 83, authorized the federal courts to punish contempts "in any cause or hearing before the same," it did not, as this Court has pointed out, define what were contempts or prescribe the method of punishing them. Savin, Petitioner, 131 U. S. 267, 275. Section 17, which contains a number of other provisions, appears to have been a comparatively insignificant provision of the judicial code enacted by the Congress without material discussion in the midst of 34 other sections, many of which were both extremely important and highly controversial.</p>
-      <p>[26]  See, e. g., 4 Blackstone's Commentaries 1-6, 119-126, 280-287. Also pertinent here is Blackstone's oft-quoted laudation of trial by jury "as the glory of the English law . . . . [I]t is the most transcendent privilege which any subject can enjoy, or wish for, that he cannot be affected either in his property, his liberty, or his person, but by the unanimous consent of twelve of his neighbours and equals." 3 id., at 379.</p>
-      <p>[27]  See, e. g., 1 Hawkins, Please of the Crown (6th ed. 1787), 87.</p>
-      <p>[28]  Baldwin, The American Judiciary, 14.
-</p>
-      <p>"After the Revolution the public was extremely hostile to England and to all that was English and it was impossible for the common law to escape the odium of its English origin." Pound, The Spirit of the Common Law, 116. And see Warren, History of the American Bar, 224-228.</p>
-      <p>[29]  In 1804 the Chief Justice and two Associate Justices of the Pennsylvania Supreme Court were actually impeached for sentencing a person to jail for contempt. In part the impeachment rested on the feeling that punishment of contempt by summary process was an arbitrary practice of the common law unsuited to this country. While the Justices were narrowly acquitted this apparently only aggravated popular antagonism toward the contempt power. See 3 McMaster, History of the People of the United States (1938 ed.), 153-162.</p>
-      <p>[30]  1 Works of Edward Livingston 264.</p>
-      <p>[31]  See, e. g., Sunderland, Trial by Jury, 11 Univ. of Cin. L. Rev. 119, 120; Hartshorne, Jury Verdicts: A Study of Their Characteristics and Trends, 35 A. B. A. J. 113.</p>
-      <p>[32]  See Ex parte Milligan, <span class="citation no-link">
-            <span class="volume">4</span> 
-            <span class="reporter">Wall.</span> 
-            <span class="page">2</span>
-         </span>, 122-123; Thompson v. Utah, 170 U. S. 343, 349-350; Dimick v. Schiedt, 293 U. S. 474, 485-486; United States ex rel. Toth v. Quarles, 350 U. S. 11, 16, 18-19; The Federalist, No. 83 (Hamilton); 2 Story, Commentaries on the Constitution of the United States, 544; 2 Wilson's Works (Andrews ed. 1896) 222.</p>
-      <p>[33]  Again this case aptly demonstrates the point. Here the defendants surrendered several years after they had been ordered to appear and serve their sentences. There was no reason for urgent action to punish them for their absence, there was ample time to impanel a jury and prosecute them in the regular manner. As a matter of fact almost a month and a half did elapse between their surrender and trial.
-</p>
-      <p>Alleged contempts committed beyond the court's presence where the judge has no personal knowledge of the material facts are especially suited for trial by jury. A hearing must be held, witnesses must be called, and evidence taken in any event. Cf. Cooke v. United States, 267 U. S. 517. And often, as in this case, crucial facts are in close dispute.</p>
-      <p>I might add, at this point, that MR. JUSTICE BRENNAN has forcefully demonstrated, in my judgment, that the evidence in this case was wholly insufficient to prove a crucial element of the offense charged&#x97;namely, notice of the surrender order.</p>
-      <p>[34]  38 Stat. 738-739, as amended, 18 U. S. C. §§ 402, 3691.</p>
-      <p>[35]  47 Stat. 72, 18 U. S. C. § 3692.</p>
-      <p>[36]  Arizona, Rev. Stat. Ann., 1956, § 12-863; Georgia, Code Ann., 1935, § 24-105; Kentucky, Rev. Stat. Ann., 1955, § 432.260; Oklahoma, Stat. Ann., 1936, Tit. 21, § 567; Pennsylvania, Purdon's Stat. Ann., 1930 (Cum. Ann. Pocket Pt. 1957), Tit. 17, § 2047.</p>
-      <p>[37]  See Brown, Whence Come These Sinews? 12 Wyo. L. J. 22.</p>
 
    </body>
 </opinion>

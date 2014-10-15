@@ -4,7 +4,7 @@
     exclude-result-prefixes="xs"
     version="2.0">
     <xsl:template match="opinion">
-        <xsl:result-document indent="yes" href="{concat('opinions_name/', @date_filed,'.xml')}">
+        <xsl:result-document indent="yes" href="{concat('opinions_name/', @date_filed, @id,'.xml')}">
         <opinion>
             <metadata>
                 <case_name><xsl:apply-templates select="@case_name"></xsl:apply-templates></case_name>
