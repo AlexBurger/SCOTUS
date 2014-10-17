@@ -1,0 +1,25 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+start = opinion
+opinion = element opinion {metadata, body}
+
+metadata = element metadata {case_name, id, date_filed, judges, nature_of_suit, citation, federal_cite_one, cited_by, precedential_status, download_url, source}
+case_name = element case_name {text}
+id = element id {xsd:int}
+date_filed = element date_filed {text}
+judges = element judges {text}
+nature_of_suit = element nature_of_suit {text}
+citation = element citation {volume, reporter, page, lexis_cite}
+volume = element volume {xsd:int}
+reporter = element reporter {"U.S."}
+page = element page {xsd:int}
+lexis_cite = element lexis_cite {text}
+federal_cite_one = element federal_cite_one {text}
+cited_by = element date_filed {case*}
+case = element case {xsd:int}
+precedential_status = element precedential_status {text}
+source = element source {text}
+
+body = element body {div*, span*, p+}
+
+reference = element reference {paper_number, judge, 
