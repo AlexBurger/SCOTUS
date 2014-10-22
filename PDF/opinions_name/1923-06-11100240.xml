@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opinion>
+   <metadata>
+      <case_name>Massachusetts v. Mellon</case_name>
+      <id>100240</id>
+      <date_filed>1923-06-11</date_filed>
+      <judges>Sutherland</judges>
+      <nature_of_suit/>
+      <citation>
+         <volume>262</volume>
+         <reporter>U.S.</reporter>
+         <page>447</page>
+         <lexis_cite/>
+      </citation>
+      <federal_cite_one>262 U.S. 447</federal_cite_one>
+      <cited_by>
+         <case>2648774</case>
+         <case>2648684</case>
+         <case>2477002</case>
+         <case>2475394</case>
+         <case>2471551</case>
+         <case>2470781</case>
+         <case>2407884</case>
+         <case>2407364</case>
+         <case>2370946</case>
+         <case>2344832</case>
+         <case>2315007</case>
+         <case>2301227</case>
+         <case>2284604</case>
+         <case>2252646</case>
+         <case>2250650</case>
+         <case>2225127</case>
+         <case>2185158</case>
+         <case>2147121</case>
+         <case>1810811</case>
+         <case>1753291</case>
+         <case>1743723</case>
+         <case>1737720</case>
+         <case>1661117</case>
+         <case>1599161</case>
+         <case>1578629</case>
+         <case>1573326</case>
+         <case>1411532</case>
+         <case>1400623</case>
+         <case>1361781</case>
+         <case>1358843</case>
+         <case>1352144</case>
+         <case>1323463</case>
+         <case>1291655</case>
+         <case>1264696</case>
+         <case>1242846</case>
+         <case>1241425</case>
+         <case>1240566</case>
+         <case>1208107</case>
+         <case>1201982</case>
+         <case>1195119</case>
+         <case>1193530</case>
+         <case>1165364</case>
+         <case>1153086</case>
+         <case>900027</case>
+         <case>848681</case>
+         <case>842333</case>
+         <case>830817</case>
+         <case>829411</case>
+         <case>801431</case>
+         <case>457654</case>
+         <case>109031</case>
+         <case>104199</case>
+         <case>100337</case>
+         <case>1059448</case>
+         <case>932061</case>
+         <case>852974</case>
+         <case>809122</case>
+         <case>803267</case>
+         <case>797311</case>
+         <case>796927</case>
+         <case>794584</case>
+         <case>794313</case>
+         <case>793917</case>
+         <case>792876</case>
+         <case>790328</case>
+         <case>787662</case>
+         <case>786918</case>
+         <case>785333</case>
+         <case>784478</case>
+         <case>782345</case>
+         <case>781345</case>
+         <case>779049</case>
+         <case>778767</case>
+         <case>777870</case>
+         <case>772804</case>
+         <case>772665</case>
+         <case>770312</case>
+         <case>767873</case>
+         <case>767728</case>
+         <case>749810</case>
+         <case>746453</case>
+         <case>745359</case>
+         <case>732766</case>
+         <case>699551</case>
+         <case>697308</case>
+         <case>696199</case>
+         <case>686784</case>
+         <case>684987</case>
+         <case>661447</case>
+         <case>660150</case>
+         <case>658825</case>
+         <case>652886</case>
+         <case>621760</case>
+         <case>613718</case>
+         <case>613325</case>
+         <case>611018</case>
+         <case>610616</case>
+         <case>601819</case>
+         <case>596962</case>
+         <case>588806</case>
+         <case>586993</case>
+         <case>583475</case>
+         <case>580890</case>
+         <case>566301</case>
+         <case>560568</case>
+         <case>553848</case>
+         <case>538783</case>
+         <case>533829</case>
+         <case>529719</case>
+         <case>522226</case>
+         <case>517017</case>
+         <case>512373</case>
+         <case>512028</case>
+         <case>505542</case>
+         <case>503488</case>
+         <case>503442</case>
+         <case>501868</case>
+         <case>497316</case>
+         <case>495033</case>
+         <case>495005</case>
+         <case>477331</case>
+         <case>469130</case>
+         <case>466372</case>
+         <case>465418</case>
+         <case>458718</case>
+         <case>454555</case>
+         <case>454282</case>
+         <case>451507</case>
+         <case>450552</case>
+         <case>449653</case>
+         <case>447577</case>
+         <case>440190</case>
+         <case>438808</case>
+         <case>437689</case>
+         <case>425955</case>
+         <case>421077</case>
+         <case>415319</case>
+         <case>414029</case>
+         <case>410257</case>
+         <case>409319</case>
+         <case>394086</case>
+         <case>393979</case>
+         <case>390513</case>
+         <case>388173</case>
+         <case>382946</case>
+         <case>381467</case>
+         <case>380087</case>
+         <case>378895</case>
+         <case>374947</case>
+         <case>373668</case>
+         <case>369312</case>
+         <case>368108</case>
+         <case>365875</case>
+         <case>364240</case>
+         <case>362299</case>
+         <case>361917</case>
+         <case>360140</case>
+         <case>357162</case>
+         <case>355654</case>
+         <case>351521</case>
+         <case>350867</case>
+         <case>348742</case>
+         <case>348616</case>
+         <case>343585</case>
+         <case>337826</case>
+         <case>335098</case>
+         <case>334736</case>
+         <case>331812</case>
+         <case>331104</case>
+         <case>330543</case>
+         <case>328664</case>
+         <case>326805</case>
+         <case>324882</case>
+         <case>324533</case>
+         <case>321774</case>
+         <case>319025</case>
+         <case>318711</case>
+         <case>317158</case>
+         <case>316375</case>
+         <case>313561</case>
+         <case>312208</case>
+         <case>312207</case>
+         <case>310411</case>
+         <case>310306</case>
+         <case>308829</case>
+         <case>308801</case>
+         <case>307951</case>
+         <case>307055</case>
+         <case>305799</case>
+         <case>305234</case>
+         <case>299566</case>
+         <case>298559</case>
+         <case>294831</case>
+         <case>293366</case>
+         <case>291107</case>
+         <case>289586</case>
+         <case>287864</case>
+         <case>286874</case>
+         <case>286235</case>
+         <case>284180</case>
+         <case>283800</case>
+         <case>283591</case>
+         <case>281471</case>
+         <case>280447</case>
+         <case>278503</case>
+         <case>278086</case>
+         <case>274953</case>
+         <case>272625</case>
+         <case>271738</case>
+         <case>270616</case>
+         <case>267691</case>
+         <case>267582</case>
+         <case>264365</case>
+         <case>263645</case>
+         <case>263612</case>
+         <case>262501</case>
+         <case>261928</case>
+         <case>258769</case>
+         <case>257315</case>
+         <case>251005</case>
+         <case>250924</case>
+         <case>250066</case>
+         <case>248967</case>
+         <case>247291</case>
+         <case>247154</case>
+         <case>246918</case>
+         <case>244280</case>
+         <case>243349</case>
+         <case>237525</case>
+         <case>234706</case>
+         <case>231332</case>
+         <case>229496</case>
+         <case>229377</case>
+         <case>227348</case>
+         <case>226536</case>
+         <case>225638</case>
+         <case>223249</case>
+         <case>219097</case>
+         <case>218927</case>
+         <case>214467</case>
+         <case>214063</case>
+         <case>213843</case>
+         <case>204533</case>
+         <case>201681</case>
+         <case>199124</case>
+         <case>187344</case>
+         <case>187239</case>
+         <case>186500</case>
+         <case>186412</case>
+         <case>185713</case>
+         <case>175018</case>
+         <case>163442</case>
+         <case>145753</case>
+         <case>145749</case>
+         <case>145704</case>
+         <case>145658</case>
+         <case>142895</case>
+         <case>118299</case>
+         <case>118217</case>
+         <case>118035</case>
+         <case>117933</case>
+         <case>112747</case>
+         <case>112268</case>
+         <case>112138</case>
+         <case>111939</case>
+         <case>111008</case>
+         <case>110916</case>
+         <case>110789</case>
+         <case>110599</case>
+         <case>110231</case>
+         <case>109729</case>
+         <case>109301</case>
+         <case>109087</case>
+         <case>109086</case>
+         <case>109005</case>
+         <case>108906</case>
+         <case>108824</case>
+         <case>108736</case>
+         <case>108677</case>
+         <case>108291</case>
+         <case>108247</case>
+         <case>107731</case>
+         <case>107451</case>
+         <case>107182</case>
+         <case>106514</case>
+         <case>106443</case>
+         <case>106366</case>
+         <case>106355</case>
+         <case>106311</case>
+         <case>106282</case>
+         <case>106267</case>
+         <case>105608</case>
+         <case>105152</case>
+         <case>104971</case>
+         <case>104894</case>
+         <case>104756</case>
+         <case>104375</case>
+         <case>104109</case>
+         <case>103943</case>
+         <case>103836</case>
+         <case>103651</case>
+         <case>103411</case>
+         <case>103349</case>
+         <case>100248</case>
+         <case>103222</case>
+         <case>103145</case>
+         <case>103043</case>
+         <case>102890</case>
+         <case>102843</case>
+         <case>102770</case>
+         <case>102605</case>
+         <case>102580</case>
+         <case>102518</case>
+         <case>102470</case>
+         <case>102246</case>
+         <case>102111</case>
+         <case>102032</case>
+         <case>101918</case>
+         <case>101797</case>
+         <case>101706</case>
+         <case>101473</case>
+         <case>101307</case>
+         <case>101068</case>
+         <case>100985</case>
+         <case>100978</case>
+         <case>100753</case>
+         <case>100536</case>
+         <case>78156</case>
+         <case>77203</case>
+         <case>59189</case>
+         <case>30040</case>
+         <case>27011</case>
+         <case>5544</case>
+      </cited_by>
+      <precedential_status>Published</precedential_status>
+      <download_url/>
+      <source>lawbox merged with resource.org</source>
+   </metadata>
+   <body><div>
+      <span class="citation no-link">
+         <span class="volume">262</span> 
+         <span class="reporter">U.S.</span> 
+         <span class="page">447</span>
+      </span> (1923)
+COMMONWEALTH OF MASSACHUSETTS
+v.
+MELLON, SECRETARY OF THE TREASURY, ET AL.
+FROTHINGHAM
+v.
+MELLON, SECRETARY OF THE TREASURY, ET AL.
+No. 24. Original, and No. 962.
+<p>Supreme Court of United States.</p>
+Argued May 3, 4, 1923.
+Decided June 4, 1923.
+IN EQUITY.
+APPEAL FROM THE COURT OF APPEALS OF THE DISTRICT OF COLUMBIA.
+<p>
+         <span class="star-pagination">*448</span> Mr. Solicitor General Beck, with whom Mr. Robert P. Reeder, Special Assistant to the Attorney General, was on the brief, for Mellon et al.</p>
+      <p>Mr. Alexander Lincoln, Assistant Attorney General, with whom Mr. Jay R. Benton, Attorney General, was on the brief, for the Commonwealth of Massachusetts.</p>
+      <p>Mr. William L. Rawls, with whom Mr. George Arnold Frick and Mr. William H. Lamar were on the brief, for appellant in No. 962.</p>
+      <p>Mr. J. Weston Allen and Mr. Edwin H. Abbot, Jr., filed a supplemental brief on behalf of appellant in No. 962.</p>
+      <p>Messrs. Charles I. Dawson, George W. Woodruff, John R. Saunders, Clifford L. Hilton, Russell W. Fleming, S.B. Townsend, Jr., U.S. Lesh, J.S. Utley, John W. Murphy, and C.C. Crabbe, Attorneys General respectively of Kentucky, Pennsylvania, Virginia, Minnesota, Colorado, Delaware, Indiana, Arkansas, Arizona and Ohio by leave of court, filed a brief as amici curiae, on behalf of those States, in No. 24, Original.</p>
+      <p>Mr. Charles K. Burdick, by leave of court, filed a brief as amicus curiae on behalf of the Association of Land-Grant Colleges, in No. 24, Original.</p>
+      <p>Mr. Everett P. Wheeler and Mr. Waldo G. Morse, by leave of court. filed a brief as amici curiae, in both cases.</p>
+      <p>Mr. Henry St. George Tucker, by leave of court, filed a brief as amicus curiae, in No. 962.</p>
+      <p>
+         <span class="star-pagination">*478</span> MR. JUSTICE SUTHERLAND delivered the opinion of the Court.</p>
+      <p>These cases were argued and will be considered and disposed of together. The first is an original suit in this Court. The other was brought in the Supreme Court of the District of Columbia. That court dismissed the bill and its decree was affirmed by the District Court of Appeals. Thereupon the case was brought here by appeal. <span class="star-pagination">*479</span> Both cases challenge the constitutionality of the Act of November 23, 1921, c. 135, 42 Stat. 224, commonly called the Maternity Act. Briefly, it provides for an initial appropriation and thereafter annual appropriations for a period of five years, to be apportioned among such of the several States as shall accept and comply with its provisions, for the purpose of cooperating with them to reduce maternal and infant mortality and protect the health of mothers and infants. It creates a bureau to administer the act in cooperation with state agencies, which are required to make such reports concerning their operations and expenditures as may be prescribed by the federal bureau. Whenever that bureau shall determine that funds have not been properly expended in respect of any State, payments may be withheld.</p>
+      <p>It is asserted that these appropriations are for purposes not national, but local to the States, and together with numerous similar appropriations constitute an effective means of inducing the States to yield a portion of their sovereign rights. It is further alleged that the burden of the appropriations provided by this act and similar legislation falls unequally upon the several States, and rests largely upon the industrial States, such as Massachusetts; that the act is a usurpation of power not granted to Congress by the Constitution &#x97; an attempted exercise of the power of local self-government reserved to the States by the Tenth Amendment; and that the defendants are proceeding to carry the act into operation. In the Massachusetts case it is alleged that the plaintiff's rights and powers as a sovereign State and the rights of its citizens have been invaded and usurped by these expenditures and acts; and that, although the State has not accepted the act, its constitutional rights are infringed by the passage thereof and the imposition upon the State of an illegal and unconstitutional option either to yield to the Federal Government a part of its reserved rights or <span class="star-pagination">*480</span> lose the share which it would otherwise be entitled to receive of the moneys appropriated. In the Frothingham case plaintiff alleges that the effect of the statute will be to take her property, under the guise of taxation, without due process of law.</p>
+      <p>We have reached the conclusion that the cases must be disposed of for want of jurisdiction without considering the merits of the constitutional questions.</p>
+      <p>In the first case, the State of Massachusetts presents no justiciable controversy either in its own behalf or as the representative of its citizens. The appellant in the second suit has no such interest in the subject-matter, nor is any such injury inflicted or threatened, as will enable her to sue.</p>
+      <p>First. The State of Massachusetts in its own behalf, in effect, complains that the act in question invades the local concerns of the State, and is a usurpation of power, viz: the power of local self government reserved to the States.</p>
+      <p>Probably, it would be sufficient to point out that the powers of the State are not invaded, since the statute imposes no obligation but simply extends an option which the State is free to accept or reject. But we do not rest here. Under Article III, § 2, of the Constitution, the judicial power of this Court extends "to controversies . . . between a State and citizens of another State" and the Court has original jurisdiction "in all cases . . . in which a State shall be party." The effect of this is not to confer jurisdiction upon the Court merely because a State is a party, but only where it is a party to a proceeding of judicial cognizance. Proceedings not of a justiciable character are outside the contemplation of the constitutional grant. In Wisconsin v. Pelican Insurance Co., <span class="citation">
+            <a href="/scotus/tqy/wisconsin-v-pelican-ins-co/">
+               <span class="volume">127</span> 
+               <span class="reporter">U.S.</span> 
+               <span class="page">265</span>
+            </a>
+         </span>, 289, Mr. Justice Gray, speaking for the Court, said:</p>
+      <p>"As to `controversies between a State and citizens of another State.' The object of vesting in the courts of <span class="star-pagination">*481</span> the United States jurisdiction of suits by one State against the citizens of another was to enable such controversies to be determined by a national tribunal, and thereby to avoid the partiality, or suspicion of partiality, which might exist if the plaintiff State were compelled to resort to the courts of the State of which the defendants were citizens. Federalist No. 80; Chief Justice Jay, in Chisholm v. Georgia, 2 Dall. 419, 475; Story on the Constitution, §§ 1638, 1682. The grant is of `judicial power,' and was not intended to confer upon the courts of the United States jurisdiction of a suit or prosecution by the one State, of such a nature that it could not, on the settled principles of public and international law, be entertained by the judiciary of the other State at all."</p>
+      <p>That was an action brought by the State of Wisconsin to enforce a judgment of one of its own courts for a penalty against a resident of another State, and, in pursuance of the doctrine announced by the language just quoted, this Court declined to assume jurisdiction upon the ground that the courts of no country will execute the penal laws of another.</p>
+      <p>In an earlier case it was held that a proceeding by mandamus by one State to compel the Governor of another to surrender a fugitive from justice was not within the powers of the judicial department, since the duty of the Governor in the premises was in the nature of a moral rather than a legal obligation. Kentucky v. Dennison, <span class="citation no-link">
+            <span class="volume">24</span> 
+            <span class="reporter">How.</span> 
+            <span class="page">66</span>
+         </span>, 109. In New Hampshire v. Louisiana; New York v. Louisiana, <span class="citation">
+            <a href="/scotus/sZZ/new-hampshire-v-louisiana/">
+               <span class="volume">108</span> 
+               <span class="reporter">U.S.</span> 
+               <span class="page">76</span>
+            </a>
+         </span>, this Court declined to take jurisdiction of actions to enforce payment of the bonds of another State for the benefit of the assignors, citizens of the plaintiff States. In Georgia v. Stanton, <span class="citation">
+            <a href="/scotus/s8h/georgia-v-stanton/">
+               <span class="volume">6</span> 
+               <span class="reporter">Wall.</span> 
+               <span class="page">50</span>
+            </a>
+         </span>, 75, and kindred cases, to which we shall presently refer, jurisdiction was denied in respect of questions of a political or governmental character. On the other hand jurisdiction was maintained in Texas v. White, 7 <span class="star-pagination">*482</span> Wall. 700; Florida v. Anderson, 91 U.S. 667; and Alabama v. Burr, <span class="citation">
+            <a href="/scotus/tbV/alabama-v-burr/">
+               <span class="volume">115</span> 
+               <span class="reporter">U.S.</span> 
+               <span class="page">413</span>
+            </a>
+         </span>, because proprietary rights were involved; in Georgia v. Tennessee Copper Co., <span class="citation">
+            <a href="/scotus/uJU/georgia-v-tennesssee-copper-co/">
+               <span class="volume">206</span> 
+               <span class="reporter">U.S.</span> 
+               <span class="page">230</span>
+            </a>
+         </span>, 237, because the right of dominion of the State over the air and soil within its domain was affected; in Missouri v. Holland, <span class="citation">
+            <a href="/scotus/vAz/missouri-v-holland/">
+               <span class="volume">252</span> 
+               <span class="reporter">U.S.</span> 
+               <span class="page">416</span>
+            </a>
+         </span>, because, as asserted, there was an invasion, by acts done and threatened, of the quasi-sovereign right of the State to regulate the taking of wild game within its borders; and in other cases because boundaries were in dispute. It is not necessary to cite additional cases. The foregoing, for present purposes, sufficiently indicate the jurisdictional line of demarcation.</p>
+      <p>What, then, is the nature of the right of the State here asserted and how is it affected by this statute? Reduced to its simplest terms, it is alleged that the statute constitutes an attempt to legislate outside the powers granted to Congress by the Constitution and within the field of local powers exclusively reserved to the States. Nothing is added to the force or effect of this assertion by the further incidental allegations that the ulterior purpose of Congress thereby was to induce the States to yield a portion of their sovereign rights; that the burden of the appropriations falls unequally upon the several States; and that there is imposed upon the States an illegal and unconstitutional option either to yield to the Federal Government a part of their reserved rights or lose their share of the moneys appropriated. But what burden is imposed upon the States, unequally or otherwise? Certainly there is none, unless it be the burden of taxation, and that falls upon their inhabitants, who are within the taxing power of Congress as well as that of the States where they reside. Nor does the statute require the States to do or to yield anything. If Congress enacted it with the ulterior purpose of tempting them to yield, that purpose may be effectively frustrated by the simple expedient of not yielding.</p>
+      <p>
+         <span class="star-pagination">*483</span> In the last analysis, the complaint of the plaintiff State is brought to the naked contention that Congress has usurped the reserved powers of the several States by the mere enactment of the statute, though nothing has been done and nothing is to be done without their consent; and it is plain that that question, as it is thus presented, is political and not judicial in character, and therefore is not a matter which admits of the exercise of the judicial power.</p>
+      <p>In Georgia v. Stanton, supra, this Court held that a bill to enjoin the Secretary of War, and other officers, from carrying into execution certain acts of Congress, which it was asserted would annul and abolish the existing state government and establish another and different one in its place, called for a judgment upon a political question and presented no case within the jurisdiction of the Court. Mr. Justice Nelson, speaking for the Court, said (6 Wall. 77):</p>
+      <p>"That these matters, both as stated in the body of the bill, and, in the prayers for relief, call for the judgment of the court upon political questions, and, upon rights, not of persons or property, but of a political character, will hardly be denied. For the rights for the protection of which our authority is invoked, are the rights of sovereignty, of political jurisdiction, of government, of corporate existence as a State, with all its constitutional powers and privileges. No case of private rights or private property infringed, or in danger of actual or threatened infringement, is presented by the bill, in a judicial form, for the judgment of the court."</p>
+      <p>In Cherokee Nation v. Georgia, <span class="citation">
+            <a href="/scotus/rtR/the-cherokee-nation-v-the-state-of-georgia/">
+               <span class="volume">5</span> 
+               <span class="reporter">Pet.</span> 
+               <span class="page">1</span>
+            </a>
+         </span>, an injunction was sought to prevent certain acts of legislation from being carried into execution within the territory of the Cherokee Nation of Indians, the original jurisdiction of this Court being invoked on the ground that plaintiff was a foreign nation. It was asserted that the acts in question, <span class="star-pagination">*484</span> if executed, would have the effect of subverting the tribal government and subjecting the Indians to the jurisdiction of the State of Georgia. It was held that the Cherokee Nation could not be regarded as a foreign nation, within the meaning of the Judiciary Act, but Chief Justice Marshall, delivering the opinion for the majority, said, further (p. 20):</p>
+      <p>"That part of the bill which respects the land occupied by the Indians, and prays the aid of the court to protect their possession, may be more doubtful. The mere question, of right might, perhaps, be decided by this court, in a proper case, with proper parties. But the court is asked to do more than decide on the title. The bill requires us to control the legislature of Georgia, and to restrain the exertion of its physical force. The propriety of such an interposition by the court may be well questioned; it savors too much of the exercise of political power, to be within the proper province of the judicial department." And Mr. Justice Thompson, with whom Mr. Justice Story concurred, in the course of an opinion, said (p. 75):</p>
+      <p>"It is only where the rights of persons or property are involved, and when such rights can be presented under some judicial form of proceedings, that courts of justice can interpose relief. This court can have no right to pronounce an abstract opinion upon the constitutionality of a state law. Such law must be brought into actual or threatened operation, upon rights properly falling under judicial cognizance, or a remedy is not to be had here." See also Luther v. Borden, 7 How. 1; Mississippi v. Johnson, <span class="citation">
+            <a href="/scotus/s6C/mississippi-v-johnson/">
+               <span class="volume">4</span> 
+               <span class="reporter">Wall.</span> 
+               <span class="page">475</span>
+            </a>
+         </span>, 500; Pacific Telephone Co. v. Oregon, 223 U.S. 118; Louisiana v. Texas, <span class="citation">
+            <a href="/scotus/uhF/louisiana-v-texas/">
+               <span class="volume">176</span> 
+               <span class="reporter">U.S.</span> 
+               <span class="page">1</span>
+            </a>
+         </span>, 23; Fairchild v. Hughes, 258 U.S. 126.</p>
+      <p>It follows that in so far as the case depends upon the assertion of a right on the part of the State to sue in its own behalf we are without jurisdiction. In that aspect of the case we are called upon to adjudicate, not rights of <span class="star-pagination">*485</span> person or property, not rights of dominion over physical domain, not quasi-sovereign rights actually invaded or threatened, but abstract questions of political power, of sovereignty, of government. No rights of the State falling within the scope of the judicial power have been brought within the actual or threatened operation of the statute and this Court is as much without authority to pass abstract opinions upon the constitutionality of acts of Congress as it was held to be, in Cherokee Nation v. Georgia, supra, of state statutes. If an alleged attempt by congressional action to annul and abolish an existing state government "with all its constitutional powers and privileges," presents no justiciable issue, as was ruled in Georgia v. Stanton, supra, no reason can be suggested why it should be otherwise where the attempt goes no farther, as it is here alleged, than to propose to share with the State the field of state power.</p>
+      <p>We come next to consider whether the suit may be maintained by the State as the representative of its citizens. To this the answer is not doubtful. We need not go so far as to say that a State may never intervene by suit to protect its citizens against any form of enforcement of unconstitutional acts of Congress; but we are clear that the right to do so does not arise here. Ordinarily, at least, the only way in which a State may afford protection to its citizens in such cases is through the enforcement of its own criminal statutes, where that is appropriate, or by opening its courts to the injured persons for the maintenance of civil suits or actions. But the citizens of Massachusetts are also citizens of the United States. It cannot be conceded that a State, as parens patriae, may institute judicial proceedings to protect citizens of the United States from the operation of the statutes thereof. While the State, under some circumstances, may sue in that capacity for the protection of its citizens (Missouri v. Illinois, <span class="citation">
+            <a href="/scotus/umX/missouri-v-illinois/">
+               <span class="volume">180</span> 
+               <span class="reporter">U.S.</span> 
+               <span class="page">208</span>
+            </a>
+         </span>, 241), it is no <span class="star-pagination">*486</span> part of its duty or power to enforce their rights in respect of their relations with the Federal Government. In that field it is the United States, and not the State, which represents them as parens patriae, when such representation becomes appropriate; and to the former, and not to the latter, they must look for such protective measures as flow from that status.</p>
+      <p>Second. The attack upon the statute in the Frothingham case is, generally, the same, but this plaintiff alleges in addition that she is a taxpayer of the United States; and her contention, though not clear, seems to be that the effect of the appropriations complained of will be to increase the burden of future taxation and thereby take her property without due process of law. The right of a taxpayer to enjoin the execution of a federal appropriation act, on the ground that it is invalid and will result in taxation for illegal purposes, has never been passed upon by this Court. In cases where it was presented, the question has either been allowed to pass sub silentio or the determination of it expressly withheld. Millard v. Roberts, <span class="citation">
+            <a href="/scotus/uFv/millard-v-roberts/">
+               <span class="volume">202</span> 
+               <span class="reporter">U.S.</span> 
+               <span class="page">429</span>
+            </a>
+         </span>, 438; Wilson v. Shaw, <span class="citation">
+            <a href="/scotus/uGN/wilson-v-shaw/">
+               <span class="volume">204</span> 
+               <span class="reporter">U.S.</span> 
+               <span class="page">24</span>
+            </a>
+         </span>, 31; Bradfield v. Roberts, <span class="citation">
+            <a href="/scotus/uh5/bradfield-v-roberts/">
+               <span class="volume">175</span> 
+               <span class="reporter">U.S.</span> 
+               <span class="page">291</span>
+            </a>
+         </span>, 295. The case last cited came here from the Court of Appeals of the District of Columbia, and that court sustained the right of the plaintiff to sue by treating the case as one directed against the District of Columbia, and therefore subject to the rule frequently stated by this Court, that resident taxpayers may sue to enjoin an illegal use of the moneys of a municipal corporation. Roberts v. Bradfield, <span class="citation">
+            <a href="/scotus/uh5/bradfield-v-roberts/">
+               <span class="volume">12</span> 
+               <span class="reporter">App. D.C.</span> 
+               <span class="page">453</span>
+            </a>
+         </span>, 459-460. The interest of a taxpayer of a municipality in the application of its moneys is direct and immediate and the remedy by injunction to prevent their misuse is not inappropriate. It is upheld by a large number of state cases and is the rule of this Court. Crampton v. Zabriskie, <span class="citation">
+            <a href="/scotus/sNF/crampton-v-zabriskie/">
+               <span class="volume">101</span> 
+               <span class="reporter">U.S.</span> 
+               <span class="page">601</span>
+            </a>
+         </span>, 609. Nevertheless, there are decisions to the contrary. See, <span class="star-pagination">*487</span> for example, Miller v. Grandy, <span class="citation no-link">
+            <span class="volume">13</span> 
+            <span class="reporter">Mich.</span> 
+            <span class="page">540</span>
+         </span>, 550. The reasons which support the extension of the equitable remedy to a single taxpayer in such cases are based upon the peculiar relation of the corporate taxpayer to the corporation, which is not without some resemblance to that subsisting between stockholder and private corporation. IV Dillon Municipal Corporations, 5th ed., § 1580, et seq. But the relation of a taxpayer of the United States to the Federal Government is very different. His interest in the moneys of the Treasury &#x97; partly realized from taxation and partly from other sources &#x97; is shared with millions of others; is comparatively minute and indeterminable; and the effect upon future taxation, of any payment out of the funds, so remote, fluctuating and uncertain, that no basis is afforded for an appeal to the preventive powers of a court of equity.</p>
+      <p>The administration of any statute, likely to produce additional taxation to be imposed upon a vast number of taxpayers, the extent of whose several liability is indefinite and constantly changing, is essentially a matter of public and not of individual concern. If one taxpayer may champion and litigate such a cause, then every other taxpayer may do the same, not only in respect of the statute here under review but also in respect of every other appropriation act and statute whose administration requires the outlay of public money, and whose validity may be questioned. The bare suggestion of such a result, with its attendant inconveniences, goes far to sustain the conclusion which we have reached, that a suit of this character cannot be maintained. It is of much significance that no precedent sustaining the right to maintain suits like this has been called to our attention, although, since the formation of the government, as an examination of the acts of Congress will disclose, a large number of statutes appropriating or involving the expenditure <span class="star-pagination">*488</span> of moneys for non-federal purposes have been enacted and carried into effect.</p>
+      <p>The functions of government under our system are apportioned. To the legislative department has been committed the duty of making laws; to the executive the duty of executing them; and to the judiciary the duty of interpreting and applying them in cases properly brought before the courts. The general rule is that neither department may invade the province of the other and neither may control, direct or restrain the action of the other. We are not now speaking of the merely ministerial duties of officials. Gaines v. Thompson, 7 Wall. 347. We have no power per se to review and annul acts of Congress on the ground that they are unconstitutional. That question may be considered only when the justification for some direct injury suffered or threatened, presenting a justiciable issue, is made to rest upon such an act. Then the power exercised is that of ascertaining and declaring the law applicable to the controversy. It amounts to little more than the negative power to disregard an unconstitutional enactment, which otherwise would stand in the way of the enforcement of a legal right. The party who invokes the power must be able to show not only that the statute is invalid but that he has sustained or is immediately in danger of sustaining some direct injury as the result of its enforcement, and not merely that he suffers in some indefinite way in common with people generally. If a case for preventive relief be presented the court enjoins, in effect, not the execution of the statute, but the acts of the official, the statute notwithstanding. Here the parties plaintiff have no such case. Looking through forms of words to the substance of their complaint, it is merely that officials of the executive department of the government are executing and will execute an act of Congress asserted to be unconstitutional; and this we are asked to prevent. To <span class="star-pagination">*489</span> do so would be not to decide a judicial controversy, but to assume a position of authority over the governmental acts of another and co-equal department, an authority which plainly we do not possess.</p>
+      <p>No. 24, Original, dismissed.</p>
+      <p>No. 962 affirmed.</p>
+   </div></body>
+</opinion>
