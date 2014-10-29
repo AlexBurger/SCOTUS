@@ -102,7 +102,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">468</span>
          <span class="reporter">U.S.</span>
@@ -949,7 +949,7 @@
          Service Act violative of the Fifth Amendment, both because it compels self-incrimination,
          and because it violates due process by denying persons the equal protection of the laws. I
          respectfully dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Peter B. Ellis filed a brief for the Trustees of Boston University as amici curiae
          urging reversal.</p>
       <p>[1] Title IV of the Higher Education Act of 1965, 20 U. S. C. § 1070 et seq., provides

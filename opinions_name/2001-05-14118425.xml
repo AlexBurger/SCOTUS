@@ -144,7 +144,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">532</span>
          <span class="reporter">U.S.</span>
@@ -907,7 +907,7 @@
          apply the new law to the circumstances of his case, thereby upgrading the crime those
          circumstances revealed from attempted murder to murder. I therefore join Part II of Justice
          Scalia's dissenting opinion.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Paula R. Voss filed a brief for the Tennessee Association of Criminal Defense Attorneys
          as amicus curiae urging reversal.</p>
       <p>[1] Inquiring into a law's original reasonableness was perhaps tantamount to questioning

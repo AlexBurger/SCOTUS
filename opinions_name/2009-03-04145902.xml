@@ -105,7 +105,7 @@
       <download_url/>
       <source>lawbox merged with court</source>
    </metadata>
-   <body><div> 129 S.Ct. 1187 (2009) WYETH, Petitioner, v. Diana LEVINE. No. 06-1249. <p>Supreme Court of
+   <body><div type="majority" judge=""> 129 S.Ct. 1187 (2009) WYETH, Petitioner, v. Diana LEVINE. No. 06-1249. <p>Supreme Court of
          United States.</p> Argued November 3, 2008. Decided March 4, 2009. <p>
          <span class="star-pagination">*1190</span> Edwin S. Kneedler for the United States as
          amicus curiae, by special leave of the Court, supporting petitioner.</p>
@@ -2085,7 +2085,7 @@
       ---------------------------------------------------------- Vinorelbine Not prohibited; IV drip
       recommended ---------------------------------------------------------- Daunorubicin Prohibited
       ---------------------------------------------------------- Doxorubicin Prohibited
-      ---------------------------------------------------------- <div type="notes">
+      ---------------------------------------------------------- </div><div type="notes">
       <p>[1] The warning for "Inadvertent Intra-arterial Injection" stated: "Due to the close
          proximity of arteries and veins in the areas most commonly used for intravenous injection,
          extreme care should be exercised to avoid perivascular extravasation or inadvertent

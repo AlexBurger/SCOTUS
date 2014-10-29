@@ -1100,7 +1100,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">511</span>
          <span class="reporter">U.S.</span>
@@ -2166,7 +2166,7 @@
          legal duty. There is nothing unjust about holding an employer responsible for injuries
          caused by conduct that has been illegal for almost 30 years.</p>
       <p>Accordingly, I respectfully dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the Asian American Legal Defense
          and Education Fund et al. by Denny Chin, Doreena Wong, and Angelo N. Ancheta; and for the
          National Women's Law Center et al. by Judith E. Schaeffer and Ellen J. Vargyas. </p>

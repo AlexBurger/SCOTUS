@@ -893,7 +893,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">488</span>
          <span class="reporter">U.S.</span>
@@ -2367,7 +2367,7 @@
          will be disastrous.</p>
       <p>I respectfully dissent from the Court's decision, and would reverse the judgment of the
          District Court.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Together with No. 87-1904, United States v. Mistretta, also on certiorari before
          judgment to the same court.</p>
       <p>[&#x86;] David O. Bickart filed a brief for Joseph E. DiGenova et al. as amici curiae

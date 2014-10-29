@@ -190,7 +190,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">491</span>
          <span class="reporter">U.S.</span>
@@ -1237,7 +1237,7 @@
          under the Constitution to <span class="star-pagination">*489</span> nominate federal judges
          is enough to invalidate the Act. "We think it unnecessary to enlarge." Ibid.</p>
       <p>For these reasons, I concur in the judgment affirming the District Court.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Together with No. 88-494, Washington Legal Foundation v. United States Department of
          Justice et al., also on appeal from the same court.</p>
       <p>[&#x86;] Briefs of amici curiae urging affirmance were filed for the American Federation of

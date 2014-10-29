@@ -95,7 +95,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">529</span>
          <span class="reporter">U.S.</span>
@@ -802,7 +802,7 @@
          twenty-four hours notice prior to entry of a tanker into state waters, and requires that
          the notice report any conditions that pose a hazard to the vessel or the marine
          environment." 148 F. 3d, at 1057-1058 (footnote omitted).</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Together with No. 98-1706, International Association of Independent Tanker Owners
          (Intertanko) v. Locke, Governor of Washington, et al., also on certiorari to the same
          court.</p>

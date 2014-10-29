@@ -52,7 +52,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">465</span>
          <span class="reporter">U.S.</span>
@@ -475,7 +475,7 @@
          of Minnesota's statutory scheme for professional employee consultation on
          employment-related policy, in academic or other settings, the scheme violates no provision
          of the Constitution. The judgment of the District Court is therefore</p>
-      <p>Reversed.</p>
+      <p>Reversed.</p></div>
       <p>
          <span class="star-pagination">*292B</span> JUSTICE MARSHALL, concurring in the
          judgment.</p>
@@ -1060,7 +1060,7 @@
          tolerate.</p>
       <p>Because I am convinced that the statutorily mandated exclusive "meet and confer" process is
          constitutionally intolerable, I respectfully dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Together with No. 82-977, Minnesota Community College Faculty Association et al. v.
          Knight et al., also on appeal from the same court.</p>
       <p>[&#x86;] J. Albert Woll, Marsha S. Berzon, and Laurence Gold filed a brief for the American

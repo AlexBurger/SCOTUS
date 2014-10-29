@@ -52,7 +52,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">532</span>
          <span class="reporter">U.S.</span>
@@ -743,7 +743,7 @@
          any tax that reduces a judge's <span class="star-pagination">*587</span> net compensation
          violates Article III of the Constitution. Accordingly, I would affirm the judgment of the
          Court of Appeals in its entirety.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging affirmance were filed for the Federal Judges Association
          by Kevin M. Forde and Richard J. Prendergast; and for the Los Angeles County Bar
          Association et al. by Mark E. Haddad, Catherine V. Barrad, Paul J. Watford, Richard Walch,

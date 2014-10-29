@@ -102,7 +102,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">495</span>
          <span class="reporter">U.S.</span>
@@ -1215,7 +1215,7 @@
          political liberties guaranteed by our constitutional system, liberties that can coexist
          with a proper exercise of judicial remedial powers adequate to correct constitutional
          violations.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the State of New Mexico by Hal
          Stratton, Attorney General, Randall W. Childress, Deputy Attorney General, Charles R.
          Peifer, Chief Assistant Attorney General, and Paul Farley, Assistant Attorney General; for

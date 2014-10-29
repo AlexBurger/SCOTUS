@@ -87,7 +87,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">535</span>
          <span class="reporter">U.S.</span>
@@ -1063,7 +1063,7 @@
       <p>Today's decision reaffirms the need for continued dissent&#x97; unless the consequences of
          the Court's approach prove anodyne, as I hope, rather than randomly destructive, as I
          fear.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the American Federation of Labor
          and Congress of Industrial Organizations by Jonathan P. Hiatt, Laurence Gold, and David L.
          Shapiro; for the National Association of Waterfront Employers by Charles T. Carroll, Jr.,

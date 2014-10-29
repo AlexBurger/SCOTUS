@@ -1621,7 +1621,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">475</span>
          <span class="reporter">U.S.</span>
@@ -2258,7 +2258,7 @@
       <p>
          <span class="star-pagination">*708</span> Because I would not presume that the Delaware
          Supreme Court failed to discharge this responsibility, I would dismiss the writ.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[1] When asked about his understanding of why the charge was dropped, respondent stated: </p>
       <p>"Well, I did understand that I did feel that you wanted to make sure that I knew what I was
          talking about and I do feel that you wanted to make sure I had my story together before

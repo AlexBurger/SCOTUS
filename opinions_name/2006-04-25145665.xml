@@ -25,7 +25,7 @@
       <download_url/>
       <source>lawbox merged with court</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">547</span>
          <span class="reporter">U.S.</span>
@@ -179,7 +179,7 @@
          it operated the Causton Bluff Bridge, the County is not entitled to immunity from
          Northern's suit. Accordingly, the judgment of the Court of Appeals is reversed.</p>
       <p>It is so ordered.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Thomas S. Biemer filed a brief for the Southeastern Pennsylvania Transportation
          Authority as amicus curiae urging affirmance.</p>
       <p>[1] See Bonner v. Prichard, 661 F. 2d 1206, 1209 (CA11 1981) (en banc) (adopting all

@@ -319,7 +319,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">505</span>
          <span class="reporter">U.S.</span>
@@ -1966,7 +1966,7 @@
          State to take remedial action. Cf. Illinois v. City of Milwaukee, supra. If this Court has
          such authority, surely Congress has similar authority.</p>
       </div><div type="" judge=""><p>For these reasons, as well as those set forth by Justice White, I respectfully dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Together with No. 91-558, County of Allegany, New York v. United States et al., and No.
          91-563, County of Cortland, New York v. United States et al., also on certiorari to the
          same court.</p>

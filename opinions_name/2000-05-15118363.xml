@@ -478,7 +478,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">529</span>
          <span class="reporter">U.S.</span>
@@ -1884,7 +1884,7 @@
          occasion. Rather, in my view, the Commerce Clause provides an adequate basis for the
          statute before us. And I would uphold its constitutionality as the "necessary and proper"
          exercise of legislative power granted to Congress by that Clause.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Together with No. 99-29, Brzonkala v. Morrison et al., also on certiorari to the same
          court.</p>
       <p>[&#x86;] Briefs of amici curiae urging reversal were filed for the State of Arizona et al.

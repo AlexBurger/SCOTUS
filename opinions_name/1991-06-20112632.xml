@@ -347,7 +347,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">501</span>
          <span class="reporter">U.S.</span>
@@ -834,7 +834,7 @@
          judges. It is their prerogative as citizens of a sovereign State to do so. Neither the ADEA
          nor the Equal Protection Clause prohibits the choice they have made. Accordingly, the
          judgment of the Court of Appeals is</p>
-      <p>Affirmed.</p>
+      <p>Affirmed.</p></div>
       <p>
          <span class="star-pagination">*474</span> JUSTICE WHITE, with whom JUSTICE STEVENS joins,
          concurring in part, dissenting in part, and concurring in the judgment.</p>
@@ -1328,7 +1328,7 @@
          determined that an appointed state judge is covered by the ADEA. This Court's precedent
          dictates that we defer to the EEOC's permissible interpretation of the ADEA.</p>
       <p>I dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Cathy Ventrell-Monsees filed a brief for the American Association of Retired Persons as
          amicus curiae urging reversal. </p>
       <p>Briefs of amici curiae urging affirmance were filed for the State of Colorado et al. by

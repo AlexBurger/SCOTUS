@@ -80,7 +80,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">517</span>
          <span class="reporter">U.S.</span>
@@ -839,7 +839,7 @@
          allocation of constitutional authority among the branches of the United States Government
          from mere speculation about the Framers' familiarity with English military history and the
          significance that they attached to it.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Ronald W. Meister, Steven R. Shapiro, and Diann Y. Rust-Tierney filed a brief for the
          American Civil Liberties Union as amicus curiae urging reversal. </p>
       <p>Kent S. Scheidegger and Charles L. Hobson filed a brief for the Criminal Justice Legal

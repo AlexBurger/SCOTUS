@@ -421,7 +421,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">462</span>
          <span class="reporter">U.S.</span>
@@ -1216,7 +1216,7 @@
       <h2>V</h2>
       <p>We hold that the congressional veto provision in § 244(c)(2) is severable from the Act and
          that it is unconstitutional. Accordingly, the judgment of the Court of Appeals is</p>
-      <p>Affirmed.</p>
+      <p>Affirmed.</p></div>
       <p>
          <span class="star-pagination">*959B</span> JUSTICE POWELL, concurring in the judgment.</p>
       <p>The Court's decision, based on the Presentment Clauses, Art. I, § 7, cls. 2 and 3,
@@ -2417,7 +2417,7 @@
          </span>, 174 (1870).</p>
       <p>Because I do not believe that § 244(c)(2) is severable, I would reverse the judgment of the
          Court of Appeals.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Together with No. 80-2170, United States House of Representatives v. Immigration and
          Naturalization Service et al., and No. 80-2171, United States Senate v. Immigration and
          Naturalization Service et al., on certiorari to the same court.</p>

@@ -569,7 +569,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">517</span>
          <span class="reporter">U.S.</span>
@@ -3324,7 +3324,7 @@
          precedent, nor history supports the majority's abdication of our responsibility to exercise
          the jurisdiction entrusted to us in Article III, I would reverse the judgment of the Court
          of Appeals.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the Miccosukee Tribe of Indians
          of Florida by Sonia Escobio O'Donnell; for the National Indian Gaming Association et al. by
          Jerome L. Levine, Frank R. Lawrence, and Kurt V. BlueDog; for the Poarch Band of Creek

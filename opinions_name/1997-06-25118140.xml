@@ -468,7 +468,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">521</span>
          <span class="reporter">U.S.</span>
@@ -1870,7 +1870,7 @@
          while I agree with some of the views expressed in the first paragraph of Part I of Justice
          O'Connor's dissent, I do not necessarily agree with all of them. I therefore join Justice
          O'Connor's dissent, with the exception of the first paragraph of Part I.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the Commonwealth of Virginia by
          James S. Gilmore II, Attorney General, David E. Anderson, Chief Deputy Attorney General,
          William Henry Hurd, Deputy Attorney General, and Lee E. Goodman; for the Clarendon

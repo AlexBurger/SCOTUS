@@ -64,7 +64,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">539</span>
          <span class="reporter">U.S.</span>
@@ -1067,7 +1067,7 @@
          statement targeting disclosure could override the HVIRA, there is no such declaration here.
          Accordingly, I would leave California's enactment in place, and affirm the judgment of the
          Court of Appeals.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the Chamber of Commerce of the
          United States et al. by Kim Heebner Price and Robin S. Conrad; for the Federal Republic of
          Germany by Roger M. Witten; for the Government of Switzerland by Stephan E. Becker; and for

@@ -53,7 +53,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">496</span>
          <span class="reporter">U.S.</span>
@@ -392,7 +392,7 @@
          is constitutionally valid.</p>
       <p>The judgment of the Court of Appeals is affirmed.</p>
       <p>It is so ordered.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] James M. Shannon, Attorney General of Massachusetts, and Douglas H. Wilkins and Eric
          Mogilnicki, Assistant Attorneys General, Thomas J. Miller, Attorney General of Iowa, James
          E. Tierney, Attorney General of Maine, Anthony J. Celebrezze, Jr., Attorney General of

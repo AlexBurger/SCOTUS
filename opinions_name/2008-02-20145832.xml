@@ -53,7 +53,7 @@
       <download_url/>
       <source>lawbox merged with court</source>
    </metadata>
-   <body><div> 128 S.Ct. 1029 (2008) Stephen DANFORTH, Petitioner, v. MINNESOTA. No. 06-8273. <p>Supreme
+   <body><div type="majority" judge=""> 128 S.Ct. 1029 (2008) Stephen DANFORTH, Petitioner, v. MINNESOTA. No. 06-8273. <p>Supreme
          Court of United States.</p> Argued October 31, 2007. Decided February 20, 2008. <p>
          <span class="star-pagination">*1032</span> Benjamin J. Butler, Minneapolis, MN, for
          petitioner.</p>
@@ -1649,7 +1649,7 @@
          before the new rule in Crawford was announced. In Whorton v. Bockting, 549 U.S. ___, 127
          S.Ct. 1173, 167 L.Ed.2d 1 (2007), we held that Crawford shall not be applied retroactively
          on collateral review. That should be the end of the matter. I respectfully dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[1] Although Teague was a plurality opinion that drew support from only four Members of the
          Court, the Teague rule was affirmed and applied by a majority of the Court shortly
          thereafter. See Penry v. Lynaugh, <span class="citation">

@@ -335,7 +335,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">505</span>
          <span class="reporter">U.S.</span>
@@ -4129,7 +4129,7 @@
          regional differences, the Court merely prolongs and intensifies the anguish.</p>
       <p>We should get out of this area, where we have no right to be, and where we do neither
          ourselves nor the country any good by remaining.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Together with No. 91-902, Casey, Governor of Pennsylvania, et al. v. Planned Parenthood
          of Southeastern Pennsylvania et al., also on certiorari to the same court.</p>
       <p>[&#x86;] Briefs of amici curiae were filed for the State of New York et al. by Robert

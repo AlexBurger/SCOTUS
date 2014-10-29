@@ -2511,7 +2511,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">501</span>
          <span class="reporter">U.S.</span>
@@ -3345,7 +3345,7 @@
          review of his claims is necessary to prevent a fundamental miscarriage of justice, he is
          barred from bringing these claims in federal habeas. Accordingly, the judgment of the Court
          of Appeals is</p>
-      <p>Affirmed.</p>
+      <p>Affirmed.</p></div>
       <p>JUSTICE WHITE, concurring.</p>
       <p>I concur in the judgment of the Court and I join in its opinion, but add a few words
          concerning what occurred below. Harris v. Reed, 489 U. S. 255 (1989), stated that "a
@@ -3793,7 +3793,7 @@
          today abandons that safeguard while continuing to embrace the cause and prejudice
          standard.</p>
       <p>I dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging affirmance were filed for the State of Kentucky et al. by
          Frederic J. Cowan, Attorney General of Kentucky, and Ian G. Sonego, Assistant Attorney
          General, and by the Attorneys General for their respective States as follows: Jimmy Evans

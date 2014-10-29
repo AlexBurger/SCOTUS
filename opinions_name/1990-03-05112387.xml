@@ -197,7 +197,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">494</span>
          <span class="reporter">U.S.</span>
@@ -408,7 +408,7 @@
          increase that likelihood &#x97; we conclude that Roberson did not establish any principle
          that would come within the second exception.</p>
       <p>The judgment of the Court of Appeals is therefore</p>
-      <p>Affirmed.</p>
+      <p>Affirmed.</p></div>
       <p>
          <span class="star-pagination">*417</span> JUSTICE BRENNAN, with whom JUSTICE MARSHALL
          joins, and with whom JUSTICE BLACKMUN and JUSTICE STEVENS join as to Parts I, II, and III,
@@ -719,7 +719,7 @@
          the protections of the Fifth Amendment as defined by this Court in Roberson, I would vacate
          his death sentence. I adhere to my view that the death penalty is in all circumstances
          cruel and unusual punishment. Gregg v. Georgia, 428 U. S. 153, 227 (1976).</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[1] Title 28 U. S. C. § 2254(a) provides that a federal court "shall entertain an
          application for a writ of habeas corpus in behalf of a person in custody pursuant to the
          judgment of a State court only on the ground that he is in custody in violation of the

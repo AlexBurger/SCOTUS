@@ -109,7 +109,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">510</span>
          <span class="reporter">U.S.</span>
@@ -443,7 +443,7 @@
          it unnecessary to do that. Since the parties to this suit are domestic entities it is quite
          impossible for our holding to be any broader.</p>
       <p>The judgment of the Supreme Court of Louisiana is</p>
-      <p>Affirmed.</p>
+      <p>Affirmed.</p></div>
       <p>JUSTICE SOUTER, concurring.</p>
       <p>I join in the opinion of the Court because I agree that in most cases the characterization
          of a state rule as substantive <span class="star-pagination">*458</span> or procedural will
@@ -769,7 +769,7 @@
          not have prevailed on its forum non <span class="star-pagination">*470</span> conveniens
          motion, but it should at least have a principled ruling on its objection.</p>
       <p>For these reasons, I would reverse the judgment.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Lizabeth L. Burrell and George W. Healy III filed a brief for the Maritime Law
          Association of the United States as amicus curiae urging reversal.</p>
       <p>[1] Justice Stevens asserts that we should not test the Louisiana law against the standards

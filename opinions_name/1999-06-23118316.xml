@@ -111,7 +111,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">527</span>
          <span class="reporter">U.S.</span>
@@ -870,7 +870,7 @@
          with the views expressed in the Seminole dissents and in the scholarly commentary on that
          case.</p>
       <p>I respectfully dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the State of Ohio et al. by Betty
          D. Montgomery, Attorney General of Ohio, Edward B. Foley, State Solicitor, and Elise W.
          Porter, Assistant Solicitor, and by the Attorneys General for their respective States as

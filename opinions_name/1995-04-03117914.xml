@@ -54,7 +54,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">514</span>
          <span class="reporter">U.S.</span>
@@ -781,7 +781,7 @@
          "sales taxes." The Court of Appeals wrote that this "is a classic instance of an
          unapportioned tax" upon interstate commerce. In re Jefferson Lines, Inc., 15 F. 3d 90, 93
          (CA8 1994). In my view, that is right. I respectfully dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Richard Ruda and Lee Fennell filed a brief for the National Conference of State
          Legislatures et al. as amici curiae urging reversal. </p>
       <p>Briefs of amici curiae urging affirmance were filed for the American Bus Association by

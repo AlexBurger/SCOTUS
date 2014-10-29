@@ -100,7 +100,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">528</span>
          <span class="reporter">U.S.</span>
@@ -1218,7 +1218,7 @@
       <p>Because the Court unjustifiably discounts the First Amendment interests of citizens and
          candidates, and consequently fails to strictly scrutinize the inhibition of political
          speech and competition, I respectfully dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the State of Ohio et al. by Betty
          D. Montgomery, Attorney General of Ohio, Edward B. Foley, State Solicitor, David M.
          Gormley, Iver A. Stridiron, Acting Attorney General of the U. S. Virgin Islands, and by the

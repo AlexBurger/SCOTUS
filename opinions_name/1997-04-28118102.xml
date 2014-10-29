@@ -97,7 +97,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">520</span>
          <span class="reporter">U.S.</span>
@@ -778,7 +778,7 @@
          the constitutionality of the state action presented by this case. Right now, however, no
          State has attempted even to make this argument, and I would therefore leave its
          consideration for another day.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging affirmance were filed for the American Civil Liberties
          Union et al. by Burt Neuborne, Steven R. Shapiro, Elliot M. Mincberg, and Lawrence S.
          Ottinger; for the Conservative Party of New York et al. by Rory O. Millson; for the Reform

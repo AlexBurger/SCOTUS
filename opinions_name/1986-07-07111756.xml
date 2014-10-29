@@ -157,7 +157,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">478</span>
          <span class="reporter">U.S.</span>
@@ -1547,7 +1547,7 @@
          extraordinarily far-reaching response to a deficit problem of unprecedented proportions.
          Because I believe that the constitutional defect found by the Court cannot justify the
          remedy it has imposed, I respectfully dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Together with No. 85-1378, United States Senate v. Synar, Member of Congress, et al.,
          and No. 85-1379, O'Neill, Speaker of the United States House of Representatives, et al. v.
          Synar, Member of Congress, et al., also on appeal from the same court.</p>

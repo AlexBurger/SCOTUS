@@ -466,7 +466,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">473</span>
          <span class="reporter">U.S.</span>
@@ -1875,7 +1875,7 @@
          persuaded that a fresh examination of the Court's Eleventh Amendment jurisprudence will
          produce benefits that far outweigh "the consequences of further unraveling the doctrine of
          stare decisis" in this area of the law. Id., at 155.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Solicitor General Lee, Assistant Attorney General Reynolds, Deputy Assistant Attorney
          General Cooper, Charles Fried, Christopher J. Wright, and Walter W. Barnett filed a brief
          for the United States as amicus curiae urging reversal. </p>

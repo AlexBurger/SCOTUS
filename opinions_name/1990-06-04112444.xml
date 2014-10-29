@@ -116,7 +116,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">496</span>
          <span class="reporter">U.S.</span>
@@ -698,7 +698,7 @@
          reversed, and the case is remanded for further proceedings not inconsistent with this
          opinion.</p>
       <p>It is so ordered.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the Crow Tribe of Indians by
          Daniel M. Rosenfelt; for the American Trucking Associations, Inc., et al. by Andrew L.
          Frey, Kenneth S. Geller, Mark I. Levy, Andrew J. Pincus, Peter G. Kumpe, Daniel R. Barney,

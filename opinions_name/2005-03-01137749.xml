@@ -216,7 +216,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">543</span>
          <span class="reporter">U.S.</span>
@@ -2067,7 +2067,7 @@
          our case law an unreliable basis for the designing of laws by citizens and their
          representatives, and for action by public officials. The result will be to crown
          arbitrariness with chaos.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] A brief of amici curiae urging reversal was filed for the State of Alabama et al. by
          Troy King, Attorney General of Alabama, Kevin C. Newsom, Solicitor General, and A. Vernon
          Barnett IV, Deputy Solicitor General, and by the Attorneys General for their respective

@@ -268,7 +268,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">528</span>
          <span class="reporter">U.S.</span>
@@ -1302,7 +1302,7 @@
       <p/>
       <h2>* * *</h2>
       <p>For these reasons, I respectfully dissent from Part III of the Court's opinion.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Together with No. 98-796, United States v. Florida Board of Regents et al., also on
          certiorari to the same court.</p>
       <p>[&#x86;] Laurie A. McCann and Melvin Radowitz filed a brief for the American Association of

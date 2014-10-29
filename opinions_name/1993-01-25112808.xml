@@ -481,7 +481,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">506</span>
          <span class="reporter">U.S.</span>
@@ -1704,7 +1704,7 @@
          safeguards is unacceptable, so too is an execution when the condemned prisoner can prove
          that he is innocent. The execution of a person who can show that he is innocent comes
          perilously close to simple murder.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[1] The letter read: "To whom it may concern: I am terribly sorry for those I have brought
          grief to their lives. Who knows why? We cannot change the future's problems with problems
          from the past. What I did was for a cause and purpose. One law runs others, and in the

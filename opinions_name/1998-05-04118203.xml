@@ -249,7 +249,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">523</span>
          <span class="reporter">U.S.</span>
@@ -1054,7 +1054,7 @@
          restriction upon "intent-based" constitutional torts; I am less put off by that consequence
          than some may be, since I believe that no "intent-based" constitutional tort would have
          been actionable under the § 1983 that Congress enacted.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging affirmance were filed for the State of Missouri et al. by
          Jeremiah W. (Jay) Nixon, Attorney General of Missouri, John R. Munich, Deputy Attorney
          General, and Alana M. Barrágan-Scott and Gretchen E. Rowan, Assistant Attorneys General,

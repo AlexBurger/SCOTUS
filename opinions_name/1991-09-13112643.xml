@@ -557,7 +557,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">501</span>
          <span class="reporter">U.S.</span>
@@ -1817,7 +1817,7 @@
          basis of the Tennessee Supreme Court's rationale,<span class="sup">[5]</span> but even in
          its resolution of the constitutional issue involved. Today is a sad day for a great
          institution.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Stephen B. Bright and J. L. Chestnut filed a brief for the Southern Christian
          Leadership Conference as amicus curiae urging reversal. </p>
       <p>Briefs of amici curiae urging affirmance were filed for the Criminal Justice Legal

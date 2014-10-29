@@ -53,7 +53,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">514</span>
          <span class="reporter">U.S.</span>
@@ -277,7 +277,7 @@
          Edmonds' actions against Oxford House violate the FHA's prohibitions against discrimination
          set out in §§ 3604(f)(1)(A) and (f)(3)(B). For the reasons stated, the judgment of the
          United States Court of Appeals for the Ninth Circuit is</p>
-      <p>Affirmed.</p>
+      <p>Affirmed.</p></div>
       </div><div type="" judge=""><p>Justice Thomas, with whom Justice Scalia and Justice Kennedy join, dissenting.</p>
       <p>Congress has exempted from the requirements of the Fair Housing Act (FHA) "any reasonable
          local, State, or Federal restrictions regarding the maximum number of occupants permitted
@@ -476,7 +476,7 @@
          petitioner's zoning code imposes "any . . . restrictions regarding the maximum number of
          occupants permitted to occupy a dwelling." Because I believe it does, I respectfully
          dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the City of Lubbock by Jean E.
          Shotts, Jr.; for the City of Mountlake Terrace by Gregory G. Schrag; for the Township of
          Upper St. Clair by Robert N. Hackett; and for the International City/County Management

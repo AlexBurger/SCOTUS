@@ -89,7 +89,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">531</span>
          <span class="reporter">U.S.</span>
@@ -1586,7 +1586,7 @@
          should have left undone. I would repair the damage as best we now can, by permitting the
          Florida recount to continue under uniform standards.</p>
       <p>I respectfully dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the State of Alabama by Bill
          Pryor, Attorney General, and Charles B. Campbell, Scott L. Rouse, and A. Vernon Barnett IV,
          Assistant Attorneys General; for the Florida House of Representatives et al. by Charles

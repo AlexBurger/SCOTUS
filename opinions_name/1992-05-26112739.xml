@@ -102,7 +102,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">504</span>
          <span class="reporter">U.S.</span>
@@ -870,7 +870,7 @@
          to a decision, however right it was at the time, that by reason of later cases and economic
          reality can no longer be rationally justified. The Commerce Clause aspect of Bellas Hess,
          along with its due process holding, should be overruled.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the State of New Hampshire et al.
          by John P. Arnold, Attorney General of New Hampshire, and Harold T. Judd, Senior Assistant
          Attorney General, Charles M. Oberly III, Attorney General of Delaware, and John R.

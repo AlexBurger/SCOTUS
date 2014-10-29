@@ -101,7 +101,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">542</span>
          <span class="reporter">U.S.</span>
@@ -2490,7 +2490,7 @@
       <h2>
          <span class="star-pagination">*599</span> * * *</h2>
       <p>For these reasons, I would affirm the judgment of the Court of Appeals.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the American Bar Association by
          Dennis W. Archer and Barry Sullivan; for AmeriCares et al. by Steven M. Pesner, Michael
          Small, and Jeffrey P. Kehne; for the American Civil Liberties Union et al. by Steven R.

@@ -73,7 +73,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">465</span>
          <span class="reporter">U.S.</span>
@@ -1075,7 +1075,7 @@
          prevailing. At the same time, the Court's decision to permit South Carolina to file this
          claim is an unwise use of its scarce resources. Accordingly, I respectfully dissent from
          the Court's decision to grant South Carolina's motion for leave to file its complaint.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae were filed for the City of Baltimore et al. by Benjamin Brown,
          J. Lamar Shelley, John W. Witt, Roger F. Cutler, Roy D. Bates, George Agnost, Robert J.
          Alfton, Mark Aronchick, James K. Baker, James P. McGuire, Clifford D. Pierce, Jr., William

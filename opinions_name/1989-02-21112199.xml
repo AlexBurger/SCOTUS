@@ -169,7 +169,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">489</span>
          <span class="reporter">U.S.</span>
@@ -823,7 +823,7 @@
          is preempted by the Supremacy Clause, and the judgment of that court is hereby
          affirmed.</p>
       <p>It is so ordered.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for Boston Whaler, Inc., by Geoffrey
          S. Stewart, James L. Quarles III, and William F. Lee; for Intellectual Property Owners,
          Inc., by Donald W. Banner and Herbert C. Wamsley; for the Marine Industries Association of

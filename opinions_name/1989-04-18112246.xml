@@ -145,7 +145,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">490</span>
          <span class="reporter">U.S.</span>
@@ -406,7 +406,7 @@
       <p>The judgment of the Massachusetts Supreme Judicial Court is reversed, and the case is
          remanded for further proceedings not inconsistent with this opinion.</p>
       <p>It is so ordered.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the United States by Solicitor
          General Fried, Deputy Solicitor General Ayer, Christopher J. Wright, George R. Salem, Allen
          H. Feldman, and Edward D. Sieger; for the State of New York et al. by Robert Abrams,

@@ -95,7 +95,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">515</span>
          <span class="reporter">U.S.</span>
@@ -2582,7 +2582,7 @@
          District Court had ordered the School District to submit plans projecting termination of
          court-ordered funding at alternative intervals, running from April 1993, of three, five,
          seven, or, at most, ten years).</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Together with Missouri et al. v. Jenkins et al., also on certiorari to the same court
          (see this Court's Rule 12.2).</p>
       <p>[&#x86;] Mark J. Bredemeier and Jerald L. Hill filed a brief for Icelean Clark et al. as

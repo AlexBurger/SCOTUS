@@ -91,7 +91,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">512</span>
          <span class="reporter">U.S.</span>
@@ -2134,7 +2134,7 @@
          should not affect the decision in this case. It is therefore inappropriate for me to
          comment on the portions of his opinion that are best described as an argument that the
          statute be repealed or amended in important respects.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging affirmance were filed for the United States by Acting
          Solicitor General Bryson, Acting Assistant Attorney General Turner, Acting Deputy Solicitor
          General Kneedler, Michael R. Dreeben, and Dennis J. Dimsey; and for the Lawyers' Committee

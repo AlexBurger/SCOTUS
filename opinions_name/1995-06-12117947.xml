@@ -322,7 +322,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">515</span>
          <span class="reporter">U.S.</span>
@@ -1964,7 +1964,7 @@
       <p>While I would not disturb the programs challenged in this case, and would leave their
          improvement to the political branches, I see today's decision as one that allows our
          precedent to evolve, still to be informed by and responsive to changing conditions.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for Associated General Contractors of
          America, Inc., by John G. Roberts, Jr., David G. Leitch, and Michael E. Kennedy; for the
          Atlantic Legal Foundation by Martin S. Kaufman; for the Federalist Society,Ohio State

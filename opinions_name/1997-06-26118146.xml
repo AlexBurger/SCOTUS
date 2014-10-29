@@ -152,7 +152,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">521</span>
          <span class="reporter">U.S.</span>
@@ -838,7 +838,7 @@
          on Coleman `s authority. I add that because the majority has decided that this dispute is
          not now justiciable and has expressed no view on the merits of the appeal, I shall not
          discuss the merits either, but reserve them for future argument.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Thomas B. Griffith, Morgan J. Frankel, Steven F. Huefner, Geraldine R. Gennet, Kerry W.
          Kircher, and Michael L. Stern filed a brief for the United States Senate et al. as amici
          curiae urging reversal. </p>

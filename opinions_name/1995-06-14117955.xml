@@ -137,7 +137,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">515</span>
          <span class="reporter">U.S.</span>
@@ -825,7 +825,7 @@
          Court with "substantial doubt" as to Congress's design, id., at 351. There is no
          substantial doubt here. The presumption has no work to do.</p>
       <p>I would affirm.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[1] Petitioners also filed an administrative claim with the DEA pursuant to 84 Stat. 1284,
          as amended, 21 U. S. C. § 904, which authorizes settlement of tort claims that "arise in a
          foreign country in connection with the operations of the [DEA] abroad." The DEA referred

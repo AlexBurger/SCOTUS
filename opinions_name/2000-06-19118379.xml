@@ -153,7 +153,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">530</span>
          <span class="reporter">U.S.</span>
@@ -673,7 +673,7 @@
          such persistent irrelevancy, at least when it is indulged in the margins: that it may
          encourage readers to ignore our footnotes.</p>
       <p>For this reason, I join only the judgment of the Court.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the State of Arkansas et al. by
          Heidi Heitkamp, Attorney General of North Dakota, Douglas A. Bahr, Solicitor General, and
          Beth Angus Baumstark, Assistant Attorney General, and by the Attorneys General for their

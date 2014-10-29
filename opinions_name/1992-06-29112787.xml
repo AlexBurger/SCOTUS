@@ -337,7 +337,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">505</span>
          <span class="reporter">U.S.</span>
@@ -1889,7 +1889,7 @@
          circumstances, I believe it proper for me to vote to dismiss the writ, despite the Court's
          contrary preference. See, e. g., Welsh v. Wisconsin, 466 U. S. 740, 755 (1984) (Burger, C.
          J.); United States v. Shannon, 342 U. S. 288, 294 (1952) (Frankfurter, J.).</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the United States by Solicitor
          General Starr, Acting Assistant Attorney General Hartman, Deputy Solicitor General Wallace,
          Deputy Assistant Attorney General Clegg, Acting Deputy Assistant Attorney General Cohen,

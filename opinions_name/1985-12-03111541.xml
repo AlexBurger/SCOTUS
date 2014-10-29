@@ -198,7 +198,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">474</span>
          <span class="reporter">U.S.</span>
@@ -736,7 +736,7 @@
          Double Jeopardy Clause or simply as an affront to the due process guarantee of fundamental
          fairness, Alabama's prosecution of petitioner cannot survive constitutional scrutiny. I
          therefore must dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[1] The indictment read as follows: </p>
       <p>"[The grand jurors] in the name and on behalf of the citizens of Georgia, charge and accuse
          LARRY GENE HEATH [et al.] with the offense of MURDER (26-1101); for that the said LARRY

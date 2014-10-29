@@ -195,7 +195,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">481</span>
          <span class="reporter">U.S.</span>
@@ -710,7 +710,7 @@
          very standards of the profession to serve two masters. The appointment of counsel for
          Vuitton to conduct the contempt prosecution in these cases therefore was improper.
          Accordingly, the judgment of the Court of Appeals is</p>
-      <p>Reversed.</p>
+      <p>Reversed.</p></div>
       <p>JUSTICE BLACKMUN, concurring.</p>
       <p>I join JUSTICE BRENNAN's opinion. I would go further, however, and hold that the practice
          &#x97; federal or state &#x97; of <span class="star-pagination">*815</span> appointing an
@@ -1032,7 +1032,7 @@
          and that petitioners were not denied due process of law by being tried and convicted of
          contempt. Because I discern no ground for concluding that petitioners did not receive a
          fair trial, I would affirm the Court of Appeals.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Together with No. 85-6207, Klayminc v. United States ex rel. Vuitton et Fils S. A. et
          al., also on certiorari to the same court.</p>
       <p>[1] Petitioners' sentences were as follows: Sol Klayminc, 5 years; Gerald Young, 2 1/2

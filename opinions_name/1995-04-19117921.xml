@@ -160,7 +160,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">514</span>
          <span class="reporter">U.S.</span>
@@ -1182,7 +1182,7 @@
          traditionally sacrosanct, seems to me a distortion of the past that will lead to a
          coarsening of the future.</p>
       <p>I respectfully dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging affirmance were filed for the State of Tennessee et al.
          by Charles W. Burson, Attorney General of Tennessee, Michael E. Moore, Solicitor General,
          and Michael W. Catalano, and by the Attorneys General for their respective States as

@@ -183,7 +183,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">473</span>
          <span class="reporter">U.S.</span>
@@ -978,7 +978,7 @@
          Accordingly, appellees do not have standing to challenge the constitutionality of §
          3(c)(1)(D)(ii) in this action.<span class="sup">[3]</span> For this reason, I agree that
          the judgment of the District Court must be reversed.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] David B. Weinberg and William R. Weissman filed a brief for Griffin Corp. et al. as
          amici curiae urging reversal. </p>
       <p>Wilkes C. Robinson filed a brief for Gulf and Great Plains Legal Foundation as amicus

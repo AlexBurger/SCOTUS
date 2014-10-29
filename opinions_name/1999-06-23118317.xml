@@ -194,7 +194,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">527</span>
          <span class="reporter">U.S.</span>
@@ -1095,7 +1095,7 @@
          clearly said that College Savings Bank may bring a Lanham Act suit in these circumstances.
          For the reasons set forth in this opinion, I believe Congress has the constitutional power
          so to provide. I would therefore reverse the judgment of the Court of Appeals.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Martin H. Redish and Jerome Gilson filed a brief for the International Trademark
          Association as amicus curiae urging reversal. </p>
       <p>Briefs of amici curiae urging affirmance were filed for the State of Ohio et al. by Betty

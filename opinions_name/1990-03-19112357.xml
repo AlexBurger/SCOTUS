@@ -153,7 +153,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">493</span>
          <span class="reporter">U.S.</span>
@@ -439,7 +439,7 @@
          consider civil claims arising under RICO. Nothing in the language, structure, legislative
          history, or underlying policies of RICO suggests that Congress intended otherwise. The
          judgment of the Court of Appeals is accordingly</p>
-      <p>Affirmed.</p>
+      <p>Affirmed.</p></div>
       <p>JUSTICE WHITE, concurring.</p>
       <p>I agree that state courts have concurrent jurisdiction over civil RICO actions and join the
          opinion and judgment of the Court. I add a few words only because this Court has rarely
@@ -607,7 +607,7 @@
          proposition that meeting any one of the tests would have sufficed is dictum here, as it was
          there. In my view meeting the second test is assuredly not enough, and meeting the third
          may not be.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[1] Compare McCarter v. Mitcham, 883 F. 2d 196, 201 (CA3 1989) (concurrent jurisdiction);
          Brandenburg v. Seidel, 859 F. 2d 1179, 1193-1195 (CA4 1988) (same); Lou v. Belzberg, 834 F.
          2d 730, 738-739 (CA9 1987) (same), cert. denied, 485 U. S. 993 (1988); Simpson Elec. Corp.

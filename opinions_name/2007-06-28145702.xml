@@ -35,7 +35,7 @@
       <download_url/>
       <source>lawbox merged with court</source>
    </metadata>
-   <body><div> 551 U.S. ___ (2007) PARENTS INVOLVED IN COMMUNITY SCHOOLS, Petitioner v. SEATTLE SCHOOL
+   <body><div type="majority" judge=""> 551 U.S. ___ (2007) PARENTS INVOLVED IN COMMUNITY SCHOOLS, Petitioner v. SEATTLE SCHOOL
       DISTRICT NO. 1 ET AL. CRYSTAL D. MEREDITH, CUSTODIAL PARENT AND NEXT FRIEND OF JOSHUA RYAN
       MCDONALD, Petitioner v. JEFFERSON COUNTY BOARD OF EDUCATION ET AL. No. 05-908. <p>Supreme
          Court of United States.</p> Argued December 4, 2006. Decided June 28, 2007.<span
@@ -3957,7 +3957,7 @@
          </span> (WD Ky. 2004); McFarland v. Jefferson Cty. Public Schools, 416 F. 3d 513 (2005);
          Memorandum from Stephen W. Daeschner, Superintendent, to the Board of Education, Jefferson
          Cty. Public School Dist., 3-4 (Apr. 2, 2001).</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Together with No. 05-915, Meredith, Custodial Parent and Next Friend of McDonald v.
          Jefferson County Bd. of Ed et al., on certiorari to the United States Court of Appeals for
          the Sixth Circuit.</p>

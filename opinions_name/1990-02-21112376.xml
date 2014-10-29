@@ -86,7 +86,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">494</span>
          <span class="reporter">U.S.</span>
@@ -581,7 +581,7 @@
          "based on a permissible construction of the statute." Chevron U. S. A. Inc. v. Natural
          Resources Defense Council, Inc., 467 U. S., at 843.</p>
       <p>I respectfully dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Cathy Ventrell-Monsees and Peter Komlos-Hrobsky filed a brief for the American
          Association of Retired Persons et al. as amici curiae urging affirmance.</p>
       <p>[*] "(A) Whenever the Secretary finds that more or less than the correct amount of benefits

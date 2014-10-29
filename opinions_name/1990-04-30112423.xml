@@ -116,7 +116,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">495</span>
          <span class="reporter">U.S.</span>
@@ -332,7 +332,7 @@
          provision, establishes the States' <span class="star-pagination">*309</span> waiver of any
          Eleventh Amendment immunity that might otherwise bar respondents' suits against petitioner.
          The judgments of the Court of Appeals for the Second Circuit are therefore</p>
-      <p>Affirmed.</p>
+      <p>Affirmed.</p></div>
       <p>JUSTICE BRENNAN, with whom JUSTICE MARSHALL, JUSTICE BLACKMUN, and JUSTICE STEVENS join,
          concurring in part and concurring in the judgment.</p>
       <p>While I agree with the Court that New York and New Jersey consented, on behalf of the Port
@@ -535,7 +535,7 @@
          Consequently, I believe that this Court, following its current view of the Eleventh
          Amendment, could have rested its decision today on the absence of an Eleventh Amendment
          defense as well as on waiver.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Together with Port Authority Trans-Hudson Corp. v. Foster, also on certiorari to the
          same court (see this Court's Rule 12.2).</p>
       <p>[&#x86;] Benna Ruth Solomon and Charles Rothfield filed a brief for the Council of State

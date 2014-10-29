@@ -45,7 +45,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">544</span>
          <span class="reporter">U.S.</span>
@@ -1017,7 +1017,7 @@
       Id., at 794 (citations omitted). <p>Because the Court's holding today has little to support it
          other than a naked interest in protecting the two major parties, I respectfully
          dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] A brief of amici curiae urging reversal was filed for the State of South Dakota et al.
          by Lawrence E. Long, Attorney General of South Dakota, Craig M. Eichstadt, Deputy Attorney
          General, and Gene C. Schaerr, and by the Attorneys General for their respective States as

@@ -61,7 +61,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">483</span>
          <span class="reporter">U.S.</span>
@@ -347,7 +347,7 @@
             class="star-pagination">*451</span> is convened to try a serviceman who was a member of
          the Armed Services at the time of the offense charged.<span class="sup">[18]</span> The
          judgment of the Court of Military Appeals is</p>
-      <p>Affirmed.</p>
+      <p>Affirmed.</p></div>
       <p>JUSTICE STEVENS, concurring in the judgment.</p>
       <p>Today's unnecessary overruling of precedent is most unwise. The opinion of the United
          States Court of Military Appeals demonstrates that petitioner's offenses were sufficiently
@@ -658,7 +658,7 @@
          for purely civilian offenses. The Court's action today reflects contempt, both for the
          members of our Armed Forces and for the constitutional safeguards intended to protect us
          all. I dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the Defense Appellate Division,
          United States Army, by Brooks B. La Grua; and for Vietnam Veterans of America by Ronald
          William Meister and Barton F. Stichman.</p>

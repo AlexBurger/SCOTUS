@@ -153,7 +153,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">483</span>
          <span class="reporter">U.S.</span>
@@ -1142,7 +1142,7 @@
          In my view, we should at minimum confine Hans to its current domain. More fundamentally,
          however, it is time to begin a fresh examination of Eleventh Amendment jurisprudence
          without the weight of that mistaken precedent. I therefore dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Robert M. Weinberg, Julia Penny Clark, David M. Silberman, Laurence Gold, and George
          Kaufmann filed a brief for the American Federation of Labor and Congress of Industrial
          Organizations as amicus curiae urging reversal.</p>

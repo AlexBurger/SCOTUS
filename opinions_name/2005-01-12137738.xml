@@ -8822,7 +8822,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">543</span>
          <span class="reporter">U.S.</span>
@@ -11482,7 +11482,7 @@
       <p/>
       <h2>III</h2>
       <p>For these reasons, I respectfully dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Together with No. 04-105, United States v. Fanfan, on certiorari before judgment to the
          United States Court of Appeals for the First Circuit.</p>
       <p>[&#x86;] Briefs of amici curiae urging reversal in both cases were filed for the United

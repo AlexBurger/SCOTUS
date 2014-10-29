@@ -331,7 +331,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">465</span>
          <span class="reporter">U.S.</span>
@@ -1036,7 +1036,7 @@
          intent, unnecessary, and, in light of the FAA's antecedents and the intervening contraction
          of federal power, inexplicable. Although arbitration is a worthy alternative to litigation,
          today's exercise in judicial revisionism goes too far. I respectfully dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] A brief of amici curiae was filed by Simon H. Trevas for the Securities Division of the
          State of Washington et al.</p>
       <p>[1] California Corp. Code Ann. § 31512 (West 1977) provides: "Any condition, stipulation or

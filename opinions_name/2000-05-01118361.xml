@@ -76,7 +76,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">529</span>
          <span class="reporter">U.S.</span>
@@ -1345,7 +1345,7 @@
          The Court today thus not only brings about an "undefined enlargement of the Ex Post Facto
          Clause," Collins, 497 U. S., at 46, that conflicts with established precedent, it also
          fails to advance the Clause's fundamental purposes. For these reasons, I dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Robert P. Marcovitch and Barbara Bergman filed a brief for the National Association of
          Criminal Defense Lawyers as amicus curiae urging reversal. </p>
       <p>A brief of amici curiae urging affirmance was filed for the State of Kansas et al. by Carla

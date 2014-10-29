@@ -442,7 +442,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">481</span>
          <span class="reporter">U.S.</span>
@@ -2174,7 +2174,7 @@
          of cases that present an unacceptable risk that race played a decisive role in McCleskey's
          sentencing.</p>
       <p>Accordingly, I respectfully dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the Congressional Black Caucus et
          al. by Seth P. Waxman, Harold R. Tyler, Jr., James Robertson, Norman Redlich, William L.
          Robinson, and Grover Hankins; and for the International Human Rights Law Group by Ralph G.

@@ -82,7 +82,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">495</span>
          <span class="reporter">U.S.</span>
@@ -614,7 +614,7 @@
          the last word on where a particular bill has originated &#x97; which seems to me as it
          should be.</p>
       <p>For these reasons, I concur in the judgment of the Court.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[1] The Ninth Circuit's ruling that § 3013 was passed in violation of the Origination
          Clause is inconsistent with the holdings of the other six Courts of Appeals that have
          considered the issue. See United States v. Griffin, 884 F. 2d 655, 656-657 (CA2 1989) (§

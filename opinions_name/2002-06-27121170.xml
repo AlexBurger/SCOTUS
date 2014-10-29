@@ -77,7 +77,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">536</span>
          <span class="reporter">U.S.</span>
@@ -1331,7 +1331,7 @@
          Minnesota's accommodation of the complex and competing concerns in this sensitive area.
          Accordingly, I would affirm the judgment of the Court of Appeals for the Eighth
          Circuit.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the American Center for Law and
          Justice by Jay Alan Sekulow, James H. Henderson, Sr., Colby M. May, and Walter M. Weber;
          for the American Civil Liberties Union et al. by David B. Is bell, David H. Remes, and

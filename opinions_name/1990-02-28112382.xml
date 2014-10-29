@@ -161,7 +161,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">494</span>
          <span class="reporter">U.S.</span>
@@ -513,7 +513,7 @@
          such American action, they must be imposed by the political branches through diplomatic
          understanding, treaty, or legislation.</p>
       <p>The judgment of the Court of Appeals is accordingly</p>
-      <p>Reversed.</p>
+      <p>Reversed.</p></div>
       <p>
          <span class="star-pagination">*275B</span> JUSTICE KENNEDY, concurring.</p>
       <p>I agree that no violation of the Fourth Amendment has occurred and that we must reverse the
@@ -958,7 +958,7 @@
          Appeals addressed the issue of probable cause, and I do not believe that a reliable
          determination could be made on the basis of the record before us. I therefore would vacate
          the judgment of the Court of Appeals and remand the case for further proceedings.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Kent S. Scheidegger filed a brief for the Criminal Justice Legal Foundation as amicus
          curiae urging reversal. </p>
       <p>John A. Powell, Paul L. Hoffman, and David D. Cole filed a brief for the American Civil

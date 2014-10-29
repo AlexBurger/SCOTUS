@@ -49,7 +49,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">544</span>
          <span class="reporter">U.S.</span>
@@ -1851,7 +1851,7 @@
          applied to regulation of liquor imports into a State. They require sustaining the
          constitutionality of Michigan's and New York's direct-shipment laws. I respectfully
          dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Together with No. 03-1120, Michigan Beer &amp;amp; Wine Wholesalers Assn. v. Heald et
          al., also on certiorari to the same court, and No. 03-1274, Swedenburg et al. v. Kelly,
          Chairman, New York Division of Alcoholic Beverage Control, State Liquor Authority, et al.,

@@ -236,7 +236,7 @@
       <download_url/>
       <source>lawbox</source>
    </metadata>
-   <body><div> 518 U.S. 415 (1996) GASPERINI v. CENTER FOR HUMANITIES, INC. No. 95-719. <p>United States
+   <body><div type="majority" judge=""> 518 U.S. 415 (1996) GASPERINI v. CENTER FOR HUMANITIES, INC. No. 95-719. <p>United States
          Supreme Court.</p> Argued April 16, 1996. Decided June 24, 1996. CERTIORARI TO THE UNITED
       STATES COURT OF APPEALS FOR THE SECOND CIRCUIT <p>
          <span class="star-pagination">*417</span>
@@ -1298,7 +1298,7 @@
          disregard of Congress's instructions in Rule 59, one must conclude that this is a bad day
          for the Constitution's distinctive Article III courts in general, and for the role of the
          jury in those courts in particular. I respectfully dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the Association of Trial Lawyers
          of America by Jeffrey Robert White and Pamela A. Liapakis; for the Picture Agency Council
          of America, Inc.(PACA), by Nancy E. Wolff; and for Federal Jurisdiction and Legal History

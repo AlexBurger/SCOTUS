@@ -307,7 +307,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">460</span>
          <span class="reporter">U.S.</span>
@@ -777,7 +777,7 @@
          freedom of choice and freedom of association, in an election of nationwide importance,
          unquestionably outweigh the State's minimal interest in imposing a March deadline.</p>
       <p>The judgment of the Court of Appeals is</p>
-      <p>Reversed.</p>
+      <p>Reversed.</p></div>
       <p>
          <span class="star-pagination">*806B</span> JUSTICE REHNQUIST, with whom JUSTICE WHITE,
          JUSTICE POWELL, and JUSTICE O'CONNOR join, dissenting.</p>
@@ -1148,7 +1148,7 @@
          and then allow all unsuccessful party candidates to refight their party battles by forming
          an "independent" candidacy. I find nothing in the Constitution which requires this result.
          For this reason I would affirm the judgment of the Court of Appeals.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Arthur N. Eisenberg, Charles S. Sims, Bruce Campbell, and John C. Armor filed a brief
          for the American Civil Liberties Union et al. as amici curiae urging reversal.</p>
       <p>[1] Section 3513.25.7 provides, in pertinent part: </p>

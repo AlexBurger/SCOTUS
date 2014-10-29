@@ -182,7 +182,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">485</span>
          <span class="reporter">U.S.</span>
@@ -1093,7 +1093,7 @@
          at 454 (quoting AIRFA), it fails utterly to accord with the dictates of the First
          Amendment.</p>
       <p>I dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the State of Hawaii et al. by
          Kenneth O. Eikenberry, Attorney General of Washington, Timothy R. Malone, Nixon Handy, and
          Mark S. Green, Assistant Attorneys General, Warren Price III, Attorney General of Hawaii,

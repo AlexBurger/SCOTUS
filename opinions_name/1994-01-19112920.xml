@@ -62,7 +62,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">510</span>
          <span class="reporter">U.S.</span>
@@ -481,7 +481,7 @@
       <p>For the reasons stated, we reject the petitioners' Appointments Clause and Due Process
          Clause attacks on the judges who convicted them and those who heard their appeals. The
          judgments of the Court of Military Appeals are accordingly</p>
-      <p>Affirmed.</p>
+      <p>Affirmed.</p></div>
       <p>
          <span class="star-pagination">*182</span> JUSTICE SOUTER, concurring.</p>
       <p>I join the Court's opinion on the understanding that military judges, like ordinary
@@ -837,7 +837,7 @@
          `fundamentally unfair' as to deny due process of law." Pacific Mut. Life Ins. Co. v.
          Haslip, 499 U. S. 1, 38 (1991) (SCALIA, J., concurring).</p>
       <p>For these reasons, I concur in Parts I and II-A and concur in the judgment.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Together with Hernandez v. United States, also on certiorari to the same court (see
          this Court's Rule 12.2).</p>
       <p>[&#x86;] Briefs of amici curiae urging reversal were filed for the American Civil Liberties

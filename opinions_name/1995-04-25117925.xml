@@ -259,7 +259,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">514</span>
          <span class="reporter">U.S.</span>
@@ -846,7 +846,7 @@
          condemning respondent's assertion of increased punishment as "speculative" seems to me not
          only unpersuasive, but actually perverse.</p>
       <p>I respectfully dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the State of Georgia by Michael
          J. Bowers, Attorney General, Terry L. Long, Assistant Attorney General, and Daryl A.
          Robinson, Senior Assistant Attorney General; for the State of Pennsylvania et al. by Ernest

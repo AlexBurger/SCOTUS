@@ -77,7 +77,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">466</span>
          <span class="reporter">U.S.</span>
@@ -419,7 +419,7 @@
       <p>We reject the Court of Appeals' declaration that the Convention is prospectively
          unenforceable; the judgment of the Court of Appeals affirming the judgment of the District
          Court is</p>
-      <p>Affirmed.</p>
+      <p>Affirmed.</p></div>
       <p>JUSTICE STEVENS, dissenting.</p>
       <p>This litigation involves the interpretation of Article 22 of the Warsaw Convention. The
          plain language of that Article, quoted ante, at 247, requires that the liability limits be
@@ -837,7 +837,7 @@
             >[12]</span> It does so today.<span class="sup">[13]</span> The task of revising an
          international treaty is not one that this Court has any authority to perform. I
          respectfully dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Together with No. 82-1465, Franklin Mint Corp. et al. v. Trans World Airlines, Inc.,
          also on certiorari to the same court.</p>
       <p>[&#x86;] Alden D. Halford filed a brief for Boehringer Mannheim Diagnostics, Inc., as

@@ -109,7 +109,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">520</span>
          <span class="reporter">U.S.</span>
@@ -1054,7 +1054,7 @@
          reasoned explanation of why the immunity is needed; and I also agree that, in the absence
          of that explanation, the court's postponement of the trial date was premature. For those
          reasons, I concur in the result.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] John C. Jeffries, Jr., and Pamela S. Karlan filed a brief for Law Professors as amicus
          curiae urging reversal. </p>
       <p>Christopher A. Hansen and Steven R. Shapiro filed a brief for the American Civil Liberties

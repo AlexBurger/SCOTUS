@@ -149,7 +149,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">501</span>
          <span class="reporter">U.S.</span>
@@ -618,7 +618,7 @@
          1362, and that they have alleged a federal cause of action. Accordingly, I would affirm the
          judgment of the Court of Appeals. I respectfully dissent from this Court's reversal of that
          judgment.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the State of Alabama et al. by
          Donald J. Hanaway, Attorney General of Wisconsin, and Charles D. Hoornstra, Assistant
          Attorney General, and by the Attorneys General for their respective States as follows: Don

@@ -87,7 +87,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">533</span>
          <span class="reporter">U.S.</span>
@@ -1258,7 +1258,7 @@
          silence concerning state courts as an objection to state-court jurisdiction.</p>
       <p>In sum, I agree with the interpretation of this federal statute that is endorsed by the
          Solicitor General of the United States.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] A brief of amici curiae urging reversal was filed for the State of Montana et al. by
          Joseph P. Mazurek, Attorney General of Montana, Clay R. Smith, Solicitor, and Harley R.
          Harris, Assistant Attorney General, joined by the Attorneys General for their respective

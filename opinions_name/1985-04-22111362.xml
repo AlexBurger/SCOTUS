@@ -181,7 +181,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">470</span>
          <span class="reporter">U.S.</span>
@@ -1147,7 +1147,7 @@
          no doubt, believes that it is undoing a grave historical injustice, but in doing so it has
          caused another, which only Congress may now rectify.</p>
       <p>I respectfully dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Together with No. 83-1240, New York v. Oneida Indian Nation of New York State et al.,
          also on certiorari to the same court.</p>
       <p>[&#x86;] Briefs of amici curiae urging reversal were filed for C. H. Albright et al. by J.

@@ -57,7 +57,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">537</span>
          <span class="reporter">U.S.</span>
@@ -1935,7 +1935,7 @@
          text that the extension fails to create uniformity where it would appear to be most
          important&#x97;pre-1978 copyrighted works nearing the end of their pre-extension terms, and
          works made for hire.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the American Association of Law
          Libraries et al. by Arnold P. Lutzker and Carl H. Settlemyer III; for the College Art
          Association et al. by Jeffrey P. Cunard and Bruce P. Keller; for the Eagle Forum Education

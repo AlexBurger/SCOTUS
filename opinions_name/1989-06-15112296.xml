@@ -694,7 +694,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">491</span>
          <span class="reporter">U.S.</span>
@@ -1942,7 +1942,7 @@
       <p>For the foregoing reasons, and for those stated in Parts II-B and II-C of JUSTICE BRENNAN's
          opinion, I respectfully dissent from the conclusion reached in Part III of the Court's
          opinion. I also agree with JUSTICE BRENNAN's discussion of the promotion claim.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the United States by Solicitor
          General Fried, Assistant Attorney General Reynolds, Deputy Solicitor General Ayer, Deputy
          Assistant Attorney General Clegg, Glen D. Nager, and Jessica Dunsay Silver; and for the

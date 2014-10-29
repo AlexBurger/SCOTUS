@@ -121,7 +121,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">532</span>
          <span class="reporter">U.S.</span>
@@ -568,7 +568,7 @@
          particularly strong. Travelers, 514 U. S., at 655. For these reasons, I disagree with the
          Court's conclusion. And, consequently, I dissent.</p>
       <p>APPENDIX TO OPINION OF BREYER, J.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the AARP by Mary Ellen Signorille
          and Melvin Radowitz; for the Boeing Co. et al. by Bruce D. Corker, Kurt E. Lisnenmayer,
          Paul J. Ehlenbach, Loretta B. Kepler, Stephen A. Bokat, and Jan Amundson; for the National

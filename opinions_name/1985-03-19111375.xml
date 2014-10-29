@@ -426,7 +426,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">470</span>
          <span class="reporter">U.S.</span>
@@ -1120,7 +1120,7 @@
       <p>Here, I believe that Wayte has raised sufficient questions about the Government's
          intentions to be entitled to obtain access to evidence in the Government's possession. I
          therefore dissent from the Court's outright dismissal of his equal protection claim.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Dennis E. Curtis filed a brief for the Central Committee for Conscientious Objectors et
          al. as amici curiae urging reversal.</p>
       <p>[1] Section 3 provides in pertinent part: </p>

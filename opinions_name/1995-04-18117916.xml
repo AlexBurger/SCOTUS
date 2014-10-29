@@ -214,7 +214,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">514</span>
          <span class="reporter">U.S.</span>
@@ -1493,7 +1493,7 @@
          and the judiciary amply supports the conclusion that § 27A(b) reflects constructive
          legislative cooperation rather than a usurpation of judicial prerogatives.</p>
       <p>Accordingly, I respectfully dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the National Association of
          Securities and Commercial Law Attorneys by James M. Finberg and Paul J. Mishkin; for the
          Pacific Mutual Life Insurance Co. by Richard G. Taranto, H. Bartow Farr III, and Stewart M.

@@ -69,7 +69,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">514</span>
          <span class="reporter">U.S.</span>
@@ -675,7 +675,7 @@
       <p>This, then, is clearly a case where it is better that the matter be decided than that it be
          decided right. Bramblett governs this case, and if the rule of that case is to be
          overturned it should be at the hands of Congress, and not of this Court.</p>
-      <div type="notes">
+      </div><div type="notes">
       </div><div type="" judge=""><p>[*] Justice Thomas joins Parts I, II, III, and VI of this opinion.</p>
       <p>[1] Petitioner was also charged with, and convicted of, bankruptcy fraud and mail fraud
          under 18 U. S. C. §§ 152 and 1341 (1988 ed. and Supp. V). The validity of those convictions

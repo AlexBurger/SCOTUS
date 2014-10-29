@@ -159,7 +159,7 @@
       <download_url/>
       <source>lawbox merged with court</source>
    </metadata>
-   <body><div> 128 S.Ct. 2783 (2008) DISTRICT OF COLUMBIA et al., Petitioners, v. Dick Anthony HELLER.
+   <body><div type="majority" judge=""> 128 S.Ct. 2783 (2008) DISTRICT OF COLUMBIA et al., Petitioners, v. Dick Anthony HELLER.
       No. 07-290. <p>Supreme Court of United States.</p> Argued March 18, 2008. Decided June 26,
       2008. <p>
          <span class="star-pagination">*2787</span> Walter Dellinger, for petitioners.</p>
@@ -3867,7 +3867,7 @@
          STEVENS, I would find the District's measure consistent with the Second Amendment's
          demands.</p>
       <p>With respect, I dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[1] There are minor exceptions to all of these prohibitions, none of which is relevant
          here.</p>
       <p>[2] That construction has not been challenged here.</p>

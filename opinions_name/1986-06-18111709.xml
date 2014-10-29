@@ -55,7 +55,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">477</span>
          <span class="reporter">U.S.</span>
@@ -335,7 +335,7 @@
          But we never suggested in that case or any other that the Foreign Commerce Clause insists
          that the Federal Government speak with any particular voice.</p>
       <p>In light of the above, the judgment of the Supreme Court of Florida is</p>
-      <p>Affirmed.</p>
+      <p>Affirmed.</p></div>
       <p>CHIEF JUSTICE BURGER, concurring in part and concurring in the judgment.</p>
       <p>The Court acknowledges in its discussion in Part II concerning the scope of the Federal
          Aviation Act that "not only is there no indication that Congress wished to preclude state
@@ -507,7 +507,7 @@
          Court made clear that a State, "by its unilateral act, cannot be permitted to place . . .
          impediments before this Nation's conduct of its foreign relations and its foreign trade."
          Ibid. Because the Court's decision today permits just that, I respectfully dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Robert D. Papkin filed a brief for Aer Lingus et al. as amici curiae urging
          reversal.</p>
       <p>[1] The Constitution provides that "Congress shall have Power . . . To regulate Commerce

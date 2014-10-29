@@ -74,7 +74,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">506</span>
          <span class="reporter">U.S.</span>
@@ -752,7 +752,7 @@
          prudential concerns that would ordinarily counsel silence. "The political question
          doctrine, a tool for maintenance of governmental order, will not be so applied as to
          promote only disorder." Baker, supra, at 215.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Patti A. Goldman and Alan B. Morrison filed a brief for Public Citizen as amicus curiae
          urging reversal. </p>
       <p>Joseph P. Galda, Daniel J. Popeo, and Paul D. Kamenar filed a brief for the Washington

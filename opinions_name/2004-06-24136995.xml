@@ -3295,7 +3295,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">542</span>
          <span class="reporter">U.S.</span>
@@ -4544,7 +4544,7 @@
          rather, I would call for further argument on the ramifications of the concerns I have
          raised. But that is not the Court's view.</p>
       <p>For the reasons given, I dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the American Civil Liberties
          Union et al. by James E. Lobsenz, Aaron H. Caplan, and Steven R. Shapiro; for the Kansas
          Appellate Defender Office by Randall L. Hodgkinson; and for the National Association of

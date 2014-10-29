@@ -67,7 +67,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">530</span>
          <span class="reporter">U.S.</span>
@@ -840,7 +840,7 @@
       <h2>* * *</h2>
       <p>For the reasons stated in Part I of this opinion, as well as those stated more fully in the
          District Court's excellent opinion, I respectfully dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the Eagle Forum Education
          &amp;amp; Legal Defense Fund et al. by Erik S. Jaffe; for the Republican National Committee
          et al. by Joseph E. Sandler and Thomas J. Josefiak; and for the Republican Party of Alaska,

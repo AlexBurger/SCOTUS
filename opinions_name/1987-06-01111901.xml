@@ -280,7 +280,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">482</span>
          <span class="reporter">U.S.</span>
@@ -718,7 +718,7 @@
          further that the law is not pre-empted by the NLRA, since its establishment of a minimum
          labor standard does not impermissibly intrude upon the collective-bargaining process. The
          judgment of the Maine Supreme Judicial Court is therefore</p>
-      <p>Affirmed.</p>
+      <p>Affirmed.</p></div>
       <p>JUSTICE WHITE, with whom THE CHIEF JUSTICE, JUSTICE O'CONNOR, and JUSTICE SCALIA join,
          dissenting.</p>
       <p>The Court rejects appellant's pre-emption challenge to Maine's severance pay statute by
@@ -809,7 +809,7 @@
       <p>The Court's "administrative-scheme" rationale provides States with a means of circumventing
          congressional intent, clearly expressed in § 1144, to pre-empt all state laws that relate
          to employee benefit plans. For that reason, I dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the United States by Solicitor
          General Fried, Deputy Solicitor General Ayer, Christopher J. Wright, George R. Salem, and
          Allen H. Feldman; and for the Chamber of Commerce of the United States by Richard G. Moon,

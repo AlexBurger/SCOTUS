@@ -61,7 +61,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">501</span>
          <span class="reporter">U.S.</span>
@@ -914,7 +914,7 @@
          it be said that the Board reflects "[t]he propensity of the legislative department to
          intrude upon the rights, and to absorb the powers, of the other departments," that the
          Framers feared. The Federalist No. 73, at 442 (A. Hamilton). Accordingly, I dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Mary Sue Terry, Attorney General, H. Lane Kneedler, Chief Deputy Attorney General, K.
          Marshall Cook, Deputy Attorney General, John M. McCarthy, Senior Assistant Attorney
          General, and William W. Muse and John Westrick, Assistant Attorneys General, filed a brief

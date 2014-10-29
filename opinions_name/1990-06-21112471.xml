@@ -392,7 +392,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">497</span>
          <span class="reporter">U.S.</span>
@@ -744,7 +744,7 @@
          defense available according to law at the time when the act was committed. Its application
          to respondent therefore is not prohibited by the Ex Post Facto Clause of Art. I, § 10.</p>
       <p>The judgment of the Court of Appeals is</p>
-      <p>Reversed.</p>
+      <p>Reversed.</p></div>
       <p>JUSTICE STEVENS, with whom JUSTICE BRENNAN and JUSTICE MARSHALL join, concurring in the
          judgment.</p>
       <p>The "Ex Post Facto" Clause of the Constitution<span class="sup">[1]</span> has been
@@ -929,7 +929,7 @@
          that could reasonably be judged substantial from the perspective of the defendant at the
          time the offense was committed.</p>
       <p>Accordingly, I concur in the Court's judgment, but not in its opinion.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Solicitor General Starr, Assistant Attorney General Dennis, Deputy Solicitor General
          Bryson, and James A. Feldman filed a brief for the United States as amicus curiae urging
          reversal. </p>

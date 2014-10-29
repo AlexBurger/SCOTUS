@@ -64,7 +64,7 @@
       <download_url/>
       <source>lawbox merged with court</source>
    </metadata>
-   <body><div> 128 S.Ct. 2207 (2008) Mohammad MUNAF, et al., Petitioners, v. Pete GEREN, Secretary of The
+   <body><div type="majority" judge=""> 128 S.Ct. 2207 (2008) Mohammad MUNAF, et al., Petitioners, v. Pete GEREN, Secretary of The
       Army, et al. Pete Geren, Secretary of The Army, et al., Petitioners, v. Sandra K. Omar and
       Ahmed S. Omar, as next friends of Shawqi Ahmad Omar. Nos. 06-1666, 07-394. <p>Supreme Court of
          United States.</p> Argued March 25, 2008. Decided June 12, 2008. <p>
@@ -959,7 +959,7 @@
                <span class="page">678</span>
             </a>
          </span>, 684, 66 S.Ct. 773, 90 L.Ed. 939 (1946).</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[1] As noted above, Munaf's conviction was subsequently vacated by an Iraqi appellate
          court, and he is awaiting a new trial.</p>
       <p>[2] These cases concern only American citizens and only the statutory reach of the writ.

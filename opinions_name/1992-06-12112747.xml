@@ -2339,7 +2339,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">504</span>
          <span class="reporter">U.S.</span>
@@ -3397,7 +3397,7 @@
          certainly consists in the right of every individual to claim the protection of the laws,
          whenever he receives an injury." Marbury v. Madison, 1 Cranch 137, 163 (1803).</p>
       <p>I dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Terence P. Ross, Daniel J. Popeo, and Richard A. Samp filed a brief for the Washington
          Legal Foundation et al. as amici curiae urging reversal. </p>
       <p>Briefs of amici curiae urging affirmance were filed for the City of Austin et al. by

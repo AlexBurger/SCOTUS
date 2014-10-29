@@ -987,7 +987,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">527</span>
          <span class="reporter">U.S.</span>
@@ -1848,7 +1848,7 @@
          States, 326 U. S. 607, 615 (1946). Formal requirements are often scorned when they stand in
          the way of expediency. This Court, however, has an obligation to take a longer view. I
          respectfully dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the American Council of Life
          Insurance et al. by James F. Fitzpatrick and Nancy L. Perkins; and for the National
          Association of Criminal Defense Lawyers by Roger W. Yoerges and Lisa Kemler. </p>

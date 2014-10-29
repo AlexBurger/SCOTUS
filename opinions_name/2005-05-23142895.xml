@@ -54,7 +54,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">544</span>
          <span class="reporter">U.S.</span>
@@ -645,7 +645,7 @@
          The Court of Appeals thus correctly held that United Foods renders the Beef Act's
          mandatory-assessment provisions unconstitutional.<span class="sup">[10]</span>
       </p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Together with No. 03-1165, Nebraska Cattlemen, Inc., et al. v. Livestock Marketing
          Association et al., also on certiorari to the same court.</p>
       <p>[&#x86;] Briefs of amici curiae urging reversal in both cases were filed for the State of

@@ -120,7 +120,7 @@
       <download_url/>
       <source>lawbox</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">511</span>
          <span class="reporter">U.S.</span>
@@ -1149,7 +1149,7 @@
          neither compelled by our local processing cases nor consistent with this Court's reason for
          inferring a dormant or negative aspect to the Commerce Clause in the first place, I
          respectfully dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for Incorporated Villages of
          Westbury, Mineola, and New Hyde Park et al. by Lawrence W. Boes, Jerome F. Matedero, John
          M. Spellman, and Donna M. C. Giliberto; for the Chemical Manufacturers Association et al.

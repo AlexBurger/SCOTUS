@@ -166,7 +166,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">542</span>
          <span class="reporter">U.S.</span>
@@ -1170,7 +1170,7 @@
       <p/>
       <h2>* * *</h2>
       <p>The judgment of the Court of Appeals is</p>
-      <p>Reversed.</p>
+      <p>Reversed.</p></div>
       <p>
          <span class="star-pagination">*739</span> JUSTICE SCALIA, with whom THE CHIEF JUSTICE and
          JUSTICE THOMAS join, concurring in part and concurring in the judgment.</p>
@@ -1754,7 +1754,7 @@
          recognize the claim at issue here&#x97; where the underlying substantive claim concerns
          arbitrary arrest, outside the United States, of a citizen of one foreign country by
          another.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Together with No. 03-485, United States v. Alvarez-Machain et al., also on certiorari
          to the same court.</p>
       <p>[&#x86;] Briefs of amici curiae urging reversal in No. 03-339 were filed for the National

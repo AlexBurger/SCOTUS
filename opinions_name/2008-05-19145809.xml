@@ -32,7 +32,7 @@
       <download_url/>
       <source>lawbox merged with court</source>
    </metadata>
-   <body><div> 128 S.Ct. 1801 (2008) DEPARTMENT OF REVENUE OF KENTUCKY, et al., Petitioners, v. George W.
+   <body><div type="majority" judge=""> 128 S.Ct. 1801 (2008) DEPARTMENT OF REVENUE OF KENTUCKY, et al., Petitioners, v. George W.
       DAVIS et ux. No. 06-666. <p>Supreme Court of United States.</p> Argued November 5, 2007.
       Decided May 19, 2008. <p>
          <span class="star-pagination">*1804</span> C. Christopher Trower, Atlanta, GA, for
@@ -1461,7 +1461,7 @@
          (dissenting opinion), on the assumption that the Court's established dormant Commerce
          Clause precedents should be followed, and on that assumption, I entirely agree with and
          join Justice KENNEDY's dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       </div><div type="" judge=""><p>[*] Justice GINSBURG joins all but Part III-B of this opinion.</p>
       <p>[1] Specifically, Kentucky defines "net income" for noncorporate taxpayers as "adjusted
          gross income," minus certain deductions. See Ky. Rev.Stat. Ann. § 141.010(11). "Adjusted

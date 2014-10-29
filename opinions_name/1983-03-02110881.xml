@@ -184,7 +184,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">460</span>
          <span class="reporter">U.S.</span>
@@ -1104,7 +1104,7 @@
          judicial fiat found in this Court's opinion in National League of Cities v. Usery." Ante,
          at 248 (emphasis added). Under this view it is not easy to think of any state function ÔÇö
          however sovereign ÔÇö that could not be pre-empted.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Steven J. Cole and Richard Kirschner filed a brief for the American Federation of
          State, County and Municipal Employees, AFL-CIO, as amicus curiae urging reversal.</p>
       <p>[1] See infra, at 231-233.</p>

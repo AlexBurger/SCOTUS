@@ -200,7 +200,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">501</span>
          <span class="reporter">U.S.</span>
@@ -1474,7 +1474,7 @@
       <h2>* * *</h2>
       <p>For the above reasons, I concur in the judgment that the decision below must be
          affirmed.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Erwin N. Griswold, pro se, and Patricia A. Dunn filed a brief of amicus curiae.</p>
       <p>[1] At oral argument, counsel for petitioners described the litigation in this way: </p>
       <p>"This is a tax case with implications for up to 3,000 taxpayers and a billion and a half in

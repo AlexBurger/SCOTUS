@@ -68,7 +68,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">517</span>
          <span class="reporter">U.S.</span>
@@ -1400,7 +1400,7 @@
          democratic process with litigation in federal courts. It counsels against accepting the
          profession that Shaw has yet evolved into a manageable constitutional standard, and from
          that case's invocation again today I respectfully dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Thomas J. Wagner and Chester D. Hooper filed a brief for the Maritime Law Association
          of the United States as amicus curiae. </p>
       <p>[1] The Houston was owned and operated by petitioner Exxon Shipping Company, whose vessels

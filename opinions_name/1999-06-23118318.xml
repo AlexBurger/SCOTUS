@@ -268,7 +268,8 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body>
+      <div type="opening">
       <span class="citation no-link">
          <span class="volume">527</span>
          <span class="reporter">U.S.</span>
@@ -293,7 +294,8 @@
          the brief were Paul Stern, Deputy Attorney General, and Peter J. Brann, State
             Solicitor.<span class="sup">[*]</span>
       </p>
-      </div><div type="" judge=""><p>Justice Kennedy, delivered the opinion of the Court.</p>
+      </div>
+      <div type="majority" judge="kennedy"><p>Justice Kennedy, delivered the opinion of the Court.</p>
       <p>In 1992, petitioners, a group of probation officers, filed suit against their employer, the
          State of Maine, in the United States District Court for the District of Maine. The officers
          alleged the State had violated the overtime provisions of the Fair Labor Standards Act of
@@ -1514,8 +1516,8 @@
          history, precedent, and the structure of the Constitution make clear that, under the plan
          of the Convention, the States have consented to suits of the first kind but not of the
          second. The judgment of the Supreme Judicial Court of Maine is</p>
-      <p>Affirmed.</p>
-      <p>Justice Souter, with whom Justice Stevens, Justice Ginsburg, and Justice Breyer join,
+      <p>Affirmed.</p></div>
+      <div type="dissent" judge="souter"><p>Justice Souter, with whom Justice Stevens, Justice Ginsburg, and Justice Breyer join,
          dissenting.</p>
       <p>In Seminole Tribe of Fla. v. Florida, 517 U. S. 44 (1996), a majority of this Court invoked
          the Eleventh Amendment to declare that the federal judicial power under Article III of the
@@ -2493,8 +2495,8 @@
          immunity that is true neither to history nor to the structure of the Constitution. I expect
          the Court's late essay into immunity doctrine will prove the equal of its earlier
          experiment in laissez-faire, the one being as unrealistic as the other, as indefensible,
-         and probably as fleeting.</p>
-      <div type="notes">
+         and probably as fleeting.</p></div>
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the Association of American
          Publishers, Inc., et al. by Charles S. Sims; and for the National Association of Police
          Organizations by Stephen R. McSpadden. </p>
@@ -3086,5 +3088,6 @@
          But the ambiguous qualifier "now" allows the Court to avoid the fact that whatever its
          forward-looking compliance, the State still has not paid damages to petitioners; had it
          done so, the case before us would be moot.</p>
-   </div></body>
+   </div>
+   </body>
 </opinion>

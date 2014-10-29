@@ -132,7 +132,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">480</span>
          <span class="reporter">U.S.</span>
@@ -591,7 +591,7 @@
          Agency's work force. Such a plan is fully consistent with Title VII, for it embodies the
          contribution that voluntary employer action can make in eliminating the vestiges of
          discrimination in the workplace. Accordingly, the judgment of the Court of Appeals is</p>
-      <p>Affirmed.</p>
+      <p>Affirmed.</p></div>
       <p>JUSTICE STEVENS, concurring.</p>
       <p>While I join the Court's opinion, I write separately to explain my view of this case's
          position in our evolving antidiscrimination law and to emphasize that the opinion does not
@@ -1410,7 +1410,7 @@
          individuals &#x97; predominantly unknown, unaffluent, unorganized &#x97; suffer this
          injustice at the hands of a Court fond of thinking itself the champion of the politically
          impotent. I dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the United States by Solicitor
          General Fried, Assistant Attorney General Reynolds, Deputy Solicitor General Ayer, Deputy
          Assistant Attorney General Carvin, Roger Clegg, and David K. Flynn; for the Mid-Atlantic

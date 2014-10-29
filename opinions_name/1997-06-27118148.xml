@@ -233,7 +233,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">521</span>
          <span class="reporter">U.S.</span>
@@ -1763,7 +1763,7 @@
          inflexibility of which poses a surprising and technical obstacle to the enactment of a law
          that Congress believed necessary to solve an important national problem.</p>
       </div><div type="" judge=""><p>For these reasons and those set forth in Justice Stevens' opinion, I join his dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Together with No. 95-1503, Mack v. United States, also on certiorari to the same
          court.</p>
       <p>[&#x86;] Briefs of amici curiae urging reversal were filed for the State of Colorado et al.

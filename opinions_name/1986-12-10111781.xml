@@ -131,7 +131,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">479</span>
          <span class="reporter">U.S.</span>
@@ -561,7 +561,7 @@
       <p>We conclude that § 9-431 impermissibly burdens the rights of the Party and its members
          protected by the First and Fourteenth Amendments. The interests asserted by appellant in
          defense of the statute are insubstantial. The judgment of the Court of Appeals is</p>
-      <p>Affirmed.</p>
+      <p>Affirmed.</p></div>
       <p>
          <span class="star-pagination">*230</span> JUSTICE STEVENS, with whom JUSTICE SCALIA joins,
          dissenting.</p>
@@ -748,7 +748,7 @@
          nominate the independents' choice, so long as its members select him by name in a
          democratic vote. That seems to me plainly and entirely constitutional.</p>
       <p>I respectfully dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the State of New York et al. by
          Robert Abrams, Attorney General of New York, Robert Hermann, Solicitor General, Patrick
          Barnett-Mulligan, Lisa Margaret Smith, and Betsy Broder, Assistant Attorneys General,

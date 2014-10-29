@@ -123,7 +123,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">460</span>
          <span class="reporter">U.S.</span>
@@ -420,7 +420,7 @@
          burden on the State to justify its action. Since Minnesota has offered no satisfactory
          justification for its tax on the use of ink and paper, the tax violates the First
             Amendment,<span class="sup">[17]</span> and the judgment below is</p>
-      <p>Reversed.</p>
+      <p>Reversed.</p></div>
       <p>JUSTICE WHITE, concurring in part and dissenting in part.</p>
       <p>This case is not difficult. The exemption for the first $100,000 of paper and ink limits
          the burden of the Minnesota tax to only a few papers. This feature alone is sufficient
@@ -675,7 +675,7 @@
          Amendment."</p>
       <p>For the reasons set forth above, I would affirm the judgment of the Minnesota Supreme
          Court.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed by Peter W. Schroth and Charles S.
          Sims for the American Civil Liberties Union et al.; and by Philip A. Lacovara, W. Terry
          Maguire, and Pamela J. Riley for Knight-Ridder Newspapers, Inc., et al.</p>

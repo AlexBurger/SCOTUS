@@ -276,7 +276,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">478</span>
          <span class="reporter">U.S.</span>
@@ -1116,7 +1116,7 @@
          strong and that individuals continue to be protected against decisionmakers subject to
          majoritarian pressures. Unfortunately, today the Court forsakes that obligation for
          expediency. I dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Together with No. 85-642, ContiCommodity Services. Inc. v. Schor et al. also on
          certiorari to the same court.</p>
       <p>[1] Respondents' suit was governed by the Commodity Futures Trading Commission Act of 1974,

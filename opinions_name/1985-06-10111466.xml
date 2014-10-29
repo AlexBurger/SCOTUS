@@ -53,7 +53,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">472</span>
          <span class="reporter">U.S.</span>
@@ -523,7 +523,7 @@
          Protection Clause permits economic regulation that distinguishes between groups that are
          legitimately different &#x97; as local institutions so often are &#x97; in ways relevant to
          the proper goals of the State.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the State of New York by Robert
          Abrams, Attorney General, Robert Hermann, Solicitor General, R. Scott Greathead, First
          Assistant Attorney General, and Judith T. Kramer and Howard L. Zwickel, Assistant Attorneys

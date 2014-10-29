@@ -132,7 +132,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">517</span>
          <span class="reporter">U.S.</span>
@@ -783,7 +783,7 @@
          determining there was abuse of the writ. Reconsideration of this determination and the
          other equities of petitioner's stay application is now in order. I therefore concur in the
          judgment of reversal.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[1] The Court is not concerned by this prospect because district courts have discretion to
          "order expansion of the record," authorize discovery, decide "whether to hold an
          evidentiary hearing," and generally "expedite proceedings." Ante, at 326. These tools are

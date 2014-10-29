@@ -107,7 +107,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">498</span>
          <span class="reporter">U.S.</span>
@@ -646,7 +646,7 @@
          Section 1983 now becomes simply one more weapon in the litigant's arsenal, to be considered
          whenever the defendant is a state actor and its use is advantageous to the plaintiff. I
          dissent from the opinion and judgment of the Court.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Andrew L. Frey, Kenneth S. Geller, Andrew J. Pincus, Daniel R. Barney, Robert Digges,
          Jr., Laurie T. Baulig, and William S. Busker filed a brief for the American Trucking
          Associations, Inc., as amicus curiae urging reversal. </p>

@@ -113,7 +113,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">494</span>
          <span class="reporter">U.S.</span>
@@ -1479,7 +1479,7 @@
          now becomes itself the censor. In the course of doing so, the Court reveals a lack of
          concern for speech rights that have the full protection of the First Amendment. I would
          affirm the judgment.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the Federal Election Commission
          by Lawrence M. Noble and Richard B. Bader; and for Common Cause by Roger M. Witten, Carol
          F. Lee, and Archibald Cox. </p>

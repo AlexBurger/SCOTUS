@@ -739,7 +739,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">501</span>
          <span class="reporter">U.S.</span>
@@ -1594,7 +1594,7 @@
          compared with death. We have drawn the line of required individualized sentencing at
          capital cases, and see no basis for extending it further.</p>
       <p>The judgment of the Michigan Court of Appeals is</p>
-      <p>Affirmed.</p>
+      <p>Affirmed.</p></div>
       <p>JUSTICE KENNEDY, with whom JUSTICE O'CONNOR and JUSTICE SOUTER join, concurring in part and
          concurring in the judgment.</p>
       <p>I concur in Part IV of the Court's opinion and in the judgment. I write this separate
@@ -2387,7 +2387,7 @@
          the notion that this sentence satisfies any meaningful requirement of proportionality is
          itself both cruel and unusual.</p>
       <p>I respectfully dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the American Civil Liberties
          Union et al. by Steven R. Shapiro; and for Criminal Defense Attorneys of Michigan et al. by
          Neil H. Fink, Elizabeth L. Jacobs, and William Swor. </p>

@@ -1206,7 +1206,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">514</span>
          <span class="reporter">U.S.</span>
@@ -3534,7 +3534,7 @@
       <p>Wirth, Education and Work: The Choices We Face, Phi Delta Kappan, Jan. 1993, p. 361.</p>
       <p>A. Wirth, Education and Work for the Year 2000 (1992).</p>
       <p>L. Wise, Labor Market Policies and Employment Patterns in the United States 50 (1989).</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for 16 Members of the United States
          Senate et al. by Debra A. Valentine, Brady C. Williamson, and Jeffrey J. Kassel; for the
          State of Ohio et al.by Lee Fisher, Attorney General of Ohio, John P. Ware, Assistant

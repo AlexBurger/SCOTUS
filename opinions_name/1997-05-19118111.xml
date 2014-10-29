@@ -97,7 +97,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">520</span>
          <span class="reporter">U.S.</span>
@@ -1628,7 +1628,7 @@
          the meaning of the Import-Export Clause. Thus, were we to overrule Woodruff and apply the
          Import-Export Clause to this case, I would in all likelihood sustain this tax under that
          Clause as well.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the American Council on Education
          et al. by Sheldon Elliot Steinbach, Carter G. Phillips, Nathan C. Sheers, and Adam
          Yarmolinsky; and for the Christian Legal Society et al. by James C. Geoly, Kevin R.

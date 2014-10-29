@@ -123,7 +123,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">496</span>
          <span class="reporter">U.S.</span>
@@ -626,7 +626,7 @@
       <p>The judgment of the Court of Appeal is reversed, and the case is remanded for further
          proceedings not inconsistent with this opinion.</p>
       <p>It is so ordered.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging affirmance were filed for the National Association of
          Counties et al. by Benna Ruth Solomon and Charles Rothfeld; and for the Washington Legal
          Foundation et al. by Daniel J. Popeo and Richard A. Samp.</p>

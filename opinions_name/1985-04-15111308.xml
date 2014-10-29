@@ -383,7 +383,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">469</span>
          <span class="reporter">U.S.</span>
@@ -1742,7 +1742,7 @@
          acknowledged by National League of Cities and its progeny, and I share JUSTICE REHNQUIST'S
          belief that this Court will in time again assume its constitutional responsibility.</p>
       <p>I respectfully dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Together with No. 82-1951, Donovan, Secretary of Labor v. San Antonio Metropolitan
          Transit Authority et al., also on appeal from the same court.</p>
       <p>[&#x86;] Briefs of amici curiae urging affirmance were filed for the State of California et

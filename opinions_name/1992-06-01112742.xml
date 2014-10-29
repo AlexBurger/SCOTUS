@@ -318,7 +318,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">504</span>
          <span class="reporter">U.S.</span>
@@ -1535,7 +1535,7 @@
          and local law and regulation that similarly increases the airlines' costs of doing business
          and, consequently, has a similar "significant impact" upon their rates.</p>
       <p>For these reasons, I respectfully dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the State of Hawaii et al. by
          Warren Price III, Attorney General of Hawaii, and Girard D. Lau and Steven S. Michaels,
          Deputy Attorneys General, and by the Attorneys General for their respective States as

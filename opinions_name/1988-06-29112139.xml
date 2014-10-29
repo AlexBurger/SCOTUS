@@ -182,7 +182,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">487</span>
          <span class="reporter">U.S.</span>
@@ -1916,7 +1916,7 @@
          of two centuries of history that have shown it to be sound. Like it or not, that judgment
          says, quite plainly, that "[t]he executive Power shall be vested in a President of the
          United States."</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the American Bar Association by
          Robert MacCrate and Irvin B. Nathan; for Common Cause by Archibald Cox, Donald J. Simon,
          Paul A. Freund, and Philip B. Heymann; for the Center for Constitutional Rights by Morton

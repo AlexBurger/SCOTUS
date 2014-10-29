@@ -176,7 +176,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">466</span>
          <span class="reporter">U.S.</span>
@@ -446,7 +446,7 @@
          system of government. In doing so, it made an ill-advised entry into the federal
          domain.</p>
       <p>Accordingly, I concur in the Court's judgment.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] "If the affidavits submitted by police officers are subjected to the type of scrutiny
          some courts have deemed appropriate, police might well resort to warrantless searches, with
          the hope of relying on consent or some other exception to the Warrant Clause that might

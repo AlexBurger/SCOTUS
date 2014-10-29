@@ -305,7 +305,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">488</span>
          <span class="reporter">U.S.</span>
@@ -1186,7 +1186,7 @@
          construction contracts, its treatment of its citizens on a racial basis violates the
          dictates of the Equal Protection Clause. Accordingly, the judgment of the Court of Appeals
          for the Fourth Circuit is</p>
-      <p>Affirmed.</p>
+      <p>Affirmed.</p></div>
       <p>
          <span class="star-pagination">*511B</span> JUSTICE STEVENS, concurring in part and
          concurring in the judgment.</p>
@@ -2314,7 +2314,7 @@
          however, that, given time, it one day again will do its best to fulfill the great promises
          of the Constitution's Preamble and of the guarantees embodied in the Bill of Rights &#x97;
          a fulfillment that would make this Nation very special.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the State of Maryland by J.
          Joseph Curran, Jr., Attorney General, and Charles O. Monk II, Deputy Attorney General; for
          the State of Michigan by Frank J. Kelley, Attorney General, Louis J. Caruso, Solicitor

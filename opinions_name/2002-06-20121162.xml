@@ -48,7 +48,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">536</span>
          <span class="reporter">U.S.</span>
@@ -1497,7 +1497,7 @@
          to Congress.</p>
       <p>For these reasons, I would vacate the judgment of the District Court and remand with
          instructions to dismiss for want of jurisdiction.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Valle Simms Dutcher and L. Lynn Hogue filed a brief for the Southeastern Legal
          Foundation, Inc., as amicus curiae urging reversal. </p>
       <p>Nancy Northup and Deborah Goldberg filed a brief for the Brennan Center for Justice at NYU

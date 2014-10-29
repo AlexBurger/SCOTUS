@@ -140,7 +140,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">524</span>
          <span class="reporter">U.S.</span>
@@ -1892,7 +1892,7 @@
          or may not, help representative government work better. The Constitution, in my view,
          authorizes Congress and the President to try novel methods in this way. Consequently, with
          respect, I dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the United States Senate by
          Thomas B. Griffith, Morgan J. Frankel, and Steven F. Huefner; for Marci Hamilton, pro se,
          and David Schoenbrod, pro se; for Congressman Dan Burton et al. by James M. Spears; and for

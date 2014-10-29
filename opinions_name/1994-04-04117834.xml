@@ -128,7 +128,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">511</span>
          <span class="reporter">U.S.</span>
@@ -644,7 +644,7 @@
          safety, and political challenges posed by the problem of solid waste disposal in modern
          society.</p>
       <p>For the foregoing reasons, I respectfully dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Together with No. 93-108, Columbia Resource Co. v. Environmental Quality Commission of
          the State of Oregon, also on certiorari to the same court.</p>
       <p>[&#x86;] A brief of amici curiae urging affirmance was filed for the State of Indiana et

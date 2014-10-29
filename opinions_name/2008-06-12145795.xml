@@ -103,7 +103,7 @@
       <download_url/>
       <source>lawbox merged with court</source>
    </metadata>
-   <body><div> 128 S.Ct. 2229 (2008) Lakhdar BOUMEDIENE, et al., Petitioners, v. George W. BUSH,
+   <body><div type="majority" judge=""> 128 S.Ct. 2229 (2008) Lakhdar BOUMEDIENE, et al., Petitioners, v. George W. BUSH,
       President of The United States, et al. Khaled A.F. Al Odah, next friend of Fawzi Khalid
       Abdullah Fahad Al Odah, et al., Petitioners, v. United States et al. Nos. 06-1195, 06-1196.
          <p>Supreme Court of United States.</p> Argued December 5, 2007. Decided June 12, 2008. <p>
@@ -3842,7 +3842,7 @@
          this Court devises in the future, that evidence supports the confinement of each and every
          enemy prisoner.</p>
       <p>The Nation will live to regret what the Court has done today. I dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[1] In light of the foregoing, the concurrence is wrong to suggest that I "insufficiently
          appreciat[e]" the issue of delay in these cases. See ante, at 2278 (opinion of SOUTER, J.).
          This Court issued its decisions in Rasul v. Bush, <span class="citation">

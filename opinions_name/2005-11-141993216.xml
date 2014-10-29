@@ -53,7 +53,7 @@
       <download_url/>
       <source>lawbox</source>
    </metadata>
-   <body><div> 546 U.S. 49 (2005) SCHAFFER, A MINOR, BY HIS PARENTS AND NEXT FRIENDS, SCHAFFER ET VIR, ET
+   <body><div type="majority" judge=""> 546 U.S. 49 (2005) SCHAFFER, A MINOR, BY HIS PARENTS AND NEXT FRIENDS, SCHAFFER ET VIR, ET
       AL. v. WEAST, SUPERINTENDENT, MONTGOMERY COUNTY PUBLIC SCHOOLS, ET AL. No. 04-698. <p>Supreme
          Court of United States.</p> Argued October 5, 2005. Decided November 14, 2005. <p>
          <span class="star-pagination">*50</span> William H. Hurd argued the cause for petitioners.
@@ -572,7 +572,7 @@
          Admin. Regs., tit. 707, ch. 1:340, Section 7(4) (same). Because the state ALJ did not do
          this (i. e., he looked for a federal, not a state, burden of persuasion rule), I would
          remand this case.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the Commonwealth of Virginia et
          al. by Judith Williams Jagdmann, Attorney General of Virginia, William E. Thro, State
          Solicitor General, Eric A. Gregory and Joel C. Hoppe, Associate State Solicitors General,

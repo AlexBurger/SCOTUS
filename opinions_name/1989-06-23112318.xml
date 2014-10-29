@@ -64,7 +64,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">492</span>
          <span class="reporter">U.S.</span>
@@ -439,7 +439,7 @@
          therefore hold that the determinations that a bankruptcy court may make under § 106(c)
          include a determination that a State must pay money damages under a Code provision
          containing one of the trigger words.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Michael E. Friedlander, Charles R. Work, and Seth D. Greenstein filed a brief for
          Inslaw, Inc., as amicus curiae urging reversal. </p>
       <p>Briefs of amici curiae urging affirmance were filed for the State of Arizona, by Robert K.

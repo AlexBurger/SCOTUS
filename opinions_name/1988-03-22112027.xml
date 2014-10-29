@@ -227,7 +227,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">485</span>
          <span class="reporter">U.S.</span>
@@ -841,7 +841,7 @@
          "public disrepute." However, I agree with JUSTICE O'CONNOR that § 22-1115's congregation
          clause is not unconstitutional and that the exemption for labor picketing does not violate
          the Equal Protection Clause, so I join in Parts III and IV of the majority opinion.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the American Civil Liberties
          Union et al. by Arthur B. Spitzer, John A. Powell, and Elizabeth Symonds; for the American
          Jewish Congress by Joel H. Levy, Marc D. Stern, Lois C. Waldman, and Amy Adelson; for the

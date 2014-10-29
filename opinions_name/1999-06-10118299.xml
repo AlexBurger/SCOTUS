@@ -212,7 +212,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">527</span>
          <span class="reporter">U.S.</span>
@@ -1670,7 +1670,7 @@
          most vulnerable citizens the very thing that Justice Stevens, ante, at 54, elevates above
          all else&#x97;the "`freedom of movement.' " And that is a shame. I respectfully
          dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the United States by Solicitor
          General Waxman, Deputy Solicitor General Underwood, and James A. Feldman; for the State of
          Ohio et al. by Betty D. Montgomery, Attorney General of Ohio, Jeffrey S. Sutton, State

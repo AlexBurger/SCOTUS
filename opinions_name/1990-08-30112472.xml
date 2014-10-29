@@ -321,7 +321,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">497</span>
          <span class="reporter">U.S.</span>
@@ -1379,7 +1379,7 @@
          (the disappointed officeseeker) we may be moved to reconsider our intrusion into this
          entire field.</p>
       <p>In the meantime, I dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Together with No. 88-2074, Frech et al. v. Rutan et al., also on certiorari to the same
          court.</p>
       <p>[&#x86;] Briefs of amici curiae urging reversal in both cases were filed for the American

@@ -64,7 +64,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">520</span>
          <span class="reporter">U.S.</span>
@@ -473,7 +473,7 @@
          satisfied here, but in the Court's ultimate holding that the judges of the Coast Guard
          Court of Criminal Appeals are inferior officers within the meaning of the Appointments
          Clause.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Together with Lazenby v. United States; Leaver v. United States; Leonard v. United
          States; Nichols v. United States; and Venable v. United States, also on certiorari to the
          same court (see this Court's Rule 12.4).</p>

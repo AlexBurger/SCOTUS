@@ -92,7 +92,7 @@
       <download_url/>
       <source>lawbox merged with court</source>
    </metadata>
-   <body><div>&#xD; 130 S.Ct. 876 (2010)&#xD; CITIZENS UNITED, Appellant,&#xD; v.&#xD; FEDERAL ELECTION
+   <body><div type="majority" judge="">&#xD; 130 S.Ct. 876 (2010)&#xD; CITIZENS UNITED, Appellant,&#xD; v.&#xD; FEDERAL ELECTION
       COMMISSION.&#xD; No. 08-205.&#xD; <p>Supreme Court of United States.</p>&#xD; Argued March 24,
       2009.&#xD; Decided January 21, 2010.&#xD; Reargued September 9, 2009.&#xD; <p>
          <span class="star-pagination">*886</span> Theodore B. Olson, for Appellant.</p>&#xD;
@@ -4737,7 +4737,7 @@
             </a>
          </span>, 410-411, 120 S.Ct. 897, 145 L.Ed.2d 886 (2000) (THOMAS, J., dissenting)).
          Accordingly, I respectfully dissent from the Court's judgment upholding BCRA §§ 201 and
-         311.</p>&#xD; <div type="notes">&#xD; <p>[1] The dissent suggests that I am "much too quick" to
+         311.</p>&#xD; </div><div type="notes">&#xD; <p>[1] The dissent suggests that I am "much too quick" to
          reach this conclusion because I "ignore" Citizens United's narrower arguments. Post, at
          936, n. 12. But in fact I do not ignore those arguments; on the contrary, I (and my
          colleagues in the majority) appropriately consider and reject them on their merits, before

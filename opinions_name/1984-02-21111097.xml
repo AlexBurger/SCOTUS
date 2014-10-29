@@ -67,7 +67,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">465</span>
          <span class="reporter">U.S.</span>
@@ -624,7 +624,7 @@
          constitutionality under the Privileges and Immunities Clause.<span class="sup">[16]</span>
          Because I believe that the Clause does not apply to discrimination based on municipal
          residence, I dissent.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Wayne S. Henderson filed a brief for the New England Legal Foundation as amicus curiae
          urging reversal.</p>
       <p>[1] "The Citizens of each State shall be entitled to all Privileges and Immunities of

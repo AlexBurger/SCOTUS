@@ -73,7 +73,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">519</span>
          <span class="reporter">U.S.</span>
@@ -1061,7 +1061,7 @@
       J. Diagram 2 Buffalo GYN Womenservices 1241 Main Street Buffalo, NY 14607 <span
          class="star-pagination">*407</span> APPENDIX B TO OPINION OF BREYER, J. Diagram 3 The
       Family Medicine Center 885 South Ave. Rochester, NY 14620 (part of Highland Hospital complex)
-         <div type="notes">
+         </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the American Civil Liberties
          Union Foundation of Florida, Inc., et al. by James K. Green and Richard A. Waples; for the
          Family Research Council by Cathleen A. Cleaver; for Liberty Counsel by Mathew D. Staver;

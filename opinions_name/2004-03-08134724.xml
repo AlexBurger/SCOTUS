@@ -1474,7 +1474,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">541</span>
          <span class="reporter">U.S.</span>
@@ -2423,7 +2423,7 @@
          which is hypothesized by the Court, ante, at 67, is required to reverse the judgment here.
          A citation to Idaho v. Wright, supra, would suffice. For the reasons stated, I believe that
          this would be a far preferable course for the Court to take here.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the National Association of
          Criminal Defense Lawyers et al. by Jeffrey T. Green, David M. Porter, and Steven R.
          Shapiro; and for Sherman J. Clark et al. by Richard D. Friedman and David A. Moran.</p>

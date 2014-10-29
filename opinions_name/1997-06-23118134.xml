@@ -256,7 +256,7 @@
       <download_url/>
       <source>lawbox merged with resource.org</source>
    </metadata>
-   <body><div>
+   <body><div type="majority" judge="">
       <span class="citation no-link">
          <span class="volume">521</span>
          <span class="reporter">U.S.</span>
@@ -1616,7 +1616,7 @@
          reason for questioning jurisdiction over the state officials, and nothing about property
          title or regulatory jurisdiction justifies the majority's exception to Young `s guarantee
          of a federal forum to a private federal claimant against state officials.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Richard Ruda and James I. Crowley filed a brief for the Council of State Governments et
          al. as amici curiae urging reversal. </p>
       <p>Briefs of amicus curiae urging affirmance were filed for the United States by Acting

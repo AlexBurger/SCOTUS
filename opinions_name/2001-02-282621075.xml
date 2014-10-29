@@ -18,7 +18,7 @@
       <download_url/>
       <source>lawbox</source>
    </metadata>
-   <body><div> 531 U.S. 510 (2001) COOK v. GRALIKE et al. No. 99-929. <p>United States Supreme Court.</p>
+   <body><div type="majority" judge=""> 531 U.S. 510 (2001) COOK v. GRALIKE et al. No. 99-929. <p>United States Supreme Court.</p>
       Argued November 6, 2000. Decided February 28, 2001. CERTIORARI TO THE UNITED STATES COURT OF
       APPEALS FOR THE EIGHTH CIRCUIT <p>
          <span class="star-pagination">*512</span>
@@ -426,7 +426,7 @@
          Such candidates are able to respond to that sort of speech with speech of their own. But
          the State itself may not skew the ballot listings in this way without violating the First
          Amendment.</p>
-      <div type="notes">
+      </div><div type="notes">
       <p>[*] Briefs of amici curiae urging reversal were filed for the State of Nebraska by Don
          Stenberg, Attorney General, and L. Steven Grasz, Deputy Attorney General; for the
          Initiative and Referendum Institute by Patrick T. O'Brien and John M. Boehm; for Missouri
