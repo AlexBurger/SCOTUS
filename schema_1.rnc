@@ -15,11 +15,24 @@ reporter = element reporter {"U.S."}
 page = element page {xsd:int}
 lexis_cite = element lexis_cite {text}
 federal_cite_one = element federal_cite_one {text}
-cited_by = element date_filed {case*}
+cited_by = element cited_by {case*}
 case = element case {xsd:int}
 precedential_status = element precedential_status {text}
+download_url = element download_url {text}
 source = element source {text}
 
-body = element body {div*, span*, p+}
+body = element body {divi*}
 
-reference = element reference {paper_number, judge, 
+divi = element div {type*, judge*, mixed{span*, p*}}
+
+type = attribute type {text} # "treatise' '
+judge = attribute judge {text}
+p = element p {mixed{(span|ref)*}}
+span = element span {class*, mixed{ span*}}
+class = attribute class {text}
+
+ref= element ref {type, num, loc*, span*,text}
+
+num = attribute num {text}
+loc = attribute loc {text}
+

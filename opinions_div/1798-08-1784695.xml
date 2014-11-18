@@ -330,7 +330,6 @@
         <source>lawbox merged with resource.org</source>
     </metadata>
     <body>
-
         <div type="majority" judge="Chase">
             <span class="citation no-link">
                 <span class="volume">3</span>
@@ -521,12 +520,11 @@
                 between making an UNLAWFUL act LAWFUL; and the making an innocent action criminal,
                 and punishing it as a CRIME. The expressions "ex post facto laws," are technical,
                 they had been in use long before the Revolution, and had acquired an appropriate
-                meaning, by Legislators, Lawyers, and Authors.<ref num="none" type="treatise"
-                    op="majority" loc="text"> The celebrated and judicious Sir William Blackstone,
+                meaning, by Legislators, Lawyers, and Authors. The celebrated and judicious Sir William Blackstone,
                     in his commentaries, considers an ex post facto law precisely in the same light
                     I have done. His opinion is confirmed by his successor, Mr. Wooddcson; and by
-                    the author of the Federalist, who I esteem superior to both, for his extensive
-                    and accurate knowledge of the true principles of Government.</ref></p>
+                    the author of the <ref num="none" type="treatise">Federalist</ref>, who I esteem superior to both, for his
+                    extensive and accurate knowledge of the true principles of Government.</p>
             <p>I also rely greatly on the definition, or explanation of EX POST FACTO LAWS, as given
                 by the Conventions of Massachusetts, Maryland, and North Carolina; in their several
                 Constitutions, or forms of Government.</p>
@@ -764,7 +762,7 @@
 
             <span class="star-pagination">*398</span>
         </div>
-        <div type="concurrence">
+        <div type="concurrence" judge="iredell">
             <p> IREDELL, Justice.</p>
             <p>Though I concur in the general result of the opinions, which have been delivered, I
                 cannot entirely adopt the reasons that are assigned upon the occasion.</p>
