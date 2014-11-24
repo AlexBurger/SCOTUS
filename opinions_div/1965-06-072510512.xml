@@ -160,7 +160,8 @@
       <download_url/>
       <source>lawbox</source>
    </metadata>
-   <body><div type="" judge=""> 381 U.S. 437 (1965) UNITED STATES v. BROWN. No. 399. <p>Supreme Court of United
+   <body>
+      <div type="" judge=""> 381 U.S. 437 (1965) UNITED STATES v. BROWN. No. 399. <p>Supreme Court of United
          States.</p> Argued March 29, 1965. Decided June 7, 1965. CERTIORARI TO THE UNITED STATES
       COURT OF APPEALS FOR THE NINTH CIRCUIT. <p>
          <span class="star-pagination">*438</span> Solicitor General Cox argued the cause for the
@@ -258,7 +259,7 @@
          limitation upon the judiciary, a declaration that certain tasks are not to be performed by
          courts, e. g., Muskrat v. United States, 219 U. S. 346. Compare Youngstown Sheet &amp;amp;
          Tube Co. v. Sawyer, 343 U. S. 579.</p>
-      <p>The authors of the <ref type="" num="">Federalist</ref> Papers took the position that although under some systems of
+      <p>The authors of the <ref type="treatise" num="none">Federalist</ref> Papers took the position that although under some systems of
          government (most notably the one from which the United States had just broken), the
          Executive Department is the branch most likely to forget the bounds of its authority, "in a
          representative republic . . . where the legislative power is exercised by an assembly . . .
@@ -576,6 +577,7 @@
       amount to nothing."<span class="sup">[40]</span>
       <p>The judgment of the Court of Appeals is</p>
       <p>Affirmed.</p></div>
+      <div type="dissent" judge="white">
       <p>MR. JUSTICE WHITE, with whom MR. JUSTICE CLARK, MR. JUSTICE HARLAN, and MR. JUSTICE STEWART
          join, dissenting.</p>
       <p>"A bill of attainder is a legislative act which inflicts punishment without a judicial
@@ -948,7 +950,8 @@
          strikes&#x97;and the reasonableness of the means adopted to that end, I cannot conclude
          that § 504 had a punitive purpose or that it constitutes a bill of attainder. I intimate no
          opinion on the issues that the Court does not reach.</p>
-      </div><div type="notes">
+      </div>
+      <div type="notes">
       <p>[1] 73 Stat. 536, 29 U. S. C. § 504 (1958 ed., Supp. IV). The section, which took effect on
          September 14, 1959, provides, in pertinent part: </p>
       <p>"(a) No person who is or has been a member of the Communist Party . . . shall
@@ -1008,9 +1011,9 @@
          Thompson, Anti-Loyalist Legislation During the American Revolution, 3 Ill. L. Rev. 81, 147;
          Reppy, The Spectre of Attainder in New York, 23 St. John's L. Rev. 1. See Respublica v.
          Gordon, 1 Dall. 233; Cooper v. Telfair, 4 Dall. 14.</p>
-      <p>[16] The <ref type="" num="">Federalist</ref>, No. 47, pp. 373-374 (Hamilton ed. 1880).</p>
-      <p>[17] The <ref type="" num="">Federalist</ref>, No. 48, pp. 383-384 (Hamilton ed. 1880) (Madison); see generally The
-         <ref type="" num="">Federalist</ref>, Nos. 47 (Madison), 48 (Madison), 49 (Hamilton), 51 (Hamilton) and 78
+      <p>[16] The <ref type="intent" num="47">Federalist</ref>, No. 47, pp. 373-374 (Hamilton ed. 1880).</p>
+      <p>[17] The <ref type="treatise" num="48">Federalist</ref>, No. 48, pp. 383-384 (Hamilton ed. 1880) (Madison); see generally The
+         <ref type="treatise" num="47 48 49 51 78">Federalist</ref>, Nos. 47 (Madison), 48 (Madison), 49 (Hamilton), 51 (Hamilton) and 78
          (Hamilton).</p>
       <p>[18] III (John C.) Hamilton, History of the Republic of the United States, p. 34 (1859),
          quoting Alexander Hamilton. James Madison expressed similar sentiments: </p>
@@ -1025,7 +1028,7 @@
          directed the public councils. They have seen with regret and with indignation, that sudden
          changes, and legislative interferences, in cases affecting personal rights, become jobs in
          the hands of enterprising and influential speculators; and snares to the more industrious
-         and less informed part of the community." The <ref type="" num="">Federalist</ref>, No. 44, p. 351 (Hamilton ed.
+         and less informed part of the community." The <ref type="treatise" num="44 51">Federalist</ref>, No. 44, p. 351 (Hamilton ed.
          1880).</p>
       <p>[19] 1 Cooley, Constitutional Limitations, pp. 536-537 (8th ed. 1927). To the same effect,
          see Calder v. Bull, 3 Dall. 386, 389; United States v. Lovett, 328 U. S. 303, 317-318; II
@@ -1172,7 +1175,7 @@
       <p>[38] Note 13, supra.</p>
       <p>[39] See also Ex parte Law, 15 Fed. Cas. 3, 8 (No. 8126) (D. C. S. D. Ga. 1866); United
          States v. Lovett, 328 U. S. 303, 327 (Frankfurter, J., concurring).</p>
-      <p>[40] The <ref type="" num="">Federalist</ref>, No. 78, pp. 576-577 (Hamilton ed. 1880).</p>
+      <p>[40] The <ref type="treatise" num="78">Federalist</ref>, No. 78, pp. 576-577 (Hamilton ed. 1880).</p>
       <p>[1] An overbroadness challenge could also be made under the First Amendment on the ground
          that in § 504 Congress has too broadly and indiscriminately visited disabilities on a class
          defined in terms of associational ties. See Aptheker v. Secretary of State, 378 U. S. 500.
@@ -1191,5 +1194,6 @@
          (Frankfurter, J., announcing judgment). De Veau v. Braisted itself sustained against a bill
          of attainder challenge, without dissent on this issue, a state statute disqualifying felons
          from holding office in waterfront labor unions.</p>
-   </div></body>
+   </div>
+   </body>
 </opinion>
