@@ -1,38 +1,64 @@
-datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
-
 start = opinion
-opinion = element opinion {metadata, body}
+opinion = element opinion { metadata, body }
+# Metadata section
+metadata =
+    element metadata {
+        case_name,
+        id,
+        date_filed,
+        judges,
+        nature_of_suit,
+        citation,
+        federal_cite_one,
+        cited_by,
+        precedential_status,
+        download_url,
+        source
+    }
+case_name = element case_name { text }
+id = element id { xsd:int }
+date_filed = element date_filed { text }
+judges = element judges { text }
+nature_of_suit = element nature_of_suit { text }
+citation = element citation { volume, reporter, page, lexis_cite }
+volume = element volume { xsd:int | ""}
+reporter = element reporter { text}
+page = element page { xsd:int | ""}
+lexis_cite = element lexis_cite { text }
+federal_cite_one = element federal_cite_one { text }
+cited_by = element cited_by { case* }
+case = element case { xsd:int }
+precedential_status = element precedential_status { text }
+download_url = element download_url { text }
+source = element source { text }
+# Body section
+body = element body { divi* }
+divi =
+    element div {
+        type*,
+        judge*,
+        mixed { (span | p | a | h2)* }
+    }
+type = attribute type { "opening" | "majority" | "dissent" | "concurrence" | "notes" | "per curiam"}
+judge = attribute judge { text }
+span =
+    element span {
+        class*, type*,
+        mixed { (span|a)*}
+    }
+p =
+    element p {
+        mixed { (span | ref | a)* }
+    }
+a = element a { (class | href | id2)*, mixed{span*}}
+href = attribute href { text }
+id2 = attribute id { text }
+class = attribute class { text }
 
-metadata = element metadata {case_name, id, date_filed, judges, nature_of_suit, citation, federal_cite_one, cited_by, precedential_status, download_url, source}
-case_name = element case_name {text}
-id = element id {xsd:int}
-date_filed = element date_filed {text}
-judges = element judges {text}
-nature_of_suit = element nature_of_suit {text}
-citation = element citation {volume, reporter, page, lexis_cite}
-volume = element volume {xsd:int}
-reporter = element reporter {"U.S."}
-page = element page {xsd:int}
-lexis_cite = element lexis_cite {text}
-federal_cite_one = element federal_cite_one {text}
-cited_by = element cited_by {case*}
-case = element case {xsd:int}
-precedential_status = element precedential_status {text}
-download_url = element download_url {text}
-source = element source {text}
-
-body = element body {divi*}
-
-divi = element div {type*, judge*, mixed{span*, p*}}
-
-type = attribute type {text} # "treatise' '
-judge = attribute judge {text}
-p = element p {mixed{(span|ref)*}}
-span = element span {class*, mixed{ span*}}
-class = attribute class {text}
-
-ref= element ref {type, num, loc*, span*,text}
-
-num = attribute num {text}
-loc = attribute loc {text}
-
+h2 = element h2 {mixed{(i|span| sup)*}}
+i = element i {text}
+sup = element sup {text}
+# Reference Tag
+ref = element ref { type2, num, text }
+num = attribute num { text }
+type2 = attribute type { "treatise" | "intent" | "meaning" }

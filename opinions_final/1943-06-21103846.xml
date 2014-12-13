@@ -1,0 +1,1638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema_1.rnc" type="application/relax-ng-compact-syntax"?>
+<opinion>
+   <metadata>
+      <case_name>Galloway v. United States</case_name>
+      <id>103846</id>
+      <date_filed>1943-06-21</date_filed>
+      <judges>Rutledge</judges>
+      <nature_of_suit/>
+      <citation>
+         <volume>319</volume>
+         <reporter>U.S.</reporter>
+         <page>372</page>
+         <lexis_cite/>
+      </citation>
+      <federal_cite_one>319 U.S. 372</federal_cite_one>
+      <cited_by>
+         <case>2335799</case>
+         <case>2179166</case>
+         <case>1788051</case>
+         <case>1788096</case>
+         <case>1630702</case>
+         <case>1433849</case>
+         <case>1277029</case>
+         <case>1251292</case>
+         <case>1119025</case>
+         <case>848712</case>
+         <case>766204</case>
+         <case>229672</case>
+         <case>879207</case>
+         <case>878854</case>
+         <case>877791</case>
+         <case>854182</case>
+         <case>792601</case>
+         <case>788448</case>
+         <case>787694</case>
+         <case>783604</case>
+         <case>768061</case>
+         <case>755882</case>
+         <case>733019</case>
+         <case>726711</case>
+         <case>711121</case>
+         <case>696247</case>
+         <case>695269</case>
+         <case>694395</case>
+         <case>691135</case>
+         <case>686930</case>
+         <case>686568</case>
+         <case>681368</case>
+         <case>676184</case>
+         <case>661472</case>
+         <case>655323</case>
+         <case>609771</case>
+         <case>608105</case>
+         <case>594340</case>
+         <case>528405</case>
+         <case>522190</case>
+         <case>516267</case>
+         <case>515827</case>
+         <case>514275</case>
+         <case>509213</case>
+         <case>504294</case>
+         <case>495117</case>
+         <case>491697</case>
+         <case>482930</case>
+         <case>481749</case>
+         <case>474713</case>
+         <case>465666</case>
+         <case>464836</case>
+         <case>458927</case>
+         <case>454836</case>
+         <case>451979</case>
+         <case>450556</case>
+         <case>445138</case>
+         <case>408202</case>
+         <case>407582</case>
+         <case>401021</case>
+         <case>397906</case>
+         <case>394859</case>
+         <case>394087</case>
+         <case>392193</case>
+         <case>390306</case>
+         <case>386850</case>
+         <case>385719</case>
+         <case>381265</case>
+         <case>376711</case>
+         <case>373838</case>
+         <case>371446</case>
+         <case>370413</case>
+         <case>358198</case>
+         <case>357954</case>
+         <case>357881</case>
+         <case>355551</case>
+         <case>339151</case>
+         <case>304920</case>
+         <case>303260</case>
+         <case>300155</case>
+         <case>284955</case>
+         <case>283754</case>
+         <case>283625</case>
+         <case>277859</case>
+         <case>275072</case>
+         <case>274254</case>
+         <case>274020</case>
+         <case>267073</case>
+         <case>266859</case>
+         <case>266236</case>
+         <case>265908</case>
+         <case>261652</case>
+         <case>259876</case>
+         <case>254694</case>
+         <case>254607</case>
+         <case>253875</case>
+         <case>253668</case>
+         <case>253504</case>
+         <case>253009</case>
+         <case>251934</case>
+         <case>250463</case>
+         <case>250296</case>
+         <case>247409</case>
+         <case>247055</case>
+         <case>246818</case>
+         <case>244875</case>
+         <case>244878</case>
+         <case>242861</case>
+         <case>241183</case>
+         <case>240262</case>
+         <case>240189</case>
+         <case>239234</case>
+         <case>236837</case>
+         <case>236601</case>
+         <case>234841</case>
+         <case>234350</case>
+         <case>234050</case>
+         <case>233413</case>
+         <case>232376</case>
+         <case>231660</case>
+         <case>229759</case>
+         <case>229585</case>
+         <case>227062</case>
+         <case>226660</case>
+         <case>223866</case>
+         <case>204187</case>
+         <case>187303</case>
+         <case>154306</case>
+         <case>145805</case>
+         <case>118019</case>
+         <case>111873</case>
+         <case>111610</case>
+         <case>110550</case>
+         <case>109964</case>
+         <case>109698</case>
+         <case>108843</case>
+         <case>108173</case>
+         <case>108153</case>
+         <case>106973</case>
+         <case>106550</case>
+         <case>106135</case>
+         <case>105889</case>
+         <case>105886</case>
+         <case>105463</case>
+         <case>105373</case>
+         <case>104865</case>
+         <case>104436</case>
+         <case>103923</case>
+         <case>103903</case>
+         <case>76472</case>
+         <case>5824</case>
+         <case>5757</case>
+         <case>1254</case>
+      </cited_by>
+      <precedential_status>Published</precedential_status>
+      <download_url/>
+      <source>lawbox merged with resource.org</source>
+   </metadata>
+   <body>
+      <div type="majority" judge="rutledge">
+         <span class="citation no-link">
+            <span class="volume">319</span>
+            <span class="reporter">U.S.</span>
+            <span class="page">372</span>
+         </span> (1943) GALLOWAY v. UNITED STATES. No. 553. <p>Supreme Court of United States.</p>
+         Argued March 9, 1943. Decided May 24, 1943. CERTIORARI TO THE CIRCUIT COURT OF APPEALS FOR
+         THE NINTH CIRCUIT. <p>Mr. Warren E. Miller for petitioner.</p>
+         <p>Mr. Lester P. Schoene, with whom Solicitor General Fahy, Assistant Attorney General
+            Shea, and Messrs. Wilbur C. Pickett, W. Marvin Smith, and Keith L. Seegmiller were on
+            the brief, for the United States.</p>
+         <p>MR. JUSTICE RUTLEDGE delivered the opinion of the Court.</p>
+         <p>Petitioner seeks benefits for total and permanent disability by reason of insanity he
+            claims existed May 31, 1919. On that day his policy of yearly renewable term insurance
+            lapsed for nonpayment of premium.<span class="sup">[1]</span>
+         </p>
+         <p>
+            <span class="star-pagination">*373</span> The suit was filed June 15, 1938. At the close
+            of all the evidence, the District Court granted the Government's motion for a directed
+            verdict. Judgment was entered accordingly. The Circuit Court of Appeals affirmed. 130
+            F.2d 467. Both courts held the evidence legally insufficient to sustain a verdict for
+            petitioner. He says this was erroneous and, in effect, deprived him of trial by jury,
+            contrary to the Seventh Amendment.</p>
+         <p>The constitutional argument, as petitioner has made it, does not challenge generally the
+            power of federal courts to withhold or withdraw from the jury cases in which the
+            claimant puts forward insufficient evidence to support a verdict.<span class="sup"
+               >[2]</span> The contention is merely that his case as made was substantial, the
+            courts' decisions to the contrary were wrong, and therefore their effect has been to
+            deprive him of a jury trial. Petitioner relies particularly upon Halliday v. United
+            States, <span class="citation">
+               <a href="/scotus/wNb/halliday-v-united-states/">
+                  <span class="volume">315</span>
+                  <span class="reporter">U.S.</span>
+                  <span class="page">94</span>
+               </a>
+            </span>, and Berry v. United States, <span class="citation">
+               <a href="/scotus/wL4/berry-v-united-states/">
+                  <span class="volume">312</span>
+                  <span class="reporter">U.S.</span>
+                  <span class="page">450</span>
+               </a>
+            </span>, citing also Gunning v. Cooley, <span class="citation">
+               <a href="/scotus/wbD/gunning-v-cooley/">
+                  <span class="volume">281</span>
+                  <span class="reporter">U.S.</span>
+                  <span class="page">90</span>
+               </a>
+            </span>. These cases and others relied upon are distinguishable upon the facts, as will
+            appear. Upon the record and the issues as the parties have made them, the only question
+            is whether the evidence was sufficient to sustain a verdict for petitioner. On that
+            basis, we think the judgments must be affirmed.</p>
+         <p/>
+         <h2>I.</h2>
+         <p>Certain facts are undisputed. Petitioner worked as a longshoreman in Philadelphia and
+            elsewhere prior to enlistment <span class="star-pagination">*374</span> in the Army
+            November 1, 1917.<span class="sup">[3]</span> He became a cook in a machine gun
+            battalion. His unit arrived in France in April, 1918. He served actively until September
+            24. From then to the following January he was in a hospital with influenza. He then
+            returned to active duty. He came back to the United States, and received honorable
+            discharge April 29, 1919. He enlisted in the Navy January 15, 1920, and was discharged
+            for bad conduct in July. The following December he again enlisted in the Army and served
+            until May 1922, when he deserted. Thereafter he was carried on the Army records as a
+            deserter.</p>
+         <p>In 1930 began a series of medical examinations by Veterans' Bureau physicians. On May 19
+            that year his condition was diagnosed as "Moron, low grade; observation, dementia
+            praecox, simple type." In November, 1931, further examination gave the diagnosis,
+            "Psychosis with other diseases or conditions (organic disease of the central nervous
+            system &#x97; type undetermined)." In July, 1934, still another examination was made,
+            with diagnosis: "Psychosis-manic and depressive insanity incompetent; hypertension,
+            moderate; otitis media, chronic, left; varicose veins left, mild; abscessed teeth roots;
+            myocarditis, mild."</p>
+         <p>Petitioner's wife, the nominal party in this suit, was appointed guardian of his person
+            and estate in February, 1932. Claim for insurance benefits was made in June, 1934, and
+            was finally denied by the Board of Veterans' Appeals in January, 1936. This suit
+            followed two and a half years later.</p>
+         <p>Petitioner concededly is now totally and permanently disabled by reason of insanity and
+            has been for some time prior to institution of this suit. It is conceded also that <span
+               class="star-pagination">*375</span> he was sound in mind and body until he arrived in
+            France in April, 1918.</p>
+         <p>The theory of his case is that the strain of active service abroad brought on an
+            immediate change, which was the beginning of a mental breakdown that has grown worse
+            continuously through all the later years. Essential in this is the view it had become a
+            total and permanent disability not later than May 31, 1919.</p>
+         <p>The evidence to support this theory falls naturally into three periods, namely, that
+            prior to 1923; the interval from then to 1930; and that following 1930. It consists in
+            proof of incidents occurring in France to show the beginnings of change; testimony of
+            changed appearance and behavior in the years immediately following petitioner's return
+            to the United States as compared with those prior to his departure; the medical evidence
+            of insanity accumulated in the years following 1930; and finally the evidence of a
+            physician, given largely as medical opinion, which seeks to tie all the other evidence
+            together as foundation for the conclusion, expressed as of 1941, that petitioner's
+            disability was total and permanent as of a time not later than May of 1919.</p>
+         <p>Documentary exhibits included military, naval and Veterans' Bureau records. Testimony
+            was given by deposition or at the trial chiefly by five witnesses. One, O'Neill, was a
+            fellow worker and friend from boyhood; two, Wells and Tanikawa, served with petitioner
+            overseas; Lt. Col. Albert K. Mathews, who was an Army chaplain, observed him or another
+            person of the same name at an Army hospital in California during early 1920; and Dr.
+            Wilder, a physician, examined him shortly before the trial and supplied the only expert
+            testimony in his behalf. The petitioner also put into evidence the depositions of
+            Commander Platt and Lt. Col. James E. Matthews, his superior officers in the Navy and
+            the Army, respectively, during 1920-22.</p>
+         <p>
+            <span class="star-pagination">*376</span> What happened in France during 1918-19 is
+            shown chiefly by Wells and Tanikawa. Wells testified to an incident at Aisonville, where
+            the unit was billeted shortly after reaching France and before going into action. Late
+            at night petitioner created a disturbance, "hollering, screeching, swearing. . . . The
+            men poured out from the whole section." Wells did not see the incident, but heard
+            petitioner swearing at his superior officers and saw "the result, a black eye for Lt.
+            Warner." However, he did not see "who gave it to him."<span class="sup">[4]</span> Wells
+            personally observed no infraction of discipline except this incident, and did not know
+            what brought it on. Petitioner's physical appearance was good, he "carried on his duties
+            as a cook all right," and the witness did not see him after June 1, except for about
+            three days in July when he observed petitioner several times at work feeding
+            stragglers.</p>
+         <p>Tanikawa, Hawaiian-born citizen, served with petitioner from the latter's enlistment
+            until September, 1918, when Galloway was hospitalized, although the witness thought they
+            had fought together and petitioner was "acting queer" at the Battle of the Argonne in
+            October. At Camp Greene, North Carolina, petitioner was "just a regular soldier, very
+            normal, . . . pretty neat." After reaching France "he was getting nervous . . ., kind of
+            irritable, always picking a fight with other soldiers." This began at Aisonville.
+            Tanikawa saw Galloway in jail, apparently before June. It is not clear whether these are
+            references to the incident Wells described.</p>
+         <p>Tanikawa described another incident in June "when we were on the Marne," the Germans
+            "were on the other side and we were on this side." It was a new front, without trenches.
+            The witness and petitioner were on guard duty with others. Tanikawa understood the
+            Germans <span class="star-pagination">*377</span> were getting ready for a big drive.
+            "One night he [petitioner] screamed. He said, `The Germans are coming' and we all gagged
+            him." There was no shooting, the Germans were not coming, and there was nothing to lead
+            the witness to believe they were. Petitioner was court-martialed for the matter, but
+            Tanikawa did not know "what they did with him." He did not talk with Galloway that
+            night, because "he was out of his mind" and appeared insane. Tanikawa did not know when
+            petitioner left the battalion or what happened to him after (as the witness put it) the
+            Argonne fight, but heard he went to the hospital, "just dressing station I guess." The
+            witness next saw Galloway in 1936, at a disabled veterans' post meeting in Sacramento,
+            California. Petitioner then "looked to me like he wasn't all there. Insane. About the
+            same .. . as compared to the way he acted in France, particularly when they gagged him .
+            . ."</p>
+         <p>O'Neill was "born and raised with" petitioner, worked with him as a longshoreman, and
+            knew him "from when he come out of the army for seven years, . . . I would say five or
+            six years." When petitioner returned in April or May, 1919, "he was a wreck compared to
+            what he was when he went away. The fallow's mind was evidently unbalanced." Symptoms
+            specified were withdrawing to himself; crying spells; alternate periods of normal
+            behavior and nonsensical talk; expression of fears that good friends wanted "to beat him
+            up"; spitting blood and remarking about it in vulgar terms. Once petitioner said, "G____
+            d____ it, I must be a Doctor Jekyll and Mr. Hyde."</p>
+         <p>O'Neill testified these symptoms and this condition continued practically the same for
+            about five years. In his opinion petitioner was "competent at times and others was
+            incompetent." The intervals might be "a couple of days, a couple of months." In his
+            normal periods Galloway "would be his old self . . . absolutely O.K."</p>
+         <p>
+            <span class="star-pagination">*378</span> O'Neill was definite in recalling petitioner's
+            condition and having seen him frequently in 1919, chiefly however, and briefly, on the
+            street during lunch hour. He was not sure Galloway was working and was "surprised he got
+            in the Navy, I think in the Navy or in the Government service."</p>
+         <p>O'Neill maintained he saw petitioner "right on from that [1920] at times." But his
+            recollection of dates, number of opportunities for observation, and concrete events was
+            wholly indefinite. He would fix no estimate for the number of times he had seen
+            petitioner: "In 1920 I couldn't recall whether it was one or a thousand." For later
+            years he would not say whether it was "five times or more or less." When he was pinned
+            down by cross-examination, the effect of his testimony was that he recalled petitioner
+            clearly in 1919 "because there was such a vast contrast in the man," but for later years
+            he could give little or no definite information. The excerpt from the testimony set
+            forth in the margin<span class="sup">[5]</span> shows this contrast. <span
+               class="star-pagination">*379</span> We also summarize below<span class="sup"
+               >[6]</span> other evidence which explains or illustrates the vagueness of the
+            witness' recollection for events after 1919. O'Neill recalled one specific occasion
+            after 1919 when petitioner returned to Philadelphia, "around 1920 or 1921, but I
+            couldn't be sure," to testify in a criminal proceeding. He also said, "After he was away
+            for five or six years, he came back to Philadelphia, but I wouldn't know nothing about
+            dates on that. He was back in Philadelphia for five or six months or so, and he was
+            still just evidently all right, and then he would be off."</p>
+         <p>Lt. Col. (Chaplain) Mathews said he observed a Private Joseph Galloway, who was a
+            prisoner for desertion and a patient in the mental ward at Fort MacArthur Station <span
+               class="star-pagination">*380</span> Hospital, California, during a six weeks period
+            early in 1920. The chaplain's testimony gives strong evidence the man he observed was
+            insane. However, there is a fatal weakness in this evidence. In his direct testimony,
+            which was taken by deposition, the chaplain said he was certain that the soldier was
+            petitioner. When confronted with the undisputed fact that petitioner was on active duty
+            in the Navy during the first half of 1920, the witness at first stated that he might
+            have been mistaken as to the time of his observation. Subsequently he reasserted the
+            accuracy of his original statement as to the time of observation, but admitted that he
+            might have been mistaken in believing that the patient-prisoner was petitioner. In this
+            connection he volunteered the statement, "Might I add, sir, that I could not now
+            identify that soldier if I were to meet him face to face, and that is because of the
+            long lapse of time." The patient whom the witness saw was confined to his bed. The
+            record is barren of other evidence, whether by the hospital's or the Army's records or
+            otherwise, to show that petitioner was either patient or prisoner at Fort MacArthur in
+            1920 or at any other time.</p>
+         <p>Commander Platt testified that petitioner caused considerable trouble by disobedience
+            and leaving ship without permission during his naval service in the first half of 1920.
+            After "repeated warnings and punishments, leading to courts martial," he was sentenced
+            to a bad conduct discharge.</p>
+         <p>Lt. Col. James E. Matthews (not the chaplain) testified by deposition which petitioner's
+            attorney interrupted Dr. Wilder's testimony to read into evidence. The witness was
+            Galloway's commanding officer from early 1921 to the summer of that year, when
+            petitioner was transferred with other soldiers to another unit. At first, Colonel
+            Matthews considered making petitioner a corporal, but found him unreliable and had to
+            discipline him. Petitioner "drank <span class="star-pagination">*381</span>
+            considerably," was "what we called a bolshevik," did not seem loyal, and "acted as if he
+            was not getting a square deal." The officer concluded "he was a moral pervert and
+            probably used narcotics," but could not secure proof of this. Galloway was
+            court-martialed for public drunkenness and disorderly conduct, served a month at hard
+            labor, and returned to active duty. At times he "was one of the very best soldiers I
+            had," at others undependable. He was physically sound, able to do his work, perform
+            close order drill, etc., "very well." He had alternate periods of gaiety and depression,
+            talked incoherently at times, gave the impression he would fight readily, but did not
+            resent orders and seemed to get along well with other soldiers. The officer attributed
+            petitioner's behavior to alcohol and narcotics, and it occurred to him at no time to
+            question his sanity.</p>
+         <p>Dr. Wilder was the key witness. He disclaimed specializing in mental disease, but
+            qualified as having given it "special attention." He first saw petitioner shortly before
+            the trial, examined him "several times." He concluded petitioner's ailment "is a
+            schizophrenic branch or form of praecox." Dr. Wilder heard the testimony and read the
+            depositions of the other witnesses, and examined the documentary evidence. Basing his
+            judgment upon this material, with inferences drawn from it, he concluded petitioner was
+            born with "an inherent instability," though he remained normal until he went to France;
+            began there "to be subjected to the strain of military life, then he began to go to
+            pieces." In May, 1919, petitioner "was still suffering from the acuteness of the
+            breakdown . . . He is going down hill still, but the thing began with the breakdown . .
+            ." Petitioner was "definitely insane, yes, sir," in 1920 and "has been insane at all
+            times, at least since July, 1918, the time of this episode on the Marne"; that is, "to
+            the point that he was unable to adapt himself. I don't mean he has not had moments when
+            he could not [sic] perform some routine tasks," but "from an occupational <span
+               class="star-pagination">*382</span> standpoint . . . he has been insane." He could
+            follow "a mere matter of routine," but would have no incentive, would not keep a steady
+            job, come to work on time, or do anything he didn't want to do. Dr. Wilder pointed to
+            petitioner's work record before he entered the service and observed: "At no time after
+            he went into the war do we find him able to hold any kind of a job. He broke right
+            down." He explained petitioner's enlistment in the Navy and later in the Army by saying,
+            "It would have been no trick at all for a man who was reasonably conforming to get into
+            the Service." (Emphasis added.)</p>
+         <p>However, the witness knew "nothing whatever except his getting married" about
+            petitioner's activities between 1925 and 1930, and what he knew of them between 1922 and
+            1925 was based entirely on O'Neill's testimony and a paper not of record here.<span
+               class="sup">[7]</span> Dr. Wilder at first regarded knowledge concerning what
+            petitioner was doing between 1925 and 1930 as not essential. "We have a continuing
+            disease, quite obviously beginning during his military service, and quite obviously
+            continuing in 1930, and the minor incidents don't seem to me ____" (Emphasis added.)
+            Counsel for the government interrupted to inquire, "Well, if he was continuously
+            employed for eight hours a day from 1925 to 1930 would that have any bearing?" The
+            witness replied, "It would have a great deal." Upon further questioning, however, he
+            reverted to his first position, stating it would not be necessary or helpful for him to
+            know what petitioner was doing from 1925 to 1930: "I testified from the information I
+            had."</p>
+         <p/>
+         <h2>II.</h2>
+         <p>This, we think, is the crux of the case and distinguishes it from the cases on which
+            petitioner has relied.<span class="sup">[8]</span> His burden <span
+               class="star-pagination">*383</span> was to prove total and permanent disability as of
+            a date not later than May 31, 1919. He has undertaken to do this by showing incipience
+            of mental disability shortly before that time and its continuance and progression
+            throughout the succeeding years. He has clearly established incidence of total and
+            permanent disability as of some period prior to 1938, when he began this suit.<span
+               class="sup">[9]</span> For our purposes this may be taken as medically established by
+            the Veterans' Bureau examination and diagnosis of July, 1934.<span class="sup"
+               >[10]</span>
+         </p>
+         <p>But if the record is taken to show that some form of mental disability existed in 1930,
+            which later became total and permanent, petitioner's problem remains to demonstrate by
+            more than speculative inference that this condition itself began on or before May 31,
+            1919, and continuously <span class="star-pagination">*384</span> existed or progressed
+            through the intervening years to 1930.</p>
+         <p>To show origin before the crucial date, he gives evidence of two abnormal incidents
+            occurring while he was in France, one creating the disturbance before he came near the
+            fighting front, the other yelling that the Germans were coming when he was on guard duty
+            at the Marne. There is no other evidence of abnormal behavior during his entire service
+            of more than a year abroad.</p>
+         <p>That he was court-martialed for these sporadic acts and bound and gagged for one does
+            not prove he was insane or had then a general breakdown in "an already fragile mental
+            constitution," which the vicissitudes of a longshoreman's life had not been able to
+            crack.</p>
+         <p>To these two incidents petitioner adds the testimony of O'Neill that he looked and acted
+            like a wreck, compared with his former self, when he returned from France about a month
+            before the crucial date, and O'Neill's vague recollections that this condition continued
+            through the next two, three, four, or five years.</p>
+         <p>O'Neill's testimony apparently takes no account of petitioner's having spent 101 days in
+            a hospital in France with influenza just before he came home. But, given the utmost
+            credence, as is required, it does no more than show that petitioner was subject to
+            alternating periods of gaiety and depression for some indefinite period after his
+            return, extending perhaps as late as 1922. But because of its vagueness as to time,
+            dates, frequency of opportunity for observation, and specific incident, O'Neill's
+            testimony concerning the period from 1922 to 1925 is hardly more than speculative.</p>
+         <p>We have then the two incidents in France, followed by O'Neill's testimony of
+            petitioner's changed condition in 1919 and its continuance to 1922.<span class="sup"
+               >[11]</span> There is also the <span class="star-pagination">*385</span> testimony of
+            Commander Platt and Lt. Col. James E. Matthews as to his service in the Navy and the
+            Army, respectively, during 1920-1922. Neither thought petitioner was insane or that his
+            conduct indicated insanity. Then follows a chasm of eight years. The only evidence<span
+               class="sup">[12]</span> we have concerning this period is the fact that petitioner
+            married his present guardian at some time within it, an act from which in the legal
+            sense no inference of insanity can be drawn.</p>
+         <p>This period was eight years of continuous insanity, according to the inference
+            petitioner would be allowed to have drawn. If so, he should have no need of inference.
+            Insanity so long and continuously sustained does not hide itself from the eyes and ears
+            of witnesses.<span class="sup">[13]</span> The assiduity <span class="star-pagination"
+               >*386</span> which produced the evidence of two "crazy" incidents during a year and a
+            half in France should produce one during eight years or, for that matter, five years in
+            the United States.</p>
+         <p>Inference is capable of bridging many gaps. But not, in these circumstances, one so wide
+            and deep as this. Knowledge of petitioner's activities and behavior from 1922 or 1925 to
+            1930 was peculiarly within his ken and that of his wife, who has litigated this cause in
+            his and presumably, though indirectly, in her own behalf. His was the burden to show
+            continuous disability. What he did in this time, or did not do, was vital to his case.
+            Apart from the mere fact of his marriage, the record is blank for five years and almost
+            blank for eight. For all that appears, he may have worked full time and continuously for
+            five and perhaps for eight, with only a possible single interruption.<span class="sup"
+               >[14]</span>
+         </p>
+         <p>No favorable inference can be drawn from the omission. It was not one of oversight or
+            inability to secure proof. That is shown by the thoroughness with which the record was
+            prepared for all other periods, before and after this one, and by the fact petitioner's
+            wife, though she married him during the period and was available, did not testify. The
+            only reasonable conclusion is that petitioner, or those who acted for him, deliberately
+            chose, for reasons no doubt considered sufficient (and which we do not criticize, since
+               <span class="star-pagination">*387</span> such matters, including tactical ones, are
+            for the judgment of counsel), to present no evidence or perhaps to withhold evidence
+            readily available concerning this long interval, and to trust to the genius of expert
+            medical inference and judicial laxity to bridge this canyon.</p>
+         <p>In the circumstances exhibited, the former is not equal to the feat, and the latter will
+            not permit it. No case has been cited and none has been found in which inference,
+            however expert, has been permitted to make so broad a leap and take the place of
+            evidence which, according to all reason, must have been at hand.<span class="sup"
+               >[15]</span> To allow this would permit the substitution of inference, tenuous at
+            best, not merely for evidence absent because impossible or difficult to secure, but for
+            evidence disclosed to be available and not produced. This would substitute speculation
+            for proof. Furthermore, the inference would be more plausible perhaps if the evidence of
+            insanity as of May, 1919, were stronger than it is, such for instance as Chaplain
+            Mathews' testimony would have furnished if it could be taken as applying to petitioner.
+            But, on this record, the evidence of insanity as of that time is thin at best, if it can
+            be regarded as at all more than speculative.<span class="sup">[16]</span>
+         </p>
+         <p>Beyond this, there is nothing to show totality or permanence. These come only by what
+            the Circuit Court of Appeals rightly characterized as "long-range retroactive
+            diagnosis." That might suffice, notwithstanding this crucial inference was a matter of
+            opinion, if there were factual evidence over which the medical eye could travel and find
+            continuity through the intervening years. Cf. Halliday v. United States, supra. But
+            eight years are too many to permit it to skip, when the bridgeheads (if the figure may
+            be changed) at each end are no stronger than <span class="star-pagination">*388</span>
+            they are here, and when the seer first denies, then admits, then denies again, that what
+            took place in this time would make "a great deal" of difference in what he saw. Expert
+            medical inference rightly can do much. But we think the feat attempted here too large
+            for its accomplishment.</p>
+         <p>The Circuit Court of Appeals thought petitioner's enlistments and service in the Navy
+            and Army in 1920-1922 were in themselves "such physical facts as refute any reasonable
+            inferences which may be drawn from the evidence here presented by him that he was
+            totally and permanently disabled during the life of his policy." 130 F.2d 471; cf.
+            Atkins v. United States, <span class="citation no-link">
+               <span class="volume">63</span>
+               <span class="reporter">App. D.C.</span>
+               <span class="page">164</span>
+            </span>, <span class="citation no-link">
+               <span class="volume">70</span>
+               <span class="reporter">F.2d</span>
+               <span class="page">768</span>
+            </span>, 771; United States v. Le Duc, <span class="citation">
+               <a href="/ca8/93mG/united-states-v-le-duc/">
+                  <span class="volume">48</span>
+                  <span class="reporter">F.2d</span>
+                  <span class="page">789</span>
+               </a>
+            </span>, 793 (C.C.A.). The opinion also summarizes and apparently takes account of the
+            evidence presented on behalf of the Government. <span class="citation no-link">
+               <span class="volume">130</span>
+               <span class="reporter">F.2d</span>
+               <span class="page">469</span>
+            </span>, 470. In view of the ground upon which we have placed the decision, we need not
+            consider these matters.</p>
+         <p/>
+         <h2>III.</h2>
+         <p>What has been said disposes of the case as the parties have made it. For that reason
+            perhaps nothing more need be said. But objection has been advanced that, in some manner
+            not wholly clear, the directed verdict practice offends the Seventh Amendment.</p>
+         <p>It may be noted, first, that the Amendment has no application of its own force to this
+            case. The suit is one to enforce a monetary claim against the United States. It hardly
+            can be maintained that under the common law in 1791 jury trial was a matter of right for
+            persons asserting claims against the sovereign.<span class="sup">[17]</span> Whatever
+            force the <span class="star-pagination">*389</span> Amendment has therefore is derived
+            because Congress, in the legislation cited,<span class="sup">[18]</span> has made it
+            applicable. Even so, the objection made on the score of its requirements is
+            untenable.</p>
+         <p>If the intention is to claim generally that the Amendment deprives the federal courts of
+            power to direct a verdict for insufficiency of evidence, the short answer is the
+            contention has been foreclosed by repeated decisions made here consistently for nearly a
+               century.<span class="sup">[19]</span> More recently the practice has been approved
+            explicitly in the promulgation of the Federal Rules of Civil Procedure. Cf. Rule 50;
+            Berry v. United States, <span class="citation">
+               <a href="/scotus/wL4/berry-v-united-states/">
+                  <span class="volume">312</span>
+                  <span class="reporter">U.S.</span>
+                  <span class="page">450</span>
+               </a>
+            </span>. The objection therefore comes too late.</p>
+         <p>Furthermore, the argument from history is not convincing. It is not that "the rules of
+            the common law" in 1791 deprived trial courts of power to withdraw cases from the <span
+               class="star-pagination">*390</span> jury, because not made out, or appellate courts
+            of power to review such determinations. The jury was not absolute master of fact in
+            1791. Then as now courts excluded evidence for irrelevancy and relevant proof for other
+               reasons.<span class="sup">[20]</span> The argument concedes they weighed the
+            evidence, not only piecemeal but in toto for submission to the jury, by at least two
+            procedures, the demurrer to the evidence and the motion for a new trial. The objection
+            is not therefore to the basic thing,<span class="sup">[21]</span> which is the power of
+            the court to withhold cases from the jury or set aside the verdict for insufficiency of
+            the evidence. It is rather to incidental or collateral effects, namely, that the
+            directed verdict as now administered differs from both those procedures because, on the
+            one hand, allegedly higher standards of proof are required and, on the other, different
+            consequences follow as to further maintenance of the litigation. Apart from the
+            standards of proof, the argument appears to urge that in 1791, a litigant could
+            challenge his opponent's evidence, either by the demurrer, which when determined ended
+            the litigation, or by motion for a new trial which, if successful, gave the adversary
+            another chance to prove his case; and therefore the Amendment excluded any challenge to
+            which one or the other of these consequences does not attach.</p>
+         <p>The Amendment did not bind the federal courts to the exact procedural incidents or
+            details of jury trial according to the common law in 1791, any more than it tied them to
+            the common-law system of pleading or the specific rules of evidence then
+               prevailing.<span class="sup">[22]</span> Nor were "the rules of the <span
+               class="star-pagination">*391</span> common law" then prevalent, including those
+            relating to the procedure by which the judge regulated the jury's role on questions of
+            fact, crystallized in a fixed and immutable system. On the contrary, they were
+            constantly changing and developing during the late eighteenth and early nineteenth
+               centuries.<span class="sup">[23]</span> In 1791 this process already had <span
+               class="star-pagination">*392</span> resulted in widely divergent common-law rules on
+            procedural matters among the states, and between them and England.<span class="sup"
+               >[24]</span> And none of the contemporaneous rules regarding judicial control of the
+            evidence going to juries or its sufficiency to support a verdict had reached any
+            precise, much less final, form.<span class="sup">[25]</span> In addition, the passage of
+            time has obscured much of the procedure which then may have had more or less definite
+            form, even for historical purposes.<span class="sup">[26]</span>
+         </p>
+         <p>This difficulty, no doubt, accounts for the amorphous character of the objection now
+            advanced, which insists, not that any single one of the features criticized, but that
+            the cumulative total or the alternative effect of all, was embodied in the Amendment.
+            The more logical conclusion, we think, and the one which both history and the previous
+            decisions here support, is that the Amendment was designed to preserve the basic
+            institution of jury trial in only its most fundamental elements, not the great mass of
+            procedural forms and details, varying even then so widely among common-law
+               jurisdictions.<span class="sup">[27]</span>
+         </p>
+         <p>Apart from the uncertainty and the variety of conclusion which follows from an effort at
+            purely historical accuracy, the consequences flowing from the view asserted are
+            sufficient to refute it. It may be doubted that the Amendment requires challenge to an
+            opponent's case to be made without reference to the merits of one's own and at the price
+            of all opportunity to have it considered. On the other hand, there is equal room for
+            disbelieving it <span class="star-pagination">*393</span> compels endless repetition of
+            litigation and unlimited chance, by education gained at the opposing party's expense,
+            for perfecting a case at other trials. The essential inconsistency of these alternatives
+            would seem sufficient to refute that either or both, to the exclusion of all others,
+            received constitutional sanctity by the Amendment's force. The first alternative, drawn
+            from the demurrer to the evidence, attributes to the Amendment the effect of forcing one
+            admission because another and an entirely different one is made,<span class="sup"
+               >[28]</span> and thereby compels conclusion of the litigation once and for all. The
+            true effect of imposing such a risk would not be to guarantee the plaintiff a jury
+            trial. It would be rather to deprive the defendant (or the plaintiff if he were the
+            challenger) of that right; or, if not that, then of the right to challenge the legal
+            sufficiency of the opposing case. The Amendment was not framed or adopted to deprive
+            either party of either right. It is impartial in its guaranty of both. To posit
+            assertion of one upon sacrifice of the other would dilute and distort the full
+            protection intended. The admitted validity of the practice on the motion for a new trial
+            goes far to demonstrate this.<span class="sup">[29]</span> It negatives any idea <span
+               class="star-pagination">*394</span> that the challenge must be made at such a risk as
+            the demurrer imposed. As for the other alternative, it is not urged that the Amendment
+            guarantees another trial whenever challenge to the sufficiency of evidence is sustained.
+            Cf. Berry v. United States, supra. That argument, in turn, is precluded by the practice
+            on demurrer to the evidence.</p>
+         <p>Each of the classical modes of challenge, therefore, disproves the notion that the
+            characteristic feature of the other, for effect upon continuing the litigation, became a
+            part of the Seventh Amendment's guaranty to the exclusion of all others. That guaranty
+            did not incorporate conflicting constitutional policies, that challenge to an opposing
+            case must be made with the effect of terminating the litigation finally and, at the same
+            time, with the opposite effect of requiring another trial. Alternatives so contradictory
+            give room, not for the inference that one or the other is required, but rather for the
+            view that neither is essential.<span class="sup">[30]</span>
+         </p>
+         <p>
+            <span class="star-pagination">*395</span> Finally, the objection appears to be directed
+            generally at the standards of proof judges have required for submission of evidence to
+            the jury. But standards, contrary to the objection's assumption, cannot be framed
+            wholesale for the great variety of situations in respect to which the question
+               arises.<span class="sup">[31]</span> Nor is the matter greatly aided by substituting
+            one general formula for another. It hardly affords help to insist upon "substantial
+            evidence" rather than "some evidence" or "any evidence," or vice versa. The matter is
+            essentially one to be worked out in particular situations and for particular types of
+            cases. Whatever may be the general formulation, the essential requirement is that mere
+            speculation be not allowed to do duty for probative facts, after making due allowance
+            for all reasonably possible inferences favoring the party whose case is attacked. The
+            mere difference in labels used to describe this standard, whether it is applied under
+            the demurrer to the evidence<span class="sup">[32]</span> or on motion for a directed
+            verdict, cannot amount to a departure from "the rules of the common law" which the
+            Amendment requires to be followed.<span class="sup">[33]</span> If there is abuse in
+            this respect, the obvious remedy is by correction on appellate review.</p>
+         <p>
+            <span class="star-pagination">*396</span> Judged by this requirement, or by any standard
+            other than sheer speculation, we are unable to conclude that one whose burden, by the
+            nature of his claim, is to show continuing and total disability for nearly twenty years
+            supplies the essential proof of continuity when he wholly omits to show his whereabouts,
+            activities or condition for five years, although the record discloses evidence must have
+            been available, and, further, throws no light upon three additional years, except for
+            one vaguely described and dated visit to his former home. Nothing in the Seventh
+            Amendment requires it should be allowed to join forces with the jury system to bring
+            about such a result. That guaranty requires that the jury be allowed to make reasonable
+            inferences from facts proven in evidence having a reasonable tendency to sustain them.
+            It permits expert opinion to have the force of fact when based on facts which sustain
+            it. But it does not require that experts or the jury be permitted to make inferences
+            from the withholding of crucial facts, favorable in their effects to the party who has
+            the evidence of them in his peculiar knowledge and possession, but elects to keep it so.
+            The words "total and permanent" are the statute's, not our own. They mean something more
+            than incipient or occasional disability. We hardly need add that we give full credence
+            to all of the testimony. But that cannot cure its inherent vagueness or supply essential
+            elements omitted or withheld.</p>
+         <p>Accordingly, the judgment is</p>
+         <p>Affirmed.</p></div>
+      <div type="dissent" judge="black">
+         <p>MR. JUSTICE BLACK, with whom MR. JUSTICE DOUGLAS and MR. JUSTICE MURPHY concur,
+            dissenting:</p>
+         <p>The Seventh Amendment to the Constitution provides:</p>
+         <p>"In suits at common law, where the value in controversy shall exceed twenty dollars, the
+            right of trial by jury shall be preserved, and no fact tried by a jury shall <span
+               class="star-pagination">*397</span> be otherwise re-examined in any Court of the
+            United States, than according to the rules of the common law."</p>
+         <p>The Court here re-examines testimony offered in a common law suit, weighs conflicting
+            evidence, and holds that the litigant may never take this case to a jury. The founders
+            of our government thought that trial of fact by juries rather than by judges was an
+            essential bulwark of civil liberty.<span class="sup">[1]</span> For this reason, among
+            others, they adopted Article III, § 2 of the Constitution, and the Sixth and Seventh
+            Amendments. Today's decision marks a continuation of the gradual process of judicial
+            erosion which in one-hundred-fifty years has slowly worn away a major portion of the
+            essential guarantee of the Seventh Amendment.</p>
+         <p/>
+         <h2>I.</h2>
+         <p>Alexander Hamilton in The <ref type="intent" num="81">Federalist</ref> emphasized his loyalty to the jury system in civil
+            cases and declared that jury verdicts should be re-examined, if at all, only "by a
+            second jury, either by remanding the cause to the court below for a second trial of the
+            fact, or by directing an issue immediately out of the Supreme Court." He divided the
+            citizens of his time between those who thought that <span class="star-pagination"
+               >*398</span> jury trial was a "valuable safeguard to liberty" and those who thought
+            it was "the very palladium of free government." However, he felt it unnecessary to
+            include in the Constitution a specific provision placing jury trial in civil cases in
+            the same high position as jury trial in criminal cases.<span class="sup">[2]</span>
+         </p>
+         <p>Hamilton's view, that constitutional protection of jury trial in civil cases was
+            undesirable, did not prevail. On the contrary, in response to widespread demands from
+            the various State Constitutional Conventions, the first Congress adopted the Bill of
+            Rights containing the Sixth and Seventh Amendments, intended to save trial in both
+            criminal and common law cases from legislative or judicial abridgment.<span class="sup"
+               >[3]</span> The first Congress expected the Seventh Amendment to meet the objections
+            of men like Patrick Henry to the Constitution itself. Henry, speaking in the Virginia
+            Constitutional Convention, had expressed the general conviction of the people of the
+            Thirteen States when he said, "Trial by jury is the best appendage of freedom. . . . We
+            are told that we are to part with that trial by jury with which our ancestors secured
+            their lives and property. . . . I hope we shall never be induced, by such arguments, to
+            part with that excellent mode of trial. No appeal can now be made as to fact in common
+            law suits. The unanimous verdict of impartial men cannot be reversed."<span class="sup"
+               >[4]</span> The first Congress, therefore, <span class="star-pagination">*399</span>
+            provided for trial of common law cases by a jury, even when such trials were in the
+            Supreme Court itself. 1 Stat. 73, 81.</p>
+         <p>In 1789, juries occupied the principal place in the administration of justice. They were
+            frequently in both criminal<span class="sup">[5]</span> and civil cases the arbiters not
+            only of fact but of law. Less than three years after the ratification of the Seventh
+            Amendment, this Court called a jury in a civil case brought under our original
+            jurisdiction. There was no disagreement as to the facts of the case. Chief Justice Jay,
+            charging the jury for a unanimous Court, three of whose members had sat in the
+            Constitutional Convention, said: "For as, on the one hand, it is presumed that juries
+            are the best judges of facts; it is, on the other hand, presumable that the court are
+            the best judges of law. But still, both objects are lawfully within your power of
+            decision." Georgia v. Brailsford, 3 Dall. 1, 4. Similar views were held by state courts
+            in Connecticut, Massachusetts, Illinois, Louisiana and presumably elsewhere.<span
+               class="sup">[6]</span>
+         </p>
+         <p>The principal method by which judges prevented cases from going to the jury in the
+            Seventeenth and Eighteenth Centuries was by the demurrer to the evidence, under <span
+               class="star-pagination">*400</span> which the defendant at the end of the trial
+            admitted all facts shown by the plaintiff as well as all inferences which might be drawn
+            from the facts, and asked for a ruling of the Court on the "law of the case."<span
+               class="sup">[7]</span> See for example Wright v. Pindar, (1647) Aleyn 18 and Pawling
+            v. United States, 4 Cranch 219. This practice fell into disuse in England in 1793,
+            Gibson v. Hunter, 2 H. B1. 187, and in the United States federal courts in 1826, Fowle
+            v. Alexandria, <span class="citation no-link">
+               <span class="volume">11</span>
+               <span class="reporter">Wheat.</span>
+               <span class="page">320</span>
+            </span>. The power of federal judges to comment to the jury on the evidence gave them
+            additional influence. M'Lanahan v. Universal Insurance Co., <span
+               class="citation no-link">
+               <span class="volume">1</span>
+               <span class="reporter">Pet.</span>
+               <span class="page">170</span>
+            </span> (1828). The right of involuntary non-suit of a plaintiff, which might have been
+            used to expand judicial power at jury expense was at first denied federal courts. Elmore
+            v. Grymes, <span class="citation no-link">
+               <span class="volume">1</span>
+               <span class="reporter">Pet.</span>
+               <span class="page">469</span>
+            </span>; DeWolf v. Rabaud, 1 Pet. 476; but cf. Coughran v. Bigelow, <span
+               class="citation">
+               <a href="/scotus/u75/coughran-v-bigelow/">
+                  <span class="volume">164</span>
+                  <span class="reporter">U.S.</span>
+                  <span class="page">301</span>
+               </a>
+            </span> (1896).</p>
+         <p>As Hamilton had declared in The <ref type="treatise" num="81">Federalist</ref>, the basic judicial control of the jury
+            function was in the court's power to order a new trial.<span class="sup">[8]</span> In
+            1830, this Court said: "The only modes known to the common law to re-examine such facts,
+            are the granting of a new trial by the court where the issue was tried, or to which the
+            record was properly returnable; or the award of a venire facias de novo, by an appellate
+            court, for some error of law which intervened in the proceedings." Parsons v. Bedford,
+            supra, at 448.<span class="sup">[9]</span> That retrial by a new jury rather than
+            factual <span class="star-pagination">*401</span> reevaluation by a court is a
+            constitutional right of genuine value was restated as recently as Slocum v. New York
+            Life Insurance Co., <span class="citation">
+               <a href="/scotus/v6b/slocum-v-new-york-life-ins-co/">
+                  <span class="volume">228</span>
+                  <span class="reporter">U.S.</span>
+                  <span class="page">364</span>
+               </a>
+            </span>.<span class="sup">[10]</span>
+         </p>
+         <p>A long step toward the determination of fact by judges instead of by juries was the
+            invention of the directed verdict.<span class="sup">[11]</span> In 1850, what seems to
+            have been the first directed <span class="star-pagination">*402</span> verdict case
+            considered by this Court, Parks v. Ross, <span class="citation no-link">
+               <span class="volume">11</span>
+               <span class="reporter">How.</span>
+               <span class="page">362</span>
+            </span>, was presented for decision. The Court held that the directed verdict serves the
+            same purpose as the demurrer to the evidence, and that since there was "no evidence
+               whatever"<span class="sup">[12]</span> on the critical issue in the case, the
+            directed verdict was approved.<span class="sup">[13]</span> The decision was an
+            innovation, a departure from the traditional rule restated only fifteen years before in
+            Greenleaf v. Birth, <span class="citation">
+               <a href="/scotus/rxD/greenleaf-v-birth/">
+                  <span class="volume">9</span>
+                  <span class="reporter">Pet.</span>
+                  <span class="page">292</span>
+               </a>
+            </span>, 299 (1835), in which this Court had said: "Where there is no evidence tending
+            to prove a particular fact, the court are bound so to instruct the jury, when requested;
+            but they cannot legally give any instruction which shall take from the jury the right of
+            weighing the evidence and determining what effect it shall have."</p>
+         <p>This new device contained potentialities for judicial control of the jury which had not
+            existed in the demurrer to the evidence. In the first place, demurring to the evidence
+               <span class="star-pagination">*403</span> was risky business, for in so doing the
+            party not only admitted the truth of all the testimony against him but also all
+            reasonable inferences which might be drawn from it; and upon joinder in demurrer the
+            case was withdrawn from the jury while the court proceeded to give final judgment either
+            for or against the demurrant. Hopkins v. Railroad, <span class="citation no-link">
+               <span class="volume">96</span>
+               <span class="reporter">Tenn.</span>
+               <span class="page">409</span>
+            </span>, 34 S.W. 1029; Suydam v. Williamson, <span class="citation">
+               <a href="/scotus/rUR/suydam-v-williamson/">
+                  <span class="volume">20</span>
+                  <span class="reporter">How.</span>
+                  <span class="page">427</span>
+               </a>
+            </span>, 436; Bass v. Rublee, <span class="citation no-link">
+               <span class="volume">76</span>
+               <span class="reporter">Vt.</span>
+               <span class="page">395</span>
+            </span>, 400, 57 A. 965. Imposition of this risk was no mere technicality; for by making
+            withdrawal of a case from the jury dangerous to the moving litigant's cause, the early
+            law went far to assure that facts would never be examined except by a jury. Under the
+            directed verdict practice, the moving party takes no such chance, for if his motion is
+            denied, instead of suffering a directed verdict against him, his case merely continues
+            into the hands of the jury. The litigant not only takes no risk by a motion for a
+            directed verdict, but in making such a motion gives himself two opportunities to avoid
+            the jury's decision; for under the federal variant of judgment notwithstanding the
+            verdict, the judge may reserve opinion on the motion for a directed verdict and then
+            give judgment for the moving party after the jury has formally found against him.<span
+               class="sup">[14]</span> In the second place, under the directed verdict practice the
+            courts soon abandoned the "admission of all facts and reasonable inferences" standard
+            referred to, and created the so-called "substantial evidence" rule which permitted
+            directed verdicts even though there was far more evidence in the case than a plaintiff
+            would have needed to withstand a demurrer.</p>
+         <p>The substantial evidence rule did not spring into existence immediately upon the
+            adoption of the directed verdict device. For a few more years<span class="sup"
+               >[15]</span> federal judges <span class="star-pagination">*404</span> held to the
+            traditional rule that juries might pass finally on facts if there was "any evidence" to
+            support a party's contention. The rule that a case must go to the jury unless there was
+            "no evidence" was completely repudiated in Improvement Co. v. Munson, <span
+               class="citation no-link">
+               <span class="volume">14</span>
+               <span class="reporter">Wall.</span>
+               <span class="page">442</span>
+            </span>, 447 (1871), upon which the Court today relies in part. There the Court declared
+            that "some" evidence was not enough &#x97; there must be evidence sufficiently
+            persuasive to the judge so that he thinks "a jury can properly proceed." The traditional
+            rule was given an ugly name, "the scintilla rule," to hasten its demise. For a time,
+            traces of the old formula remained, as in Randall v. B. &amp;amp; O.R. Co., <span
+               class="citation">
+               <a href="/scotus/t3f/randall-v-baltimore-ohio-r-co/">
+                  <span class="volume">109</span>
+                  <span class="reporter">U.S.</span>
+                  <span class="page">478</span>
+               </a>
+            </span>, but the new spirit prevailed. See for example Pleasants v. Fant, supra, and
+            Commissioners v. Clark, 94 U.S. 278. The same transition from jury supremacy to jury
+            subordination through judicial decisions took place in state courts.<span class="sup"
+               >[16]</span>
+         </p>
+         <p>Later cases permitted the development of added judicial control.<span class="sup"
+               >[17]</span> New and totally unwarranted formulas, which should surely be eradicated
+            from the law at the first opportunity, were added as recently as 1929 in Gunning v.
+            Cooley, <span class="citation">
+               <a href="/scotus/wbD/gunning-v-cooley/">
+                  <span class="volume">281</span>
+                  <span class="reporter">U.S.</span>
+                  <span class="page">90</span>
+               </a>
+            </span>, which, by sheerest dictum, made new encroachments on the jury's constitutional
+            functions. There it was announced that a judge might weigh the evidence to determine
+            whether he, and not the jury, <span class="star-pagination">*405</span> thought it was
+            "overwhelming" for either party, and then direct a verdict. Cf. Pence v. United States,
+               <span class="citation">
+               <a href="/scotus/wPD/pence-v-united-states/">
+                  <span class="volume">316</span>
+                  <span class="reporter">U.S.</span>
+                  <span class="page">332</span>
+               </a>
+            </span>, 340. Gunning v. Cooley, at 94, also suggests, quite unnecessarily for its
+            decision, that "When a plaintiff produces evidence that is consistent with an hypothesis
+            that the defendant is not negligent, and also with one that he is, his proof tends to
+            establish neither." This dictum, which assumes that a judge can weigh conflicting
+            evidence with mathematical precision and which wholly deprives the jury of the right to
+            resolve that conflict, was applied in Pennsylvania R. Co. v. Chamberlain, 288 U.S. 333.
+            With it, and other tools, jury verdicts on disputed facts have been set aside or
+            directed verdicts authorized so regularly as to make the practice commonplace, while the
+            motion for directed verdict itself has become routine. See for example Southern Railway
+            Co. v. Walters, 284 U.S. 190; Atlantic Coast Line v. Temple, 285 U.S. 143; Lumbra v.
+            United States, 290 U.S. 551; Pence v. United States, supra; and De Zon v. United States,
+            318 U.S. 660.</p>
+         <p>Even Gunning v. Cooley, at 94, acknowledged that "issues that depend on the credibility
+            of witnesses . . . are to be decided by the jury."<span class="sup">[18]</span> Today
+            the Court comes dangerously close to weighing the credibility of a witness and rejecting
+            his testimony because the majority do not believe it.</p>
+         <p>The story thus briefly told depicts the constriction of a constitutional civil right and
+            should not be continued. <span class="star-pagination">*406</span> Speaking of an aspect
+            of this problem, a contemporary writer saw the heart of the issue: "Such a reversal of
+            opinion [as that of a particular state court concerning the jury function], if it were
+            isolated, might have little significance, but when many other courts throughout the
+            country are found to be making the same shift and to be doing so despite the provisions
+            of statutes and constitutions there is revealed one aspect of that basic conflict in the
+            legal history of America &#x97; the conflict between the people's aspiration for
+            democratic government,<span class="sup">[19]</span> and the judiciary's desire for the
+            orderly supervision of public affairs by judges."<span class="sup">[20]</span>
+         </p>
+         <p>The language of the Seventh Amendment cannot easily be improved by formulas.<span
+               class="sup">[21]</span> The statement of a district judge in Tarter v. United States,
+               <span class="citation">
+               <a href="/scotus/uyx/united-states/">
+                  <span class="volume">17</span>
+                  <span class="reporter">F. Supp.</span>
+                  <span class="page">691</span>
+               </a>
+            </span>, 692-693, represents, in my opinion, the minimum meaning of the Seventh
+            Amendment:</p>
+         <p>"The Seventh Amendment to the Constitution guarantees a jury trial in law cases, where
+            there is substantial <span class="star-pagination">*407</span> evidence to support the
+            claim of the plaintiff in an action. If a single witness testifies to a fact sustaining
+            the issue between the parties, or if reasoning minds might reach different conclusions
+            from the testimony of a single witness, one of which would substantially support the
+            issue of the contending party, the issue must be left to the jury. Trial by jury is a
+            fundamental guaranty of the rights of the people, and judges should not search the
+            evidence with meticulous care to deprive litigants of jury trials."</p>
+         <p>The call for the true application of the Seventh Amendment is not to words, but to the
+            spirit of honest desire to see that constitutional right preserved. Either the judge or
+            the jury must decide facts and, to the extent that we take this responsibility, we
+            lessen the jury function. Our duty to preserve this one of the Bill of Rights may be
+            peculiarly difficult, for here it is our own power which we must restrain. We should not
+            fail to meet the expectation of James Madison, who, in advocating the adoption of the
+            Bill of Rights, said: "Independent tribunals of justice will consider themselves in a
+            peculiar manner the guardians of those rights; . . . they will be naturally led to
+            resist every encroachment upon rights expressly stipulated for in the Constitution by
+            the declaration of right." So few of these cases come to this Court that, as a matter of
+            fact, the judges of the District Courts and the Circuit Courts of Appeals are the
+            primary custodians of the Amendment. As for myself, I believe that a verdict should be
+            directed, if at all, only when, without weighing the credibility of the witnesses, there
+            is in the evidence no room whatever for honest difference of opinion over the factual
+            issue in controversy. I shall continue to believe that in all other cases a judge
+            should, in obedience to the command of the Seventh Amendment, not interfere with the
+            jury's function. Since this is a matter of high constitutional importance, appellate
+            courts should be alert to insure the preservation of this constitutional right even
+            though each case necessarily turns on its peculiar circumstances.</p>
+         <p/>
+         <h2>
+            <span class="star-pagination">*408</span> II.</h2>
+         <p>The factual issue for determination here is whether the petitioner incurred a total and
+            permanent disability not later than May 31, 1919. It is undisputed that the petitioner's
+            health was sound in 1918, and it is evidently conceded that he was disabled at least
+            since 1930. When, in the intervening period, did the disability take place?</p>
+         <p>A doctor who testified diagnosed the petitioner's case as a schizophrenic form of
+            dementia praecox. He declared it to be sound medical theory that while a normal man can
+            retain his sanity in the face of severe mental or physical shock, some persons are born
+            with an inherent instability so that they are mentally unable to stand sudden and severe
+            strain. The medical testimony was that this petitioner belongs to the latter class and
+            that the shock of actual conflict on the battle front brought on the incurable
+            affliction from which he now suffers. The medical witness testified that the dominant
+            symptoms of the condition are extreme introversion and preoccupation with personal
+            interests, a persecution complex, and an emotional instability which may be manifested
+            by extreme exhilaration alternating with unusual depression or irrational outbursts.
+            Persons suffering from this disease are therefore unable to engage in continuous
+            employment.</p>
+         <p>The petitioner relies on the testimony of wartime and postwar companions and superiors
+            to show that his present mental condition existed on the crucial date. There is
+            substantial testimony from which reasonable men might conclude that the petitioner was
+            insane from the date claimed.</p>
+         <p>Two witnesses testify as to the petitioner's mental irresponsibility while he was in
+            France. The most striking incident in this testimony is the account of his complete
+            breakdown while on guard duty as a result of which he falsely alarmed his military unit
+            by screaming that the <span class="star-pagination">*409</span> Germans were coming when
+            they were not and was silenced only by being forceably bound and gagged. There was also
+            other evidence that Galloway became nervous, irritable, quarrelsome and turbulent after
+            he got to France. The Court disposes of this testimony, which obviously indicates some
+            degree of mental unbalance, by saying no more than that it "does not prove he was
+            insane." No reason is given, nor can I imagine any, why a jury should not be entitled to
+            consider this evidence and draw its own conclusions.</p>
+         <p>The testimony of another witness, O'Neill, was offered to show that the witness had
+            known the petitioner both before and after the war, and that after the war the witness
+            found the petitioner a changed man; that the petitioner imagined that he was being
+            persecuted; and that the petitioner suffered from fits of melancholia, depression and
+            weeping. If O'Neill's testimony is to be believed, the petitioner suffered the typical
+            symptoms of a schizophreniac for some years after his return to this country; therefore
+            if O'Neill's testimony is believed, there can be no reasonable doubt about the right of
+            a jury to pass on this case. The Court analyzes O'Neill's testimony for internal
+            consistency, criticizes his failure to remember the details of his association with the
+            petitioner fifteen years before his appearance in this case, and concludes that
+            O'Neill's evidence shows no more than that "petitioner was subject to alternating
+            periods of gaiety and depression for some indefinite period." This extreme emotional
+            instability is an accepted symptom of the disease from which the petitioner suffers. If
+            he exhibited the same symptoms in 1922, it is, at the minimum, probable that the
+            condition has been continuous since an origin during the war. O'Neill's testimony
+            coupled with the petitioner's present condition presents precisely the type of question
+            which a jury should resolve.</p>
+         <p>
+            <span class="star-pagination">*410</span> The petitioner was in the Navy for six months
+            in 1920, until he was discharged for bad conduct; and later was in the Army during 1921
+            and a part of 1922, until he deserted. The testimony of his Commanding Officer while he
+            was in the Army, Col. Matthews, is that the petitioner had "periods of gaiety and
+            exhilaration" and was then "depressed as if he had had a hangover"; that petitioner
+            tried to create disturbances and dissatisfy the men; that he suffered from a belief that
+            he was being treated unfairly; and that generally his actions "were not those of a
+            normal man." The Colonel was not a doctor and might well not have recognized insanity
+            had he seen it; as it was, he concluded that the petitioner was an alcoholic and a
+            narcotic addict. However, the officer was unable, upon repeated investigations, to
+            discover any actual use of narcotics. A jury fitting this information into the general
+            pattern of the testimony might well have been driven to the conclusion that the
+            petitioner was insane at the time the Colonel had him under observation.</p>
+         <p>All of this evidence, if believed, showed a man, healthy and normal before he went to
+            the war, suffering for several years after he came back from a disease which had the
+            symptoms attributed to schizophrenia and who was insane from 1930 until his trial. Under
+            these circumstances, I think that the physician's testimony of total and permanent
+            disability by reason of continuous insanity from 1918 to 1938 was reasonable. The fact
+            that there was no direct testimony for a period of five years, while it might be the
+            basis of fair argument to the jury by the Government, does not, as the Court seems to
+            believe, create a presumption against the petitioner so strong that his case must be
+            excluded from the jury entirely. Even if during these five years the petitioner was
+            spasmodically employed, we could not conclude that he was not totally and permanently
+            disabled. Berry v. United States, <span class="citation">
+               <a href="/scotus/wL4/berry-v-united-states/">
+                  <span class="volume">312</span>
+                  <span class="reporter">U.S.</span>
+                  <span class="page">450</span>
+               </a>
+            </span>, 455. It is not doubted that <span class="star-pagination">*411</span>
+            schizophrenia is permanent even though there may be a momentary appearance of
+            recovery.</p>
+         <p>The court below concluded that the petitioner's admission into the military service
+            between 1920 and 1923 showed conclusively that he was not totally and permanently
+            disabled. Any inference which may be created by the petitioner's admission into the Army
+            and the Navy is more than met by his record of court-martial, dishonorable discharge,
+            and desertion, as well as by the explicit testimony of his Commanding Officer, Colonel
+            Matthews.</p>
+         <p>This case graphically illustrates the injustice resulting from permitting judges to
+            direct verdicts instead of requiring them to await a jury decision and then, if
+            necessary, allow a new trial. The chief reason given for approving a directed verdict
+            against this petitioner is that no evidence except expert medical testimony was offered
+            for a five to eight year period. Perhaps, now that the petitioner knows he has
+            insufficient evidence to satisfy a judge even though he may have enough to satisfy a
+            jury, he would be able to fill this time gap to meet any judge's demand. If a court
+            would point out on a motion for new trial that the evidence as to this particular period
+            was too weak, the petitioner would be given an opportunity to buttress the physician's
+            evidence. If, as the Court believes, insufficient evidence has been offered to sustain a
+            jury verdict for the petitioner, we should at least authorize a new trial. Cf. Garrison
+            v. United States, <span class="citation">
+               <a href="/ca4/8xLu/garrison-v-united-states/">
+                  <span class="volume">62</span>
+                  <span class="reporter">F.2d</span>
+                  <span class="page">41</span>
+               </a>
+            </span>, 42.</p>
+         <p>I believe that there is a reasonable difference of opinion as to whether the petitioner
+            was totally and permanently disabled by reason of insanity on May 31, 1919, and that his
+            case therefore should have been allowed to go to the jury. The testimony of fellow
+            soldiers, friends, supervisors, and of a medical expert whose integrity and ability is
+            not challenged cannot be rejected by any process available to me as a judge.</p>
+      </div>
+      <div type="notes">
+         <p>[1] The contract was issued pursuant to the War Risk Insurance Act and insured against
+            death or total permanent disability. (Act of Oct. 6, 1917, c. 105, § 400, 40 Stat. 398,
+            409.) Pursuant to statutory authority (Act of May 20, 1918, c. 77, § 13, 40 Stat. 555),
+            T.D. 20 W.R., promulgated March 9, 1918, provided: </p>
+         <p>"Any impairment of mind or body which renders it impossible for the disabled person to
+            follow continuously any substantially gainful occupation shall be deemed . . . to be
+            total disability.</p>
+         <p>"Total disability shall be deemed to be permanent whenever it is founded upon conditions
+            which render it reasonably certain that it will continue throughout the life of the
+            person suffering from it. . . ." (Regulations and Procedure, U.S. Veterans Bureau, Part
+            I, p. 9.)</p>
+         <p>[2] See, however, Part III, infra.</p>
+         <p>[3] The record does not show whether this employment was steady and continuous or was
+            spotty and erratic. But there is no contention petitioner's behavior was abnormal before
+            he arrived in France in April, 1918.</p>
+         <p>[4] Wells heard of another incident at Monthurel in June, but his testimony concerning
+            this was excluded as hearsay.</p>
+         <p>[5] "X Can you tell us approximately how many times you saw him in 1919? </p>
+         <p>"A. No; I seen him so often that it would be hard to give any estimate.</p>
+         <p>"X And the same goes for 1920?</p>
+         <p>"A. I wouldn't be sure about 1920. I remember him more when he first came home because
+            there was such a vast contrast in the man. Otherwise, if nothing unusual happened, I
+            wouldn't probably recall him at all, you know, that is, recall the particular time and
+            all.</p>
+         <p>"X Well, do you recall him at all in 1920?</p>
+         <p>"A. I can't say.</p>
+         <p>"X And could you swear whether or not you ever saw him in 1921?</p>
+         <p>"A. I think I seen him both in 1921 and 1920 and 1921 and right on. I might not see him
+            for a few weeks or months at a time, but I think I saw him a few times in all the years
+            right up to, as I say, at least five years after.</p>
+         <p>"X Can you give us an estimate as to the number of times you saw him in 1920?</p>
+         <p>"A. No, I would not.</p>
+         <p>"X Was it more than five times or less?</p>
+         <p>"A. In 1920 I couldn't recall whether it was one or a thousand. The time I recall him
+            well is when he first come home, but I know that I seen him right on from that at
+            times.</p>
+         <p>"X And the same goes for 1921, 1922, 1923 and 1924?</p>
+         <p>"A. I would say for five years afterwards, but I don't know just when or how often I
+            seen him except when he first come home for the first couple of months.</p>
+         <p>"X But for years after his return you couldn't say definitely whether you saw him five
+            times or more or less, could you?</p>
+         <p>"A. No, because it was a thing that there was a vast contrast when he first come home
+            and everybody noticed it and remarked about it and it was more liable to be remembered.
+            You could ask me about some more friends I knew during those years and I wouldn't know
+            except there was something unusual." (Emphasis added.)</p>
+         <p>[6] Petitioner's own evidence shows without dispute he was on active duty in the Navy
+            from January 15, 1920, to July of that year, and in the Army from December, 1920, to May
+            6, 1922. As is noted in the text, O'Neill was not sure he was working and "was surprised
+            he got in the Navy, I think in the Navy or in the Government service." He only "heard
+            some talk" of petitioner's having reenlisted in the Army, but "if it was the fact, I
+            would be surprised that he could do it owing to his mental condition." (Emphasis added.)
+            O'Neill was not certain that he saw Galloway in uniform after the first week of his
+            return to Philadelphia from overseas, although he said he saw petitioner during "the
+            periods of those reenlistments . . . but I can't recall about it."</p>
+         <p>[7] It is to be noted the witness did not refer to Chaplain Mathews' testimony.</p>
+         <p>[8] None of them exhibits a period of comparable length as to which evidence is wholly
+            lacking and under circumstances which preclude inference the omission was
+            unintentional.</p>
+         <p>[9] He has not established a fixed date at which contemporaneous medical examination,
+            both physical and mental, establishes totality and permanence prior to Dr. Wilder's
+            examinations in 1941. </p>
+         <p>Dr. Wilder testified that on the evidence concerning petitioner's behavior at the time
+            of his discharge in 1919, and without reference to the testimony as to later conduct,
+            including O'Neill's, he would reserve his opinion on whether petitioner was then "crazy"
+            &#x97; "I wouldn't have enough &#x97;"</p>
+         <p>[10] The previous examinations of 1930 and 1931 show possibility of mental disease in
+            the one case and existence of psychosis with other disease, organic in character but
+            with type undetermined, in the other. These two examinations without more do not prove
+            existence of total and permanent disability; on the contrary, they go far toward showing
+            it could not be established then medically. </p>
+         <p>The 1930 diagnosis shows only that the examiner regarded petitioner as a moron of low
+            grade, and recommended he be observed for simple dementia praecox. Dr. Wilder found no
+            evidence in 1941 that petitioner was a moron. The 1931 examination is even less
+            conclusive in one respect, namely, that "psychosis" takes the place of moronic status.
+            Dr. Wilder also disagreed with this diagnosis. However, this examination first indicates
+            existence of organic nervous disease. Not until the 1934 diagnosis is there one which
+            might be regarded as showing possible total and permanent disability by medical evidence
+            contemporaneous with the fact.</p>
+         <p>[11] Chaplain Mathews' testimony would be highly probative of insanity existing early in
+            1920, if petitioner were sufficiently identified as its subject. However, the bare
+            inference of identity which might otherwise be drawn from the mere identity of names
+            cannot be made reasonably, in view of its overwhelming contradiction by other evidence
+            presented by petitioner and the failure to produce records from Fort MacArthur Hospital
+            or the Army or from persons who knew the fact that petitioner had been there at any
+            time. The omission eloquently testifies, in a manner which no inference could overcome,
+            that petitioner never was there. The chaplain's testimony therefore should have been
+            stricken, had the case gone to the jury, and petitioner can derive no aid from it here. </p>
+         <p>Tanikawa, it may be recalled, did not profess to have seen petitioner between October,
+            1918, and 1936.</p>
+         <p>[12] Apart from O'Neill's vague recollection of petitioner's return to Philadelphia on
+            one occasion.</p>
+         <p>[13] The only attempt to explain the absence of testimony concerning the period from
+            1922 to 1930 is made by counsel in the reply brief: "The insured, it will be observed,
+            was never apprehended after his desertion from the Army in 1922. It is only reasonable
+            that a person with the status of a deserter at large . . ., whose mind was in the
+            condition of that of this insured, would absent himself from those with whom he would
+            usually associate because of fear of apprehension and punishment. His mental condition .
+            .. at the time of trial . . . clearly shows that he could not have testified. . . . A
+            lack of testimony from 1922 to 1930 is thus explained, and the jury could well infer
+            that only the then [1941?] admittedly insane insured was in a position to know where he
+            was and what he was doing during these years; as he had lost his mental faculties, the
+            reason for lack of proof during these years is apparent." </p>
+         <p>The "explanation" is obviously untenable. It ignores the one fact proved with relation
+            to the period, that petitioner was married during it. His wife was nominally a party to
+            the suit, and obviously available as a witness. It disregards the fact petitioner
+            continued in the status of deserter after 1930, yet produced evidence relating to the
+            period from that time on. It assumes he was insane during the eight years, yet succeeded
+            during that long time in absenting himself from persons who could testify in his
+            favor.</p>
+         <p>[14] Cf. note 12, supra.</p>
+         <p>[15] Compare Bishop v. Copp, <span class="citation no-link">
+               <span class="volume">96</span>
+               <span class="reporter">Conn.</span>
+               <span class="page">571</span>
+            </span>, 580, 114 A. 682; Murphree v. Senn, <span class="citation no-link">
+               <span class="volume">107</span>
+               <span class="reporter">Ala.</span>
+               <span class="page">424</span>
+            </span>, 18 So. 264; Aldrich v. Aldrich, <span class="citation no-link">
+               <span class="volume">215</span>
+               <span class="reporter">Mass.</span>
+               <span class="page">164</span>
+            </span>, 102 N.E. 487.</p>
+         <p>[16] Cf. Dr. Wilder's admission, note 9, supra.</p>
+         <p>[17] Neither the Amendment's terms nor its history suggest it was intended to extend to
+            such claims. The Court of Claims has functioned for almost a century without affording
+            jury trial in cases of this sort and without offending the requirements of the
+            Amendment. McElrath v. United States, 102 U.S. 426; see Richardson, History,
+            Jurisdiction and Practice of the Court of Claims (2d ed. 1885). Cf. also note 18,
+            infra.</p>
+         <p>[18] 43 Stat. 1302, 38 U.S.C. § 445; see H.R. Rep. No. 1518, 68th Cong., 2d Sess., 2;
+            Pence v. United States, <span class="citation">
+               <a href="/scotus/wPD/pence-v-united-states/">
+                  <span class="volume">316</span>
+                  <span class="reporter">U.S.</span>
+                  <span class="page">332</span>
+               </a>
+            </span>, 334; Whitney v. United States, <span class="citation">
+               <a href="/ca9/8JwV/whitney-v-united-states/">
+                  <span class="volume">8</span>
+                  <span class="reporter">F.2d</span>
+                  <span class="page">476</span>
+               </a>
+            </span> (C.C.A.); Hacker v. United States, <span class="citation">
+               <a href="/ca5/8AoA/hacker-v-united-states/">
+                  <span class="volume">16</span>
+                  <span class="reporter">F.2d</span>
+                  <span class="page">702</span>
+               </a>
+            </span> (C.C.A.). </p>
+         <p>Although Congress, in first permitting suits on War Risk Insurance policies, did not
+            explicitly make them triable by jury, 40 Stat. 398, 410, the statute was construed to
+            import "the usual procedure . . . in actions at law for money compensation." Law v.
+            United States, <span class="citation">
+               <a href="/scotus/vTq/law-v-united-states/">
+                  <span class="volume">266</span>
+                  <span class="reporter">U.S.</span>
+                  <span class="page">494</span>
+               </a>
+            </span>, 496. In amending that Act, Congress provided that, except for differences not
+            relevant here, the "procedure in such suits shall . . . be the same as that provided for
+            suits" under the Tucker Act, 43 Stat. 607, 613. Suits under the Tucker Act were tried
+            without a jury (24 Stat. 505). However, within a year (in 1925) Congress amended that
+            Act (43 Stat. 1302) with the intention to "give the claimant the right to a jury trial."
+            H.R. Rep. No. 1518, 68th Cong., 2d Sess., 2.</p>
+         <p>[19] See e.g., Parks v. Ross, <span class="citation no-link">
+               <span class="volume">11</span>
+               <span class="reporter">How.</span>
+               <span class="page">362</span>
+            </span>; Improvement Co. v. Munson, <span class="citation no-link">
+               <span class="volume">14</span>
+               <span class="reporter">Wall.</span>
+               <span class="page">442</span>
+            </span>; Pleasants v. Fant, <span class="citation no-link">
+               <span class="volume">22</span>
+               <span class="reporter">Wall.</span>
+               <span class="page">116</span>
+            </span>; Commissioners of Marion County v. Clark, 94 U.S. 278; Ewing v. Goode, <span
+               class="citation no-link">
+               <span class="volume">78</span>
+               <span class="reporter">F.</span>
+               <span class="page">442</span>
+            </span> (C.C.); cf. Southern Ry. Co. v. Walters, 284 U.S. 190; Gunning v. Cooley, <span
+               class="citation">
+               <a href="/scotus/wbD/gunning-v-cooley/">
+                  <span class="volume">281</span>
+                  <span class="reporter">U.S.</span>
+                  <span class="page">90</span>
+               </a>
+            </span>.</p>
+         <p>[20] Compare, e.g., 3 Gilbert, The Law of Evidence (1792) 1181-5; Rex v. Paine, 5 Mod.
+            163; Folkes v. Chadd, 3 Doug. 157.</p>
+         <p>[21] Cf. Thoe v. Chicago, M. &amp;amp; St. P. Ry. Co., <span class="citation no-link">
+               <span class="volume">181</span>
+               <span class="reporter">Wis.</span>
+               <span class="page">456</span>
+            </span>, 195 N.W. 407.</p>
+         <p>[22] Ex parte Peterson, 253 U.S. 300; Gasoline Products Co. v. Champlin Refining Co.,
+            283 U.S. 494; Walker v. New Mexico &amp;amp; Southern Pacific R. Co., 165 U.S. 593;
+            Capital Traction Co. v. Hof, 174 U.S. 1; cf. Stone, J., dissenting in Dimick v. Schiedt,
+               <span class="citation">
+               <a href="/scotus/wqN/dimick-v-schiedt/">
+                  <span class="volume">293</span>
+                  <span class="reporter">U.S.</span>
+                  <span class="page">474</span>
+               </a>
+            </span>, 490. The rules governing the admissibility of evidence, for example, have a
+            real impact on the jury's function as a trier of facts and the judge's power to impinge
+            on that function. Yet it would hardly be maintained that the broader rules of
+            admissibility now prevalent offend the Seventh Amendment because at the time of its
+            adoption evidence now admitted would have been excluded. Cf. e.g., Funk v. United
+            States, 290 U.S. 371.</p>
+         <p>[23] E.g., during the eighteenth and nineteenth centuries, the nonsuit was being
+            transformed in practice from a device by which a plaintiff voluntarily discontinued his
+            action in order to try again another day into a procedure by which a defendant could put
+            in issue the sufficiency of the plaintiff's evidence to go to the jury, differing from
+            the directed verdict in that respect only in form. Compare Blackstone's Commentaries,
+            Book III (Cooley's ed., 1899) 376; Johnson, J., dissenting in Elmore v. Grymes, <span
+               class="citation no-link">
+               <span class="volume">1</span>
+               <span class="reporter">Pet.</span>
+               <span class="page">469</span>
+            </span> (1828); Oscanyan v. Winchester Arms Co., <span class="citation">
+               <a href="/scotus/sRf/oscanyan-v-arms-co/">
+                  <span class="volume">103</span>
+                  <span class="reporter">U.S.</span>
+                  <span class="page">261</span>
+               </a>
+            </span>, 264; Coughran v. Bigelow, <span class="citation">
+               <a href="/scotus/u75/coughran-v-bigelow/">
+                  <span class="volume">164</span>
+                  <span class="reporter">U.S.</span>
+                  <span class="page">301</span>
+               </a>
+            </span>; see the historical survey in the comprehensive opinion of McAllister, J., in
+            Hopkins v. Railroad, <span class="citation no-link">
+               <span class="volume">96</span>
+               <span class="reporter">Tenn.</span>
+               <span class="page">409</span>
+            </span>, 34 S.W. 1029. See generally 2 Tidd's Practice (4th Amer. ed., 1856) 861, 866-8.
+            The nonsuit, of course, differed in consequence from the directed verdict, for it left
+            the plaintiff free to try again. Oscanyan v. Winchester Arms Co., supra; Tidd's
+            Practice, supra. </p>
+         <p>Similarly the demurrer to the evidence practice was not static during this period, as a
+            comparison of Cocksedge v. Fanshaw, <span class="citation no-link">
+               <span class="volume">1</span>
+               <span class="reporter">Doug.</span>
+               <span class="page">118</span>
+            </span> (1779), with Gibson v. Hunter, 2 H. Bl. 187 (1793), and the American practice on
+            the demurrer to the evidence reveals (see, e.g., Stephens v. White, <span
+               class="citation no-link">
+               <span class="volume">2</span>
+               <span class="reporter">Wash.</span>
+               <span class="page">203</span>
+            </span> (Va. 1796); Patrick v. Hallett, <span class="citation no-link">
+               <span class="volume">1</span>
+               <span class="reporter">Johns.</span>
+               <span class="page">241</span>
+            </span> (N.Y. 1806); Whittington v. Christian, 2 Randolph 353 (Va. 1824). See,
+            generally, Schofield, New Trials and the Seventh Amendment, 8 Ill. L. Rev. 287, 381,
+            465; Thayer, Preliminary Treatise on Evidence (1898) 234-9). Nor was the conception of
+            directing a verdict entirely unknown to the eighteenth century common law. See, e.g.,
+            Wilkinson v. Kitchin, 1 Ld. Raymond 89 (K.B.); Syderbottom v. Smith, 1 Strange 649.
+            While there is no reason to believe that the notion at that time even approximated in
+            character the present directed verdict, the cases serve further to show the plastic and
+            developing character of these procedural devices during the eighteenth and nineteenth
+            centuries.</p>
+         <p>[24] See, e.g., Quincy's Mass. Reports, 553-72.</p>
+         <p>[25] See note 23, supra.</p>
+         <p>[26] See, e.g., Schofield, New Trials and the Seventh Amendment, 8 Ill. L. Rev. 287,
+            381, 465.</p>
+         <p>[27] Cf. notes 22 and 23, supra.</p>
+         <p>[28] By conceding the full scope of an opponent's evidence and asserting its
+            insufficiency in law, which is one thing, the challenger must be taken, perforce the
+            Amendment, also to admit he has no case, if the other's evidence is found legally
+            sufficient, which is quite another thing. In effect, one must stake his case, not upon
+            its own merit on the facts, but on the chance he may be right in regarding his opponent
+            as wanting in probative content. If he takes the gamble and loses, he pays with his own
+            case, regardless of its merit and without opportunity for the jury to consider it. To
+            force this choice and yet deny that afforded by the directed verdict would be to imbed
+            in the Constitution the hypertechnicality of common-law pleading and procedure in their
+            heyday. Cf. note 22, supra.</p>
+         <p>[29] Under that practice the moving party receives the benefit of jury evaluation of his
+            own case and of challenge to his opponent's for insufficiency. If he loses on the
+            challenge, the litigation is ended. But this is not because, in making it, he is forced
+            to admit his own is insufficient. It is rather for the reasons that the court finds the
+            opposite party's evidence is legally sufficient and the jury has found it outweighs his
+            own. There is thus no forced surrender of one right from assertion of another. </p>
+         <p>On the other hand, if the challenger wins, there is another trial. But this is because
+            he has sought it, not because the Amendment guarantees it.</p>
+         <p>[30] We have not given special consideration to the latest decisions touching the
+            Amendment's effects in the different situations where a verdict has been taken, on the
+            one hand, without reservation of the question of the sufficiency of the evidence, Slocum
+            v. New York Life Ins. Co., <span class="citation">
+               <a href="/scotus/v6b/slocum-v-new-york-life-ins-co/">
+                  <span class="volume">228</span>
+                  <span class="reporter">U.S.</span>
+                  <span class="page">364</span>
+               </a>
+            </span>, and, on the other hand, with such a reservation, Baltimore &amp;amp; Carolina
+            Line v. Redman, 295 U.S. 654. Cf. Aetna Ins. Co. v. Kennedy, 301 U.S. 389. Whatever may
+            be the exact effect of the latter and, more recently, of Rule 50 of the Federal Rules of
+            Civil Procedure upon the former decision, it suffices to say that, notwithstanding the
+            sharp division engendered in the Slocum case, there was no disagreement in it or in the
+            Redman case concerning the validity of the practice of directing a verdict. On the
+            contrary, the opinions make it plain that this was unquestioned and in fact conceded by
+            all.</p>
+         <p>[31] Cf. 9 Wigmore, Evidence (1940) 296-299.</p>
+         <p>[32] Cf. e.g. Fowle v. Alexandria, <span class="citation no-link">
+               <span class="volume">11</span>
+               <span class="reporter">Wheat.</span>
+               <span class="page">320</span>
+            </span>, 323 (1826), a demurrer to the evidence admits "whatever the jury may reasonably
+            infer from the evidence." Pawling v. United States, 4 Cranch 219, 221-222 (1808). A
+            demurrant to the evidence admits "the truth of the testimony to which he demurs and also
+            those conclusions of fact which a jury may fairly draw from that testimony. Forced and
+            violent inferences he does not admit; but the testimony is to be taken jecture, or
+            licentious speculation, could induce the jury to pronounce fiably draw, the court ought
+            to draw." Cocksedge v. Fanshaw, supra; Patrick v. Hallett, supra; Stephens v. White,
+            supra.</p>
+         <p>[33] Cf. Hughes, J., dissenting in Slocum v. New York Life Ins. Co., <span
+               class="citation">
+               <a href="/scotus/v6b/slocum-v-new-york-life-ins-co/">
+                  <span class="volume">228</span>
+                  <span class="reporter">U.S.</span>
+                  <span class="page">364</span>
+               </a>
+            </span>, 408, and cases cited supra, note 22.</p>
+         <p>[1] "I consider trial by jury as the only anchor ever yet imagined by man, by which a
+            government can be held to the principles of its constitution." 3 Writings of Thomas
+            Jefferson (Washington ed.) 71. </p>
+         <p>The operation of the jury trial system in civil cases has been subject to careful
+            analysis; Clark and Shulman, Jury Trial in Civil Cases, 43 Yale L. Jour. 867; Harris, Is
+            the Jury Vanishing, 7 N.Y.U.L.Q. 657. Its utility has been sharply criticized; Pound,
+            Jury &#x97; England and United States, 8 Encyclopedia of the Social Sciences 492; Mr.
+            Justice Miller, The System of Trial by Jury, 21 American L. Rev. 859 (1887). On the
+            other hand, this Court has on occasion warmly praised this mode of trial: "The right of
+            jury trial in civil cases at common law is a basic and fundamental feature of our system
+            of federal jurisprudence which is protected by the Seventh Amendment. A right so
+            fundamental and sacred to the citizen, whether guaranteed by the Constitution or
+            provided by statute, should be jealously guarded by the courts." Jacob v. New York, 315
+            U.S. 752.</p>
+         <p>[2] For Hamilton's views on the place of the jury in the Constitution, see The
+            <ref type="treatise" num="81 83">Federalist</ref>, Nos. 81 and 83.</p>
+         <p>[3] "One of the strongest objections originally taken against the constitution of the
+            United States, was the want of an express provision securing the right of trial by jury
+            in civil cases." Parsons v. Bedford, <span class="citation">
+               <a href="/scotus/rtj/parsons-v-bedford/">
+                  <span class="volume">3</span>
+                  <span class="reporter">Pet.</span>
+                  <span class="page">433</span>
+               </a>
+            </span>, 446. Of the seven States which, in ratifying the Constitution, proposed
+            amendments, six included proposals for the preservation of jury trial in civil cases.
+            Documents Illustrative of the Formation of the Constitution, House Doc. No. 398, 69th
+            Cong., 1st Sess., pp. 1019 (Massachusetts), 1026 (New Hampshire), 1029 (Virginia), 1036
+            (New York), 1046 (North Carolina), 1054 (Rhode Island).</p>
+         <p>[4] 3 Elliott's Debates, 324, 544. Emphasis added.</p>
+         <p>[5] The early practice under which juries were empowered to determine issues of law in
+            criminal cases was not formally rejected by this Court until 1894 in Sparf v. United
+            States, <span class="citation">
+               <a href="/scotus/tY7/sparf-v-united-states/">
+                  <span class="volume">156</span>
+                  <span class="reporter">U.S.</span>
+                  <span class="page">51</span>
+               </a>
+            </span>, when the subject was exhaustively discussed. See also Howe, Juries as Judges of
+            Criminal Law, 52 Harv. L. Rev. 582. This jury privilege was once considered of high
+            value; in fact, a principal count in the impeachment proceedings against Justice Chase
+            in 1805 was that he had denied to a jury the right to determine both the law and the
+            fact in a criminal case &#x97; a charge which Justice Chase denied. Report of Trial of
+            Hon. Samuel Chase (1805), appendix p. 17. This privilege is still at least nominally
+            retained for the jury in some states. Howe, 614. For a late 19th Century statement of
+            this view see Kane v. Commonwealth, 89 Pa. St. 522 (1879).</p>
+         <p>[6] See Howe, supra, pp. 597, 601, 605, 610; Coffin v. Coffin, <span
+               class="citation no-link">
+               <span class="volume">4</span>
+               <span class="reporter">Mass.</span>
+               <span class="page">1</span>
+            </span>, 25; Thayer on Evidence (1898 ed.) 254. And see Lectures given by Justice Wilson
+            as Professor of Law at the College of Philadelphia in 1790 and 1792, Thayer, 254, and
+            Sparf v. United States, supra, at 158.</p>
+         <p>[7] I assume for the purpose of this discussion without deciding the point that the
+            adoption of the Seventh Amendment was meant to have no limiting effect on the
+            contemporary demurrer to evidence practice.</p>
+         <p>[8] A method used in early England of reversal of a jury verdict by the process of
+            attaint which required a review of the facts by a new jury of twenty-four and resulted
+            in punishment of the first jury for its error, had disappeared. Plucknett, A Concise
+            History of the Common Law (2d ed.), 121.</p>
+         <p>[9] It is difficult to describe by any general proposition the circumstances under which
+            a new trial would be allowed under early practice, since each case was so dependent on
+            its peculiar facts. The early Pennsylvania rule was put as follows: "New trials are
+            frequently necessary, for the purpose of attaining complete justice; but the important
+            right of trial by jury requires they should never be granted without solid and
+            substantial reasons; otherwise the province of jurymen might be often transferred to the
+            judges, and they instead of the jury, would become the real triers of the facts. A
+            reasonable doubt, barely, that justice has not been done, especially in cases where the
+            value or importance of the cause is not great, appears to me to be too slender a ground
+            for them. But, whenever it appears with a reasonable certainty, that actual and manifest
+            injustice is done, or that the jury have proceeded on an evident mistake, either in
+            point of law, or fact, or contrary to strong evidence, or have grossly misbehaved
+            themselves, or given extravagant damages; the Court will always give an opportunity, by
+            a new trial, of rectifying the mistakes of the former jury, and of doing complete
+            justice to the parties." Cowperthwaite v. Jones, 2 Dall. 55 (Phila. Ct. Cmn. Pleas
+            1790). For expressions in substantial accord, see Maryland Insurance Co. v. Ruden's
+            Administrator, 6 Cranch 338, 340; M'Lanahan v. Universal Insurance Co., <span
+               class="citation no-link">
+               <span class="volume">1</span>
+               <span class="reporter">Pet.</span>
+               <span class="page">170</span>
+            </span>, 183. For similar State practice, see Utica Insurance Co. v. Badger, <span
+               class="citation no-link">
+               <span class="volume">3</span>
+               <span class="reporter">Wend.</span>
+               <span class="page">102</span>
+            </span> (1829); New York Firemen Insurance Co. v. Walden, <span class="citation no-link">
+               <span class="volume">12</span>
+               <span class="reporter">Johns.</span>
+               <span class="page">513</span>
+            </span> (1815). The motion for new trial was addressed to the discretion of the trial
+            judge and was not reviewable in criminal or civil cases. United States v. Daniel, <span
+               class="citation">
+               <a href="/scotus/rnp/the-united-states-v-daniel/">
+                  <span class="volume">6</span>
+                  <span class="reporter">Wheat.</span>
+                  <span class="page">542</span>
+               </a>
+            </span>, 548; Brown v. Clarke, <span class="citation">
+               <a href="/scotus/rEN/brown-v-clarke/">
+                  <span class="volume">4</span>
+                  <span class="reporter">How.</span>
+                  <span class="page">4</span>
+               </a>
+            </span>, 15. The number of new trials permitted in a given case were usually limited to
+            two or three; see e.g. Louisville &amp;amp; Nashville R. Co. v. Woodson, 134 U.S. 614.
+            The power of the judge was thus limited to his authority to return the case to a new
+            jury for a new decision.</p>
+         <p>[10] Cf. Baltimore &amp;amp; Carolina Line v. Redman, 295 U.S. 654; Aetna Insurance Co.
+            v. Kennedy, 301 U.S. 389. See Rule 50 (b) of the Rules of Civil Procedure; Montgomery
+            Ward &amp;amp; Co. v. Duncan, 311 U.S. 243; Berry v. United States, <span
+               class="citation">
+               <a href="/scotus/wL4/berry-v-united-states/">
+                  <span class="volume">312</span>
+                  <span class="reporter">U.S.</span>
+                  <span class="page">450</span>
+               </a>
+            </span>.</p>
+         <p>[11] I do not mean to minimize other forms of judicial control. In a summary of
+            important techniques of judicial domination of the jury, Thayer lists the following:
+            control by the requirement of a "reasonable judgment" &#x97; i.e., one satisfactory to
+            the judge; control of the rules of "presumption," cf. the dissenting opinion in New York
+            Life Insurance Co. v. Gamer, <span class="citation">
+               <a href="/scotus/wBd/new-york-life-ins-co-v-gamer/">
+                  <span class="volume">303</span>
+                  <span class="reporter">U.S.</span>
+                  <span class="page">161</span>
+               </a>
+            </span>, 172; the control of the "definition of language"; the control of rules of
+            practice, and forms of pleading ("It is remarkable how judges and legislatures in this
+            country are unconsciously travelling back towards the old result of controlling the
+            jury, by requiring special verdicts and answers to specific questions. Logic and
+            neatness of legal theory have always called loud, at least in recent centuries, for
+            special verdicts. . . . Considerations of policy have called louder for leaving to the
+            jury a freer hand." 218); the control of "mixed questions of law and fact"; the control
+            of factual decisions by appellate courts. Thayer on Evidence (1898 ed.) p. 208 et
+            seq.</p>
+         <p>[12] Counsel seeking the directed verdict said: "This prerogative of the court is never
+            exercised, but in cases where the evidence is so indefinite and unsatisfactory, that
+            nothing but wild, irrational conjecture, or licentious speculation, could induce the
+            jury to pronounce the verdict which is sought at their hands." Parks v. Ross, supra, at
+            372.</p>
+         <p>[13] See also, Pleasants v. Fant, <span class="citation no-link">
+               <span class="volume">22</span>
+               <span class="reporter">Wall.</span>
+               <span class="page">116</span>
+            </span> (1874); Oscanyan v. Arms Co., <span class="citation">
+               <a href="/scotus/sRf/oscanyan-v-arms-co/">
+                  <span class="volume">103</span>
+                  <span class="reporter">U.S.</span>
+                  <span class="page">261</span>
+               </a>
+            </span> (1880); and Baylis v. Travellers' Insurance Co., <span class="citation no-link">
+               <span class="volume">113</span>
+               <span class="reporter">U.S.</span>
+               <span class="page">316</span>
+            </span> (1884). For an excellent discussion of the history of the directed verdict, see
+            Hackett, Has a Trial Judge of a United States Court the Right to Direct a Verdict?, 24
+            Yale L. Jour. 127.</p>
+         <p>[14] Rule 50 (b) of the Rules of Civil Procedure and note 10, supra.</p>
+         <p>[15] In the period of the Civil War, the formula changed slightly but its effect was the
+            same &#x97; if the evidence so much as "tended to prove the position" of the party, the
+            case was for the jury. Drakely v. Gregg, <span class="citation">
+               <a href="/scotus/sbF/drakely-v-gregg/">
+                  <span class="volume">8</span>
+                  <span class="reporter">Wall.</span>
+                  <span class="page">242</span>
+               </a>
+            </span>, 268; Hickman v. Jones, <span class="citation">
+               <a href="/scotus/scS/hickman-v-jones/">
+                  <span class="volume">9</span>
+                  <span class="reporter">Wall.</span>
+                  <span class="page">197</span>
+               </a>
+            </span>, 201; Barney v. Schmeider, <span class="citation">
+               <a href="/scotus/scX/barney-v-schmeider/">
+                  <span class="volume">9</span>
+                  <span class="reporter">Wall.</span>
+                  <span class="page">248</span>
+               </a>
+            </span>, 253. Cf. United States v. Breitling, 20 How. 252; Goodman v. Simonds, <span
+               class="citation no-link">
+               <span class="volume">20</span>
+               <span class="reporter">How.</span>
+               <span class="page">343</span>
+            </span>, 359.</p>
+         <p>[16] For examples of early respect for juries, see Morton v. Fairbanks, <span
+               class="citation no-link">
+               <span class="volume">11</span>
+               <span class="reporter">Pick.</span>
+               <span class="page">368</span>
+            </span> (1831); Way v. Illinois Central R. Co., <span class="citation no-link">
+               <span class="volume">35</span>
+               <span class="reporter">Iowa</span>
+               <span class="page">585</span>
+            </span> (1873). For the development in Illinois, see 8 Ill. L. Rev. 287, 481-486. For
+            the Pennsylvania development, compare Fitzwater v. Stout, 16 Pa. St. 22, and Thomas v.
+            Thomas, 21 Pa. St. 315, with Hyatt v. Johnston, 91 Pa. St. 196, 200.</p>
+         <p>[17] One additional device was the remittitur practice which gives the court a method of
+            controlling jury findings as to damages. Arkansas Valley Co. v. Mann, 130 U.S. 69.</p>
+         <p>[18] In Ewing v. Burnet, <span class="citation no-link">
+               <span class="volume">11</span>
+               <span class="reporter">Pet.</span>
+               <span class="page">41</span>
+            </span>, 51, this Court said: "It was also their [the jury's] province to judge of the
+            credibility of the witnesses, and the weight of their testimony, as tending, in a
+            greater or less degree, to prove the facts relied on; as these were matters with which
+            the court could not interfere, the plaintiff's right to the instruction asked, must
+            depend upon the opinion of the court, on a finding by the jury in favour of the
+            defendant, on every matter which the evidence conduced to prove; giving full credence to
+            the witnesses produced by him, and discrediting the witness for the plaintiff."</p>
+         <p>[19] Another phase of this same conflict arises in the use of judicial power to punish
+            for contempt of court without allowance of jury trial. Nelles and King, Contempt by
+            Publication, 28 Col. L. Rev. 400, 524, and, for a sharp indictment of the free use of
+            contempt jurisdiction as basically undemocratic, 553; Nye v. United States, 313 U.S. 33;
+            Bridges v. California, 314 U.S. 252.</p>
+         <p>[20] Howe, supra, 615, 616. Howe continues: "What seems discreditable to the judiciary
+            in the story which I have related is the fierce resolution and deceptive ingenuity with
+            which the courts have refused to carry out the unqualified mandate of statutes and
+            constitutions. It is possible to feel that the final solution of the problem has been
+            wise without approving the frequently arrogant methods which courts have used in
+            reaching that result."</p>
+         <p>[21] This Court has said of one type of case in Richmond &amp;amp; Danville R. Co. v.
+            Powers, <span class="citation">
+               <a href="/scotus/tPL/richmond-danville-r-co-v-powers/">
+                  <span class="volume">149</span>
+                  <span class="reporter">U.S.</span>
+                  <span class="page">43</span>
+               </a>
+            </span>, 45 (1893): "It is well settled that where there is uncertainty as to the
+            existence of either negligence or contributory negligence, the question is not one of
+            law, but of fact, and to be settled by a jury; and this, whether the uncertainty arises
+            from a conflict in the testimony, or because the facts being undisputed, fair minded men
+            will honestly draw different conclusions from them."</p>
+      </div>
+   </body>
+</opinion>

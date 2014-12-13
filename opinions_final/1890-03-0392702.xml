@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema_1.rnc" type="application/relax-ng-compact-syntax"?>
+<opinion>
+   <metadata>
+      <case_name>Hans v. Louisiana</case_name>
+      <id>92702</id>
+      <date_filed>1890-03-03</date_filed>
+      <judges>Bradley, After Stating the Case as Above</judges>
+      <nature_of_suit/>
+      <citation>
+         <volume>134</volume>
+         <reporter>U.S.</reporter>
+         <page>1</page>
+         <lexis_cite/>
+      </citation>
+      <federal_cite_one>134 U.S. 1</federal_cite_one>
+      <cited_by>
+         <case>2505154</case>
+         <case>2497383</case>
+         <case>2495132</case>
+         <case>2477884</case>
+         <case>2476423</case>
+         <case>2475913</case>
+         <case>2474354</case>
+         <case>2473791</case>
+         <case>2473513</case>
+         <case>2471782</case>
+         <case>2471677</case>
+         <case>2471353</case>
+         <case>2470336</case>
+         <case>2470117</case>
+         <case>2466901</case>
+         <case>2466812</case>
+         <case>2447370</case>
+         <case>2424441</case>
+         <case>2414188</case>
+         <case>2331329</case>
+         <case>2331355</case>
+         <case>2176584</case>
+         <case>2172760</case>
+         <case>2169546</case>
+         <case>2146862</case>
+         <case>2146926</case>
+         <case>2117507</case>
+         <case>2117522</case>
+         <case>2113188</case>
+         <case>2085442</case>
+         <case>1989053</case>
+         <case>1958658</case>
+         <case>1888617</case>
+         <case>1850273</case>
+         <case>1838268</case>
+         <case>1832822</case>
+         <case>1830180</case>
+         <case>1826128</case>
+         <case>1826066</case>
+         <case>1824755</case>
+         <case>1819464</case>
+         <case>1806209</case>
+         <case>1804441</case>
+         <case>1804209</case>
+         <case>1793349</case>
+         <case>1786864</case>
+         <case>1782495</case>
+         <case>1774437</case>
+         <case>1718915</case>
+         <case>1708296</case>
+         <case>1658068</case>
+         <case>1650907</case>
+         <case>1629142</case>
+         <case>1625934</case>
+         <case>1579203</case>
+         <case>1571664</case>
+         <case>1552545</case>
+         <case>1552521</case>
+         <case>1552490</case>
+         <case>1552454</case>
+         <case>1552408</case>
+         <case>1551739</case>
+         <case>1550456</case>
+         <case>1550613</case>
+         <case>1550388</case>
+         <case>1547780</case>
+         <case>1540786</case>
+         <case>1539564</case>
+         <case>1539559</case>
+         <case>1534590</case>
+         <case>1534518</case>
+         <case>1534441</case>
+         <case>1534021</case>
+         <case>1533857</case>
+         <case>1530667</case>
+         <case>1518931</case>
+         <case>1516083</case>
+         <case>1506662</case>
+         <case>1457504</case>
+         <case>1457139</case>
+         <case>1456700</case>
+         <case>1456485</case>
+         <case>1449914</case>
+         <case>1448233</case>
+         <case>1446778</case>
+         <case>1437384</case>
+         <case>1432911</case>
+         <case>1405898</case>
+         <case>1405534</case>
+         <case>1269681</case>
+         <case>1212569</case>
+         <case>1207347</case>
+         <case>1203057</case>
+         <case>1179958</case>
+         <case>1173917</case>
+         <case>1133422</case>
+         <case>894624</case>
+         <case>835409</case>
+         <case>583338</case>
+         <case>521933</case>
+         <case>95802</case>
+         <case>23577</case>
+         <case>23578</case>
+         <case>1057714</case>
+         <case>1041530</case>
+         <case>1041307</case>
+         <case>1039889</case>
+         <case>1036860</case>
+         <case>1035050</case>
+         <case>1029053</case>
+         <case>1009440</case>
+         <case>853981</case>
+         <case>902220</case>
+         <case>894621</case>
+         <case>866162</case>
+         <case>858758</case>
+         <case>857241</case>
+         <case>856096</case>
+         <case>854563</case>
+         <case>812014</case>
+         <case>799382</case>
+         <case>797350</case>
+         <case>796524</case>
+         <case>795129</case>
+         <case>792275</case>
+         <case>792185</case>
+         <case>791798</case>
+         <case>790586</case>
+         <case>789894</case>
+         <case>789765</case>
+         <case>789743</case>
+         <case>788922</case>
+         <case>788743</case>
+         <case>788485</case>
+         <case>787318</case>
+         <case>786955</case>
+         <case>786816</case>
+         <case>783741</case>
+         <case>783618</case>
+         <case>783445</case>
+         <case>782236</case>
+         <case>781122</case>
+         <case>780858</case>
+         <case>780773</case>
+         <case>780325</case>
+         <case>779770</case>
+         <case>779558</case>
+         <case>779366</case>
+         <case>779161</case>
+         <case>779154</case>
+         <case>778995</case>
+         <case>778926</case>
+         <case>778145</case>
+         <case>778023</case>
+         <case>777519</case>
+         <case>777298</case>
+         <case>777211</case>
+         <case>777198</case>
+         <case>776517</case>
+         <case>776505</case>
+         <case>776379</case>
+         <case>775971</case>
+         <case>775591</case>
+         <case>775403</case>
+         <case>775342</case>
+         <case>765922</case>
+         <case>765886</case>
+         <case>765651</case>
+         <case>765519</case>
+         <case>765329</case>
+         <case>765211</case>
+         <case>765168</case>
+         <case>764846</case>
+         <case>764383</case>
+         <case>763275</case>
+         <case>763269</case>
+         <case>762203</case>
+         <case>761257</case>
+         <case>760488</case>
+         <case>760239</case>
+         <case>759756</case>
+         <case>759697</case>
+         <case>759207</case>
+         <case>759163</case>
+         <case>758554</case>
+         <case>758361</case>
+         <case>758346</case>
+         <case>758073</case>
+         <case>757586</case>
+         <case>756498</case>
+         <case>755365</case>
+         <case>753033</case>
+         <case>752879</case>
+         <case>751677</case>
+         <case>751111</case>
+         <case>749433</case>
+         <case>747637</case>
+         <case>746294</case>
+         <case>744162</case>
+         <case>744131</case>
+         <case>742638</case>
+         <case>739972</case>
+         <case>733266</case>
+         <case>728768</case>
+         <case>727355</case>
+         <case>727339</case>
+         <case>726728</case>
+         <case>726652</case>
+         <case>723814</case>
+         <case>719727</case>
+         <case>717499</case>
+         <case>714017</case>
+         <case>711069</case>
+         <case>710917</case>
+         <case>704008</case>
+         <case>699225</case>
+         <case>698351</case>
+         <case>696240</case>
+         <case>692006</case>
+         <case>691956</case>
+         <case>686825</case>
+         <case>685156</case>
+         <case>681319</case>
+         <case>680603</case>
+         <case>678858</case>
+         <case>674947</case>
+         <case>674595</case>
+         <case>673518</case>
+         <case>670198</case>
+         <case>669716</case>
+         <case>667605</case>
+         <case>667596</case>
+         <case>666016</case>
+         <case>665827</case>
+         <case>662457</case>
+         <case>659873</case>
+         <case>659363</case>
+         <case>658639</case>
+         <case>654629</case>
+         <case>653657</case>
+         <case>622981</case>
+         <case>621865</case>
+         <case>620711</case>
+         <case>618957</case>
+         <case>612112</case>
+         <case>608135</case>
+         <case>606971</case>
+         <case>603850</case>
+         <case>603370</case>
+         <case>601528</case>
+         <case>595226</case>
+         <case>593330</case>
+         <case>592105</case>
+         <case>590989</case>
+         <case>590945</case>
+         <case>590414</case>
+         <case>590268</case>
+         <case>588841</case>
+         <case>585558</case>
+         <case>581288</case>
+         <case>580758</case>
+         <case>577164</case>
+         <case>573975</case>
+         <case>573130</case>
+         <case>568547</case>
+         <case>565638</case>
+         <case>565088</case>
+         <case>563702</case>
+         <case>563654</case>
+         <case>557829</case>
+         <case>553381</case>
+         <case>552388</case>
+         <case>551894</case>
+         <case>550176</case>
+         <case>549040</case>
+         <case>545194</case>
+         <case>543761</case>
+         <case>542908</case>
+         <case>542029</case>
+         <case>540030</case>
+         <case>539194</case>
+         <case>537055</case>
+         <case>534658</case>
+         <case>532657</case>
+         <case>529756</case>
+         <case>526166</case>
+         <case>525563</case>
+         <case>522206</case>
+         <case>522182</case>
+         <case>522174</case>
+         <case>520576</case>
+         <case>518184</case>
+         <case>517432</case>
+         <case>516096</case>
+         <case>515520</case>
+         <case>513493</case>
+         <case>512650</case>
+         <case>512586</case>
+         <case>510287</case>
+         <case>510219</case>
+         <case>509632</case>
+         <case>509538</case>
+         <case>509362</case>
+         <case>509009</case>
+         <case>508770</case>
+         <case>503094</case>
+         <case>502425</case>
+         <case>501714</case>
+         <case>501693</case>
+         <case>499771</case>
+         <case>498402</case>
+         <case>497276</case>
+         <case>497275</case>
+         <case>497058</case>
+         <case>496991</case>
+         <case>491033</case>
+         <case>485665</case>
+         <case>483594</case>
+         <case>483297</case>
+         <case>481363</case>
+         <case>479018</case>
+         <case>476843</case>
+         <case>474052</case>
+         <case>472586</case>
+         <case>471287</case>
+         <case>471017</case>
+         <case>469456</case>
+         <case>465038</case>
+         <case>463302</case>
+         <case>463194</case>
+         <case>462546</case>
+         <case>461213</case>
+         <case>458991</case>
+         <case>458551</case>
+         <case>457097</case>
+         <case>456013</case>
+         <case>452102</case>
+         <case>450589</case>
+         <case>446974</case>
+         <case>445603</case>
+         <case>444165</case>
+         <case>442843</case>
+         <case>440365</case>
+         <case>440190</case>
+         <case>440137</case>
+         <case>436310</case>
+         <case>435842</case>
+         <case>429655</case>
+         <case>428414</case>
+         <case>427532</case>
+         <case>427291</case>
+         <case>418807</case>
+         <case>405157</case>
+         <case>403882</case>
+         <case>401024</case>
+         <case>399014</case>
+         <case>398916</case>
+         <case>396557</case>
+         <case>378211</case>
+         <case>377019</case>
+         <case>376673</case>
+         <case>375610</case>
+         <case>367176</case>
+         <case>366551</case>
+         <case>363148</case>
+         <case>362358</case>
+         <case>361252</case>
+         <case>356200</case>
+         <case>351539</case>
+         <case>347568</case>
+         <case>345459</case>
+         <case>337750</case>
+         <case>332944</case>
+         <case>332176</case>
+         <case>330570</case>
+         <case>330009</case>
+         <case>329446</case>
+         <case>328830</case>
+         <case>326403</case>
+         <case>326230</case>
+         <case>324429</case>
+         <case>322960</case>
+         <case>321891</case>
+         <case>321725</case>
+         <case>321362</case>
+         <case>317769</case>
+         <case>315673</case>
+         <case>307980</case>
+         <case>305771</case>
+         <case>300506</case>
+         <case>297013</case>
+         <case>289376</case>
+         <case>284572</case>
+         <case>277623</case>
+         <case>277176</case>
+         <case>273177</case>
+         <case>272003</case>
+         <case>270712</case>
+         <case>266409</case>
+         <case>259193</case>
+         <case>251081</case>
+         <case>248772</case>
+         <case>245000</case>
+         <case>244753</case>
+         <case>241637</case>
+         <case>228734</case>
+         <case>222685</case>
+         <case>222603</case>
+         <case>221995</case>
+         <case>221916</case>
+         <case>217644</case>
+         <case>215077</case>
+         <case>215071</case>
+         <case>214949</case>
+         <case>211124</case>
+         <case>210856</case>
+         <case>206373</case>
+         <case>206235</case>
+         <case>206210</case>
+         <case>205803</case>
+         <case>202296</case>
+         <case>200377</case>
+         <case>195507</case>
+         <case>187220</case>
+         <case>187196</case>
+         <case>186927</case>
+         <case>185565</case>
+         <case>184849</case>
+         <case>181828</case>
+         <case>175903</case>
+         <case>175194</case>
+         <case>172095</case>
+         <case>171353</case>
+         <case>170116</case>
+         <case>168884</case>
+         <case>166393</case>
+         <case>165655</case>
+         <case>164597</case>
+         <case>161423</case>
+         <case>161097</case>
+         <case>160956</case>
+         <case>158532</case>
+         <case>158525</case>
+         <case>158421</case>
+         <case>157674</case>
+         <case>157300</case>
+         <case>157109</case>
+         <case>157044</case>
+         <case>156641</case>
+         <case>155749</case>
+         <case>154943</case>
+         <case>147129</case>
+         <case>145688</case>
+         <case>145172</case>
+         <case>134741</case>
+         <case>127926</case>
+         <case>127888</case>
+         <case>118506</case>
+         <case>118511</case>
+         <case>118504</case>
+         <case>118407</case>
+         <case>118323</case>
+         <case>118318</case>
+         <case>118316</case>
+         <case>118317</case>
+         <case>118236</case>
+         <case>118199</case>
+         <case>118134</case>
+         <case>118011</case>
+         <case>117880</case>
+         <case>112800</case>
+         <case>112641</case>
+         <case>112318</case>
+         <case>112292</case>
+         <case>112291</case>
+         <case>111949</case>
+         <case>111742</case>
+         <case>111540</case>
+         <case>111503</case>
+         <case>111362</case>
+         <case>111094</case>
+         <case>110792</case>
+         <case>110753</case>
+         <case>110034</case>
+         <case>109520</case>
+         <case>109259</case>
+         <case>108990</case>
+         <case>108763</case>
+         <case>108266</case>
+         <case>106992</case>
+         <case>106821</case>
+         <case>104956</case>
+         <case>104057</case>
+         <case>103973</case>
+         <case>93289</case>
+         <case>102294</case>
+         <case>102271</case>
+         <case>102212</case>
+         <case>102126</case>
+         <case>102112</case>
+         <case>101370</case>
+         <case>100792</case>
+         <case>99824</case>
+         <case>99496</case>
+         <case>99221</case>
+         <case>96819</case>
+         <case>96668</case>
+         <case>95997</case>
+         <case>95877</case>
+         <case>95639</case>
+         <case>95407</case>
+         <case>95391</case>
+         <case>95314</case>
+         <case>95150</case>
+         <case>95159</case>
+         <case>94976</case>
+         <case>94363</case>
+         <case>94358</case>
+         <case>94157</case>
+         <case>93608</case>
+         <case>93057</case>
+         <case>92767</case>
+         <case>77594</case>
+         <case>773394</case>
+         <case>773025</case>
+         <case>772439</case>
+         <case>772087</case>
+         <case>772086</case>
+         <case>771782</case>
+         <case>771648</case>
+         <case>770460</case>
+         <case>770441</case>
+         <case>770117</case>
+         <case>770073</case>
+         <case>769864</case>
+         <case>769530</case>
+         <case>768871</case>
+         <case>768576</case>
+         <case>768410</case>
+         <case>768066</case>
+         <case>767845</case>
+         <case>766009</case>
+         <case>77270</case>
+         <case>77050</case>
+         <case>76920</case>
+         <case>76238</case>
+         <case>75774</case>
+         <case>75316</case>
+         <case>74498</case>
+         <case>74497</case>
+         <case>74206</case>
+         <case>74205</case>
+         <case>74135</case>
+         <case>74136</case>
+         <case>74117</case>
+         <case>74119</case>
+         <case>73893</case>
+         <case>73894</case>
+         <case>73271</case>
+         <case>73270</case>
+         <case>73027</case>
+         <case>73026</case>
+         <case>72757</case>
+         <case>72758</case>
+         <case>72633</case>
+         <case>72632</case>
+         <case>71596</case>
+         <case>65191</case>
+         <case>60408</case>
+         <case>46927</case>
+         <case>39960</case>
+         <case>38064</case>
+         <case>37884</case>
+         <case>37722</case>
+         <case>26075</case>
+         <case>23307</case>
+         <case>23124</case>
+         <case>23119</case>
+         <case>22982</case>
+         <case>19573</case>
+         <case>19556</case>
+         <case>17239</case>
+         <case>16147</case>
+         <case>15653</case>
+         <case>14874</case>
+         <case>7381</case>
+         <case>7380</case>
+         <case>6441</case>
+         <case>5315</case>
+         <case>5216</case>
+         <case>2724</case>
+      </cited_by>
+      <precedential_status>Published</precedential_status>
+      <download_url/>
+      <source>lawbox merged with resource.org</source>
+   </metadata>
+   <body>
+      <div type="majority" judge="bradley">
+         <span class="citation no-link">
+            <span class="volume">134</span>
+            <span class="reporter">U.S.</span>
+            <span class="page">1</span>
+         </span> (1890) HANS v. LOUISIANA. No. 4. <p>Supreme Court of United States.</p> Argued and
+         submitted January 22, 1890. Decided March 3, 1890. ERROR TO THE CIRCUIT COURT OF THE UNITED
+         STATES FOR THE EASTERN DISTRICT OF LOUISIANA. <p>
+            <span class="star-pagination">*4</span> Mr. J.D. Rouse, (Mr. William Grant was also on
+            the brief,) for plaintiff in error.</p>
+         <p>
+            <span class="star-pagination">*9</span> Mr. Walter H. Rogers, Attorney General of the
+            State of Louisiana, Mr. M.J. Cunningham, Mr. B.J. Sage and Mr. Alexander Porter Morse,
+            for defendant in error, submitted on their briefs.</p>
+         <p>
+            <span class="star-pagination">*8</span> MR. JUSTICE BRADLEY, after stating the case as
+            above, delivered the opinion of the court.</p>
+         <p>The question is presented, whether a State can be sued in a Circuit Court of the United
+            States by one of its own citizens upon a suggestion that the case is one that arises
+            under the Constitution or laws of the United States.</p>
+         <p>The ground taken is, that under the Constitution, as well as under the act of Congress
+            passed to carry it into effect, a case is within the jurisdiction of the federal courts,
+            without regard to the character of the parties, if it arises under the Constitution or
+            laws of the United States, or, which is the same thing, if it necessarily involves a
+            question under said Constitution or laws. The language relied on is that clause of the
+            3d article of the Constitution, which declares that "the judicial power of the United
+            States shall extend to all cases in law and equity arising under this Constitution, the
+            laws of the United States, and treaties made, or which shall be made, under their
+            authority;" and the corresponding clause of the act conferring jurisdiction upon the
+            Circuit Court, which, as found in the act of March 3, 1875, 18 Stat. 470, c. 137, § 1,
+            is as follows, to wit: "That the Circuit Courts of the United States shall have original
+            cognizance, concurrent with the courts of the several states, of all suits of a civil
+            nature at common law or in equity, ... arising under the Constitution or laws of the
+            United States, or treaties made, or which shall be made, under their authority." It is
+            said that these jurisdictional clauses make no exception arising from the character of
+            the parties, and, therefore, that a State can claim no exemption from suit, if the case
+            is really one arising under the Constitution, laws or treaties of the United States. It
+            is conceded that where the jurisdiction depends alone upon the character of the parties,
+            a controversy between a State and its own <span class="star-pagination">*10</span>
+            citizens is not embraced within it; but it is contended that though jurisdiction does
+            not exist on that ground, it nevertheless does exist if the case itself is one which
+            necessarily involves a federal question; and with regard to ordinary parties this is
+            undoubtedly true. The question now to be decided is, whether it is true where one of the
+            parties is a State, and is sued as a defendant by one of its own citizens.</p>
+         <p>That a State cannot be sued by a citizen of another State, or of a foreign state, on the
+            mere ground that the case is one arising under the Constitution or laws of the United
+            States, is clearly established by the decisions of this court in several recent cases.
+            Louisiana v. Jumel, 107 U.S. 711; Hagood v. Southern, 117 U.S. 52; In re Ayers, <span
+               class="citation">
+               <a href="/scotus/tne/in-re-ayers/">
+                  <span class="volume">123</span>
+                  <span class="reporter">U.S.</span>
+                  <span class="page">443</span>
+               </a>
+            </span>. Those were cases arising under the Constitution of the United States, upon laws
+            complained of as impairing the obligation of contracts, one of which was the
+            constitutional amendment of Louisiana complained of in the present case. Relief was
+            sought against state officers who professed to act in obedience to those laws. This
+            court held that the suits were virtually against the States themselves and were
+            consequently violative of the Eleventh Amendment of the Constitution, and could not be
+            maintained. It was not denied that they presented cases arising under the Constitution;
+            but, notwithstanding that, they were held to be prohibited by the amendment referred
+            to.</p>
+         <p>In the present case the plaintiff in error contends that he, being a citizen of
+            Louisiana, is not embarrassed by the obstacle of the Eleventh Amendment, inasmuch as
+            that amendment only prohibits suits against a State which are brought by the citizens of
+            another State, or by citizens or subjects of a foreign State. It is true, the amendment
+            does so read: and if there were no other reason or ground for abating his suit, it might
+            be maintainable; and then we should have this anomalous result, that in cases arising
+            under the Constitution or laws of the United States, a State may be sued in the federal
+            courts by its own citizens, though it cannot be sued for a like cause of action by the
+            citizens of other States, or of a foreign state; and may be thus sued in the federal
+            courts, although not allowing itself to be sued in its own courts. If this is the
+            necessary <span class="star-pagination">*11</span> consequence of the language of the
+            Constitution and the law, the result is no less startling and unexpected than was the
+            original decision of this court, that under the language of the Constitution and of the
+            judiciary act of 1789, a State was liable to be sued by a citizen of another State, or
+            of a foreign country. That decision was made in the case of Chisholm v. Georgia, 2 Dall.
+            419, and created such a shock of surprise throughout the country that, at the first
+            meeting of Congress thereafter, the Eleventh Amendment to the Constitution was almost
+            unanimously proposed, and was in due course adopted by the legislatures of the States.
+            This amendment, expressing the will of the ultimate sovereignty of the whole country,
+            superior to all legislatures and all courts, actually reversed the decision of the
+            Supreme Court. It did not in terms prohibit suits by individuals against the States, but
+            declared that the Constitution should not be construed to import any power to authorize
+            the bringing of such suits. The language of the amendment is that "the judicial power of
+            the United States shall not be construed to extend to any suit in law or equity,
+            commenced or prosecuted against one of the United States by citizens of another State or
+            by citizens or subjects of any foreign state." The Supreme Court had construed the
+            judicial power as extending to such a suit, and its decision was thus overruled. The
+            court itself so understood the effect of the amendment, for, after its adoption,
+            Attorney General Lee, in the case of Hollingsworth v. Virginia, 3 Dall. 378, submitted
+            this question to the court, "whether the amendment did, or did not, supersede all suits
+            depending, as well as prevent the institution of new suits, against any one of the
+            United States, by citizens of another State?" Tilghman and Rawle argued in the negative,
+            contending that the jurisdiction of the court was unimpaired in relation to all suits
+            instituted previously to the adoption of the amendment. But, on the succeeding day, the
+            court delivered a unanimous opinion, "that the amendment being constitutionally adopted,
+            there could not be exercised any jurisdiction, in any case, past or future, in which a
+            State was sued by the citizens of another State, or by citizens or subjects of any
+            foreign state."</p>
+         <p>
+            <span class="star-pagination">*12</span> This view of the force and meaning of the
+            amendment is important. It shows that, on this question of the suability of the States
+            by individuals, the highest authority of this country was in accord rather with the
+            minority than with the majority of the court in the decision of the case of Chisholm v.
+            Georgia; and this fact lends additional interest to the able opinion of Mr. Justice
+            Iredell on that occasion. The other justices were more swayed by a close observance of
+            the letter of the Constitution, without regard to former experience and usage; and
+            because the letter said that the judicial power shall extend to controversies "between a
+            State and citizens of another State;" and "between a State and foreign states, citizens
+            or subjects," they felt constrained to see in this language a power to enable the
+            individual citizens of one State, or of a foreign state, to sue another State of the
+            Union in the federal courts. Justice Iredell, on the contrary, contended that it was not
+            the intention to create new and unheard of remedies, by subjecting sovereign States to
+            actions at the suit of individuals, (which he conclusively showed was never done
+            before,) but only, by proper legislation, to invest the federal courts with jurisdiction
+            to hear and determine controversies and cases, between the parties designated, that were
+            properly susceptible of litigation in courts.</p>
+         <p>Looking back from our present standpoint at the decision in Chisholm v. Georgia, we do
+            not greatly wonder at the effect which it had upon the country. Any such power as that
+            of authorizing the federal judiciary to entertain suits by individuals against the
+            States, had been expressly disclaimed, and even resented, by the great defenders of the
+            Constitution whilst it was on its trial before the American people. As some of their
+            utterances are directly pertinent to the question now under consideration, we deem it
+            proper to quote them.</p>
+         <p>The eighty-first number of the <ref type="intent" num="81">Federalist</ref>, written by Hamilton, has the following
+            profound remarks:</p>
+         <p>"It has been suggested that an assignment of the public securities of one State to the
+            citizens of another, would enable them to prosecute that State in the federal courts for
+            the amount of those securities; a suggestion which the following considerations prove to
+            be without foundation:</p>
+         <p>
+            <span class="star-pagination">*13</span> "It is inherent in the nature of sovereignty
+            not to be amenable to the suit of an individual without its consent. This is the general
+            sense and the general practice of mankind; and the exemption, as one of the attributes
+            of sovereignty, is now enjoyed by the government of every State in the Union. Unless,
+            therefore, there is a surrender of this immunity in the plan of the convention, it will
+            remain with the States, and the danger intimated must be merely ideal. The circumstances
+            which are necessary to produce an alienation of state sovereignty were discussed in
+            considering the article of taxation, and need not be repeated here. A recurrence to the
+            principles there established will satisfy us, that there is no color to pretend that the
+            state governments would, by the adoption of that plan, be divested of the privilege of
+            paying their own debts in their own way, free from every constraint but that which flows
+            from the obligations of good faith. The contracts between a nation and individuals are
+            only binding on the conscience of the sovereign, and have no pretension to a compulsive
+            force. They confer no right of action independent of the sovereign will. To what purpose
+            would it be to authorize suits against States for the debts they owe? How could
+            recoveries be enforced? It is evident that it could not be done without waging war
+            against the contracting State; and to ascribe to the federal courts by mere implication,
+            and in destruction of a pre-existing right of the state governments, a power which would
+            involve such a consequence, would be altogether forced and unwarrantable."</p>
+         <p>The obnoxious clause to which Hamilton's argument was directed, and which was the ground
+            of the objections which he so forcibly met, was that which declared that "the judicial
+            power shall extend to all ... controversies between a State and citizens of another
+            State, ... and between a State and foreign states, citizens or subjects." It was argued
+            by the opponents of the Constitution that this clause would authorize jurisdiction to be
+            given to the federal courts to entertain suits against a State brought by the citizens
+            of another State, or of a foreign state. Adhering to the mere letter, it might be so;
+            and so, in fact, the Supreme Court held in Chisholm v. <span class="star-pagination"
+               >*14</span> Georgia; but looking at the subject as Hamilton did, and as Mr. Justice
+            Iredell did, in the light of history and experience and the established order of things,
+            the views of the latter were clearly right, &#x97; as the people of the United States in
+            their sovereign capacity subsequently decided.</p>
+         <p>But Hamilton was not alone in protesting against the construction put upon the
+            Constitution by its opponents. In the Virginia convention the same objections were
+            raised by George Mason and Patrick Henry, and were met by Madison and Marshall as
+            follows. Madison said: "Its jurisdiction [the federal jurisdiction] in controversies
+            between a State and citizens of another State is much objected to, and perhaps without
+            reason. It is not in the power of individuals to call any State into court. The only
+            operation it can have is that, if a State should wish to bring a suit against a citizen,
+            it must be brought before the federal court. This will give satisfaction to individuals,
+            as it will prevent citizens on whom a State may have a claim being dissatisfied with the
+            state courts... . It appears to me that this [clause] can have no operation but this
+            &#x97; to give a citizen a right to be heard in the federal courts; and if a State
+            should condescend to be a party, this court may take cognizance of it." 3 Elliott's
+            Debates, 2d ed. 533. Marshall, in answer to the same objection, said: "With respect to
+            disputes between a State and the citizens of another State, its jurisdiction has been
+            decried with unusual vehemence. I hope that no gentleman will think that a State will be
+            called at the bar of the federal court... . It is not rational to suppose that the
+            sovereign power should be dragged before a court. The intent is to enable States to
+            recover claims of individuals residing in other States... . But, say they, there will be
+            partiality in it if a State cannot be defendant &#x97; if an individual cannot proceed
+            to obtain judgment against a State, though he may be sued by a State. It is necessary to
+            be so, and cannot be avoided. I see a difficulty in making a State defendant which does
+            not prevent its being plaintiff." Ib. 555.</p>
+         <p>It seems to us that these views of those great advocates and defenders of the
+            Constitution were most sensible and just; and <span class="star-pagination">*15</span>
+            they apply equally to the present case as to that then under discussion. The letter is
+            appealed to now, as it was then, as a ground for sustaining a suit brought by an
+            individual against a State. The reason against it is as strong in this case as it was in
+            that. It is an attempt to strain the Constitution and the law to a construction never
+            imagined or dreamed of. Can we suppose that, when the Eleventh Amendment was adopted, it
+            was understood to be left open for citizens of a State to sue their own state in the
+            federal courts, whilst the idea of suits by citizens of other states, or of foreign
+            states, was indignantly repelled? Suppose that Congress, when proposing the Eleventh
+            Amendment, had appended to it a proviso that nothing therein contained should prevent a
+            State from being sued by its own citizens in cases arising under the Constitution or
+            laws of the United States: can we imagine that it would have been adopted by the States?
+            The supposition that it would is almost an absurdity on its face.</p>
+         <p>The truth is, that the cognizance of suits and actions unknown to the law, and forbidden
+            by the law, was not contemplated by the Constitution when establishing the judicial
+            power of the United States. Some things, undoubtedly, were made justiciable which were
+            not known as such at the common law; such, for example, as controversies between States
+            as to boundary lines, and other questions admitting of judicial solution. And yet the
+            case of Penn v. Lord Baltimore, 1 Ves. Sen. 444, shows that some of these unusual
+            subjects of litigation were not unknown to the courts even in colonial times; and
+            several cases of the same general character arose under the Articles of Confederation,
+            and were brought before the tribunal provided for that purpose in those articles. 131
+            U.S. App. 1. The establishment of this new branch of jurisdiction seemed to be necessary
+            from the extinguishment of diplomatic relations between the States. Of other
+            controversies between a State and another State or its citizens, which, on the settled
+            principles of public law, are not subjects of judicial cognizance, this court has often
+            declined to take jurisdiction. See Wisconsin v. Pelican Ins. Co., <span class="citation">
+               <a href="/scotus/tqy/wisconsin-v-pelican-ins-co/">
+                  <span class="volume">127</span>
+                  <span class="reporter">U.S.</span>
+                  <span class="page">265</span>
+               </a>
+            </span>, 288, 289, and cases there cited.</p>
+         <p>
+            <span class="star-pagination">*16</span> The suability of a State without its consent
+            was a thing unknown to the law. This has been so often laid down and acknowledged by
+            courts and jurists that it is hardly necessary to be formally asserted. It was fully
+            shown by an exhaustive examination of the old law by Mr. Justice Iredell in his opinion
+            in Chisholm v. Georgia; and it has been conceded in every case since, where the question
+            has, in any way, been presented, even in the cases which have gone farthest in
+            sustaining suits against the officers or agents of States. Osborn v. Bank of United
+            States, 9 Wheat. 738; Davis v. Gray, 16 Wall. 203; Board of Liquidation v. McComb, 92
+            U.S. 531; United States v. Lee, 106 U.S. 196; Poindexter v. Greenhow, 109 U.S. 63;
+            Virginia Coupon Cases, 114 U.S. 269. In all these cases the effort was to show, and the
+            court held, that the suits were not against the State or the United States, but against
+            the individuals; conceding that if they had been against either the State or the United
+            States, they could not be maintained.</p>
+         <p>Mr. Webster stated the law with precision in his letter to Baring Brothers &amp;amp;
+            Co., of October 16, 1839. Works, Vol. VI, 537, 539. "The security for state loans," he
+            said, "is the plighted faith of the State as a political community. It rests on the same
+            basis as other contracts with established governments, the same basis, for example, as
+            loans made by the United States under the authority of Congress; that is to say, the
+            good faith of the government making the loan, and its ability to fulfil its
+            engagements."</p>
+         <p>In Briscoe v. Bank of Kentucky, <span class="citation">
+               <a href="/scotus/rz9/briscoe-v-bank-of-kentucky/">
+                  <span class="volume">11</span>
+                  <span class="reporter">Pet.</span>
+                  <span class="page">257</span>
+               </a>
+            </span>, 321, Mr. Justice McLean, delivering the opinion of the court, said: "What means
+            of enforcing payment from the State had the holder of a bill of credit? It is said by
+            the counsel for the plaintiffs, that he could have sued the State. But was a State
+            liable to be sued? ... No sovereign State is liable to be sued without her consent.
+            Under the Articles of Confederation, a State could be sued only in cases of boundary. It
+            is believed that there is no case where a suit has been brought, at any time, on bills
+            of credit against a State; and it is certain that no suit could have been maintained on
+            this ground prior to the Constitution."</p>
+         <p>
+            <span class="star-pagination">*17</span> "It may be accepted as a point of departure
+            unquestioned," said Mr. Justice Miller, in Cunningham v. Macon &amp;amp; Brunswick
+            Railroad, <span class="citation no-link">
+               <span class="volume">109</span>
+               <span class="reporter">U.S.</span>
+               <span class="page">446</span>
+            </span>, 451, "that neither a State nor the United States can be sued as defendant in
+            any court in this country without their consent, except in the limited class of cases in
+            which a State may be made a party in the Supreme Court of the United States by virtue of
+            the original jurisdiction conferred on this court by the Constitution."</p>
+         <p>Undoubtedly a State may be sued by its own consent, as was the case in Curran v.
+            Arkansas et al., <span class="citation">
+               <a href="/scotus/rP9/curran-v-arkansas/">
+                  <span class="volume">15</span>
+                  <span class="reporter">How.</span>
+                  <span class="page">304</span>
+               </a>
+            </span>, 309, and in Clark v. Barnard, <span class="citation">
+               <a href="/scotus/t1Q/clark-v-barnard/">
+                  <span class="volume">108</span>
+                  <span class="reporter">U.S.</span>
+                  <span class="page">436</span>
+               </a>
+            </span>, 447. The suit in the former case was prosecuted by virtue of a state law which
+            the legislature passed in conformity to the constitution of that state. But this court
+            decided, in Beers et al. v. Arkansas, <span class="citation">
+               <a href="/scotus/rP9/curran-v-arkansas/">
+                  <span class="volume">20</span>
+                  <span class="reporter">How.</span>
+                  <span class="page">527</span>
+               </a>
+            </span>, 529, that the State could repeal that law at any time; that it was not a
+            contract within the terms of the constitution prohibiting the passage of state laws
+            impairing the obligation of a contract. In that case the law allowing the State to be
+            sued was modified, pending certain suits against the State on its bonds, so as to
+            require the bonds to be filed in court, which was objected to as an unconstitutional
+            change of the law. Chief Justice Taney, delivering the opinion of the court, said: "It
+            is an established principle of jurisprudence in all civilized nations that the sovereign
+            cannot be sued in its own courts, or in any other, without its consent and permission;
+            but it may, if it thinks proper, waive this privilege and permit itself to be made a
+            defendant in a suit by individuals, or by another State. And as this permission is
+            altogether voluntary on the part of the sovereignty, it follows that it may prescribe
+            the terms and conditions on which it consents to be sued, and the manner in which the
+            suit shall be conducted, and may withdraw its consent whenever it may suppose that
+            justice to the public requires it... . The prior law was not a contract. It was an
+            ordinary act of legislation, prescribing the conditions upon which the State consented
+            to waive the privilege of sovereignty. It contained no stipulation that these
+            regulations should not be modified afterwards if, upon experience, it was found that
+            further provisions were <span class="star-pagination">*18</span> necessary to protect
+            the public interest; and no such contract can be implied from the law, nor can this
+            court inquire whether the law operated hardly or unjustly upon the parties whose suits
+            were then pending. That was a question for the consideration of the legislature. They
+            might have repealed the prior law altogether, and put an end to the jurisdiction of
+            their courts in suits against the State, if they had thought proper to do so, or
+            prescribe new conditions upon which the suits might still be allowed to proceed. In
+            exercising this power the State violated no contract with the parties." The same
+            doctrine was held in Railroad Company v. Tennessee, <span class="citation">
+               <a href="/scotus/sN1/railroad-co-v-tennessee/">
+                  <span class="volume">101</span>
+                  <span class="reporter">U.S.</span>
+                  <span class="page">337</span>
+               </a>
+            </span>, 339; Railroad Company v. Alabama, 101 U.S. 832; and In re Ayers, <span
+               class="citation">
+               <a href="/scotus/tne/in-re-ayers/">
+                  <span class="volume">123</span>
+                  <span class="reporter">U.S.</span>
+                  <span class="page">443</span>
+               </a>
+            </span>, 505.</p>
+         <p>But besides the presumption that no anomalous and unheard-of proceedings or suits were
+            intended to be raised up by the Constitution &#x97; anomalous and unheard of when the
+            Constitution was adopted &#x97; an additional reason why the jurisdiction claimed for
+            the Circuit Court does not exist, is the language of the act of Congress by which its
+            jurisdiction is conferred. The words are these: "The circuit courts of the United States
+            shall have original cognizance, concurrent with the courts of the several States, of all
+            suits of a civil nature at common law or in equity, ... arising under the Constitution
+            or laws of the United States, or treaties," etc. &#x97; "Concurrent with the courts of
+            the several States." Does not this qualification, show that Congress, in legislating to
+            carry the Constitution into effect, did not intend to invest its courts with any new and
+            strange jurisdictions? The state courts have no power to entertain suits by individuals
+            against a State without its consent. Then how does the Circuit Court, having only
+            concurrent jurisdiction, acquire any such power? It is true that the same qualification
+            existed in the judiciary act of 1789, which was before the court in Chisholm v. Georgia,
+            and the majority of the court did not think that it was sufficient to limit the
+            jurisdiction of the Circuit Court. Justice Iredell thought differently. In view of the
+            manner in which that decision was received by the country, the adoption of the Eleventh
+            Amendment, the light of history and the reason of the thing, we <span
+               class="star-pagination">*19</span> think we are at liberty to prefer Justice
+            Iredell's views in this regard.</p>
+         <p>Some reliance is placed by the plaintiff upon the observations of Chief Justice
+            Marshall, in Cohens v. Virginia, <span class="citation">
+               <a href="/scotus/rnd/cohens-v-virginia/">
+                  <span class="volume">6</span>
+                  <span class="reporter">Wheat.</span>
+                  <span class="page">264</span>
+               </a>
+            </span>, 410. The Chief Justice was there considering the power of review exercisable by
+            this court over the judgments of a state court, wherein it might be necessary to make
+            the State itself a defendant in error. He showed that this power was absolutely
+            necessary in order to enable the judiciary of the United States to take cognizance of
+            all cases arising under the Constitution and laws of the United States. He also showed
+            that making a State a defendant in error was entirely different from suing a State in an
+            original action in prosecution of a demand against it, and was not within the meaning of
+            the Eleventh Amendment; that the prosecution of a writ of error against a State was not
+            the prosecution of a suit in the sense of that amendment, which had reference to the
+            prosecution, by suit, of claims against a State. "Where," said the Chief Justice, "a
+            State obtains a judgment against an individual, and the court rendering such judgment
+            overrules a defence set up under the Constitution or laws of the United States, the
+            transfer of this record into the Supreme Court for the sole purpose of inquiring whether
+            the judgment violates the Constitution of the United States, can, with no propriety, we
+            think, be denominated a suit commenced or prosecuted against the State whose judgment is
+            so far reëxamined. Nothing is demanded from the State. No claim against it of any
+            description is asserted or prosecuted. The party is not to be restored to the possession
+            of any thing... . He only asserts the constitutional right to have his defence examined
+            by that tribunal whose province it is to construe the Constitution and laws of the
+            Union... . The point of view in which this writ of error, with its citation, has been
+            considered uniformly in the courts of the Union, has been well illustrated by a
+            reference to the course of this court in suits instituted by the United States. The
+            universally received opinion is that no suit can be commenced or prosecuted against the
+            United States; that the judiciary act does not authorize such suits. <span
+               class="star-pagination">*20</span> Yet writs of error, accompanied with citations,
+            have uniformly issued for the removal of judgments in favor of the United States into a
+            superior court... . It has never been suggested that such writ of error was a suit
+            against the United States, and, therefore, not within the jurisdiction of the appellate
+            court."</p>
+         <p>After thus showing by incontestable argument that a writ of error to a judgment
+            recovered by a State, in which the State is necessarily the defendant in error, is not a
+            suit commenced or prosecuted against a State in the sense of the amendment, he added,
+            that if the court were mistaken in this, its error did not affect that case, because the
+            writ of error therein was not prosecuted by "a citizen of another State" or "of any
+            foreign state," and so was not affected by the amendment; but was governed by the
+            general grant of judicial power, as extending "to all cases arising under the
+            Constitution or laws of the United States, without respect to parties." p. 412.</p>
+         <p>It must be conceded that the last observation of the Chief Justice does favor the
+            argument of the plaintiff. But the observation was unnecessary to the decision, and in
+            that sense extra judicial, and though made by one who seldom used words without due
+            reflection, ought not to outweigh the important considerations referred to which lead to
+            a different conclusion. With regard to the question then before the court, it may be
+            observed, that writs of error to judgments in favor of the crown, or of the State, had
+            been known to the law from time immemorial; and had never been considered as exceptions
+            to the rule, that an action does not lie against the sovereign.</p>
+         <p>To avoid misapprehension it may be proper to add that, although the obligations of a
+            State rest for their performance upon its honor and good faith, and cannot be made the
+            subjects of judicial cognizance unless the State consents to be sued, or comes itself
+            into court; yet where property or rights are enjoyed under a grant or contract made by a
+            State, they cannot wantonly be invaded. Whilst the State cannot be compelled by suit to
+            perform its contracts, any attempt on its part to violate property or rights acquired
+            under its contracts, <span class="star-pagination">*21</span> may be judicially
+            resisted; and any law impairing the obligation of contracts under which such property or
+            rights are held is void and powerless to affect their enjoyment.</p>
+         <p>It is not necessary that we should enter upon an examination of the reason or expediency
+            of the rule which exempts a sovereign State from prosecution in a court of justice at
+            the suit of individuals. This is fully discussed by writers on public law. It is enough
+            for us to declare its existence. The legislative department of a State represents its
+            polity and its will; and is called upon by the highest demands of natural and political
+            law to preserve justice and judgment, and to hold inviolate the public obligations. Any
+            departure from this rule, except for reasons most cogent, (of which the legislature, and
+            not the courts, is the judge,) never fails in the end to incur the odium of the world,
+            and to bring lasting injury upon the State itself. But to deprive the legislature of the
+            power of judging what the honor and safety of the State may require, even at the expense
+            of a temporary failure to discharge the public debts, would be attended with greater
+            evils than such failure can cause.</p>
+         <p>The judgment of the Circuit Court is</p>
+         <p>Affirmed.</p></div>
+      <div type="concurrence" judge="harlan">
+         <p>MR. JUSTICE HARLAN concurring.</p>
+         <p>I concur with the court in holding that a suit directly against a State by one of its
+            own citizens is not one to which the judicial power of the United States extends, unless
+            the State itself consents to be sued. Upon this ground alone I assent to the judgment.
+            But I cannot give my assent to many things said in the opinion. The comments made upon
+            the decision in Chisholm v. Georgia do not meet my approval. They are not necessary to
+            the determination of the present case. Besides, I am of opinion that the decision in
+            that case was based upon a sound interpretation of the Constitution as that instrument
+            then was.</p>
+      </div>
+   </body>
+</opinion>

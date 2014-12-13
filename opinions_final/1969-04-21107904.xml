@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema_1.rnc" type="application/relax-ng-compact-syntax"?>
+<opinion>
+   <metadata>
+      <case_name>Watts v. United States</case_name>
+      <id>107904</id>
+      <date_filed>1969-04-21</date_filed>
+      <judges>Per Curiam</judges>
+      <nature_of_suit/>
+      <citation>
+         <volume>394</volume>
+         <reporter>U.S.</reporter>
+         <page>705</page>
+         <lexis_cite/>
+      </citation>
+      <federal_cite_one>394 U.S. 705</federal_cite_one>
+      <cited_by>
+         <case>2485906</case>
+         <case>2471882</case>
+         <case>2465594</case>
+         <case>2367075</case>
+         <case>2355073</case>
+         <case>2341603</case>
+         <case>2335474</case>
+         <case>2305962</case>
+         <case>2278940</case>
+         <case>2276742</case>
+         <case>2171748</case>
+         <case>2151477</case>
+         <case>2145424</case>
+         <case>2143196</case>
+         <case>2077617</case>
+         <case>1996194</case>
+         <case>1819095</case>
+         <case>1711987</case>
+         <case>1612341</case>
+         <case>1611761</case>
+         <case>1611644</case>
+         <case>1599683</case>
+         <case>1599081</case>
+         <case>1542311</case>
+         <case>1533806</case>
+         <case>1519008</case>
+         <case>1489964</case>
+         <case>1467193</case>
+         <case>1462169</case>
+         <case>1459347</case>
+         <case>1452401</case>
+         <case>1442799</case>
+         <case>1435629</case>
+         <case>1434532</case>
+         <case>1433861</case>
+         <case>1426989</case>
+         <case>1402683</case>
+         <case>1383204</case>
+         <case>1304595</case>
+         <case>1302746</case>
+         <case>1249273</case>
+         <case>1234691</case>
+         <case>1228180</case>
+         <case>1225990</case>
+         <case>1208483</case>
+         <case>1208061</case>
+         <case>1196196</case>
+         <case>1195859</case>
+         <case>1156738</case>
+         <case>1122506</case>
+         <case>1115665</case>
+         <case>1093249</case>
+         <case>901475</case>
+         <case>900894</case>
+         <case>845584</case>
+         <case>842997</case>
+         <case>358121</case>
+         <case>328045</case>
+         <case>1065477</case>
+         <case>1065473</case>
+         <case>1065187</case>
+         <case>1063095</case>
+         <case>1059424</case>
+         <case>1041305</case>
+         <case>1038357</case>
+         <case>1037258</case>
+         <case>1030505</case>
+         <case>1027243</case>
+         <case>1024451</case>
+         <case>993029</case>
+         <case>987265</case>
+         <case>904120</case>
+         <case>880587</case>
+         <case>879179</case>
+         <case>875382</case>
+         <case>867453</case>
+         <case>865398</case>
+         <case>857640</case>
+         <case>857100</case>
+         <case>844258</case>
+         <case>813181</case>
+         <case>807790</case>
+         <case>807716</case>
+         <case>807412</case>
+         <case>803268</case>
+         <case>793933</case>
+         <case>792038</case>
+         <case>791592</case>
+         <case>790629</case>
+         <case>790311</case>
+         <case>789967</case>
+         <case>789818</case>
+         <case>788171</case>
+         <case>787608</case>
+         <case>785747</case>
+         <case>784960</case>
+         <case>783269</case>
+         <case>779594</case>
+         <case>779397</case>
+         <case>779282</case>
+         <case>778045</case>
+         <case>777725</case>
+         <case>776461</case>
+         <case>774758</case>
+         <case>773469</case>
+         <case>772636</case>
+         <case>770308</case>
+         <case>768755</case>
+         <case>765858</case>
+         <case>761276</case>
+         <case>760367</case>
+         <case>760240</case>
+         <case>755620</case>
+         <case>753544</case>
+         <case>747616</case>
+         <case>741766</case>
+         <case>739286</case>
+         <case>733382</case>
+         <case>723735</case>
+         <case>722482</case>
+         <case>712968</case>
+         <case>691051</case>
+         <case>689137</case>
+         <case>687390</case>
+         <case>683501</case>
+         <case>681631</case>
+         <case>681316</case>
+         <case>681155</case>
+         <case>675762</case>
+         <case>673194</case>
+         <case>668598</case>
+         <case>662471</case>
+         <case>661459</case>
+         <case>656069</case>
+         <case>655992</case>
+         <case>654625</case>
+         <case>654620</case>
+         <case>625913</case>
+         <case>623947</case>
+         <case>621667</case>
+         <case>621623</case>
+         <case>617778</case>
+         <case>614270</case>
+         <case>613104</case>
+         <case>612849</case>
+         <case>608123</case>
+         <case>590330</case>
+         <case>578246</case>
+         <case>577160</case>
+         <case>573893</case>
+         <case>573121</case>
+         <case>571467</case>
+         <case>569827</case>
+         <case>562684</case>
+         <case>557824</case>
+         <case>557708</case>
+         <case>553940</case>
+         <case>548945</case>
+         <case>544673</case>
+         <case>542010</case>
+         <case>541812</case>
+         <case>536229</case>
+         <case>536177</case>
+         <case>528530</case>
+         <case>518921</case>
+         <case>516519</case>
+         <case>505870</case>
+         <case>505850</case>
+         <case>498504</case>
+         <case>492919</case>
+         <case>485272</case>
+         <case>484914</case>
+         <case>483891</case>
+         <case>480220</case>
+         <case>463377</case>
+         <case>462751</case>
+         <case>458574</case>
+         <case>457082</case>
+         <case>443935</case>
+         <case>443045</case>
+         <case>442849</case>
+         <case>440485</case>
+         <case>437122</case>
+         <case>426305</case>
+         <case>426273</case>
+         <case>419146</case>
+         <case>415591</case>
+         <case>411281</case>
+         <case>400089</case>
+         <case>399958</case>
+         <case>399372</case>
+         <case>368200</case>
+         <case>362265</case>
+         <case>360362</case>
+         <case>352425</case>
+         <case>335138</case>
+         <case>330199</case>
+         <case>327113</case>
+         <case>324792</case>
+         <case>318522</case>
+         <case>315447</case>
+         <case>313564</case>
+         <case>304430</case>
+         <case>304381</case>
+         <case>303587</case>
+         <case>302624</case>
+         <case>300530</case>
+         <case>299122</case>
+         <case>295291</case>
+         <case>294765</case>
+         <case>291934</case>
+         <case>290817</case>
+         <case>290627</case>
+         <case>288469</case>
+         <case>288073</case>
+         <case>287470</case>
+         <case>287452</case>
+         <case>286720</case>
+         <case>286181</case>
+         <case>222198</case>
+         <case>221261</case>
+         <case>218709</case>
+         <case>203199</case>
+         <case>197526</case>
+         <case>197264</case>
+         <case>172598</case>
+         <case>171216</case>
+         <case>165582</case>
+         <case>160828</case>
+         <case>157548</case>
+         <case>157333</case>
+         <case>127908</case>
+         <case>112774</case>
+         <case>111946</case>
+         <case>110798</case>
+         <case>109284</case>
+         <case>68210</case>
+         <case>65183</case>
+         <case>53962</case>
+         <case>39245</case>
+         <case>37076</case>
+         <case>25528</case>
+         <case>21907</case>
+         <case>6998</case>
+         <case>1368</case>
+         <case>540</case>
+         <case>385</case>
+      </cited_by>
+      <precedential_status>Published</precedential_status>
+      <download_url/>
+      <source>lawbox merged with resource.org</source>
+   </metadata>
+   <body>
+      <div type="per curiam">
+         <span class="citation no-link">
+            <span class="volume">394</span>
+            <span class="reporter">U.S.</span>
+            <span class="page">705</span>
+         </span> (1969) WATTS v. UNITED STATES. No. 1107, Misc. <p>Supreme Court of United
+            States.</p> Decided April 21, 1969. ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED
+         STATES COURT OF APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT. <p>Joseph Forer for
+            petitioner.</p>
+         <p>Solicitor General Griswold for the United States.</p>
+         <p>Ralph J. Temple, Melvin L. Wulf, and Lawrence Speiser for the American Civil Liberties
+            Union et al. as amici curiae.</p>
+         <p>PER CURIAM.</p>
+         <p>After a jury trial in the United States District Court for the District of Columbia,
+            petitioner was convicted of violating a 1917 statute which prohibits any person from
+            "knowingly and willfully . . . [making] any threat to take the life of or to inflict
+            bodily harm upon the President of the United States . . . ."<span class="sup">[*]</span>
+            The incident <span class="star-pagination">*706</span> which led to petitioner's arrest
+            occurred on August 27, 1966, during a public rally on the Washington Monument grounds.
+            The crowd present broke up into small discussion groups and petitioner joined a
+            gathering scheduled to discuss police brutality. Most of those in the group were quite
+            young, either in their teens or early twenties. Petitioner, who himself was 18 years
+            old, entered into the discussion after one member of the group suggested that the young
+            people present should get more education before expressing their views. According to an
+            investigator for the Army Counter Intelligence Corps who was present, petitioner
+            responded: "They always holler at us to get an education. And now I have already
+            received my draft classification as 1-A and I have got to report for my physical this
+            Monday coming. I am not going. If they ever make me carry a rifle the first man I want
+            to get in my sights is L. B. J." "They are not going to make me kill my black brothers."
+            On the basis of this statement, the jury found that petitioner had committed a felony by
+            knowingly and willfully threatening the President. The United States Court of Appeals
+            for the District of Columbia Circuit affirmed by a two-to-one vote. 131 U. S. App. D. C.
+            125, 402 F. 2d 676 (1968). We reverse.</p>
+         <p>At the close of the Government's case, petitioner's trial counsel moved for a judgment
+            of acquittal. He contended that there was "absolutely no evidence on the basis of which
+            the jury would be entitled to find that [petitioner] made a threat against the life of
+            the President." <span class="star-pagination">*707</span> He stressed the fact that
+            petitioner's statement was made during a political debate, that it was expressly made
+            conditional upon an event&#x97;induction into the Armed Forces&#x97;which petitioner
+            vowed would never occur, and that both petitioner and the crowd laughed after the
+            statement was made. He concluded, "Now actually what happened here in all this was a
+            kind of very crude offensive method of stating a political opposition to the President.
+            What he was saying, he says, I don't want to shoot black people because I don't consider
+            them my enemy, and if they put a rifle in my hand it is the people that put the rifle in
+            my hand, as symbolized by the President, who are my real enemy." We hold that the trial
+            judge erred in denying this motion.</p>
+         <p>Certainly the statute under which petitioner was convicted is constitutional on its
+            face. The Nation undoubtedly has a valid, even an overwhelming, interest in protecting
+            the safety of its Chief Executive and in allowing him to perform his duties without
+            interference from threats of physical violence. See H. R. Rep. No. 652, 64th Cong., 1st
+            Sess. (1916). Nevertheless, a statute such as this one, which makes criminal a form of
+            pure speech, must be interpreted with the commands of the First Amendment clearly in
+            mind. What is a threat must be distinguished from what is constitutionally protected
+            speech.</p>
+         <p>The judges in the Court of Appeals differed over whether or not the "willfullness"
+            requirement of the statute implied that a defendant must have intended to carry out his
+            "threat." Some early cases found the willfullness requirement met if the speaker
+            voluntarily uttered the charged words with "an apparent determination to carry them into
+            execution." Ragansky v. United States, <span class="citation no-link">
+               <span class="volume">253</span>
+               <span class="reporter">F.</span>
+               <span class="page">643</span>
+            </span>, 645 (C. A. 7th Cir. 1918) (emphasis supplied); cf. Pierce v. United States, 365
+            F. 2d 292 (C. A. <span class="star-pagination">*708</span> 10th Cir. 1966). The majority
+            below seemed to agree. Perhaps this interpretation is correct, although we have grave
+            doubts about it. See the dissenting opinion below, 131 U. S. App. D. C., at 135-142, 402
+            F. 2d, at 686-693 (Wright, J.). But whatever the "willfullness" requirement implies, the
+            statute initially requires the Government to prove a true "threat." We do not believe
+            that the kind of political hyperbole indulged in by petitioner fits within that
+            statutory term. For we must interpret the language Congress chose "against the
+            background of a profound national commitment to the principle that debate on public
+            issues should be uninhibited, robust, and wide-open, and that it may well include
+            vehement, caustic, and sometimes unpleasantly sharp attacks on government and public
+            officials." New York Times Co. v. Sullivan, 376 U. S. 254, 270 (1964). The language of
+            the political arena, like the language used in labor disputes, see Linn v. United Plant
+            Guard Workers of America, 383 U. S. 53, 58 (1966), is often vituperative, abusive, and
+            inexact. We agree with petitioner that his only offense here was "a kind of very crude
+            offensive method of stating a political opposition to the President." Taken in context,
+            and regarding the expressly conditional nature of the statement and the reaction of the
+            listeners, we do not see how it could be interpreted otherwise.</p>
+         <p>The motion for leave to proceed in forma pauperis and the petition for a writ of
+            certiorari are granted and the judgment of the Court of Appeals is reversed. The case is
+            remanded with instructions that it be returned to the District Court for entry of a
+            judgment of acquittal.</p>
+         <p>It is so ordered.</p>
+         <p>MR. JUSTICE STEWART would deny the petition for certiorari.</p>
+      </div>
+      <div type="dissent" judge="white"><p>MR. JUSTICE WHITE dissents.</p></div>
+      <div type="concurrence" judge="douglas">
+         <p>
+            <span class="star-pagination">*709</span> MR. JUSTICE DOUGLAS, concurring.</p>
+         <p>The charge in this case is of an ancient vintage.</p>
+         <p>The federal statute under which petitioner was convicted traces its ancestry to the
+            Statute of Treasons (25 Edw. 3) which made it a crime to "compass or imagine the Death
+            of . . . the King." Note, Threats to Take the Life of the President, 32 Harv. L. Rev.
+            724, 725 (1919). It is said that one Walter Walker, a 15th century keeper of an inn
+            known as the "Crown," was convicted under the Statute of Treasons for telling his son:
+            "Tom, if thou behavest thyself well, I will make thee heir to the CROWN." He was found
+            guilty of compassing and imagining the death of the King, hanged, drawn, and quartered.
+            1 J. Campbell, Lives of the Chief Justices of England 151 (1873).</p>
+         <p>In the time of Edward IV, one Thomas Burdet who predicted that the king would "soon die,
+            with a view to alienate the affections" of the people was indicted for "compassing and
+            imagining of the death of the King," 79 Eng. Rep. 706 (1477)&#x97;the crime of
+            constructive treason<span class="sup">[1]</span> with which the old reports are
+            filled.</p>
+         <p>
+            <span class="star-pagination">*710</span> In the time of Charles II, one Edward Brownlow
+            was indicted "for speaking these words, that he wished all the gentry in the land would
+            kill one another, so that the comminalty might live the better." 3 Middlesex County Rec.
+            326 (1888). In the same year (1662) one Robert Thornell was indicted for saying "that if
+            the Kinge did side with the Bishops, the divell take Kinge and the Bishops too." Id., at
+            327.</p>
+         <p>While our Alien and Sedition Laws were in force, John Adams, President of the United
+            States, en route from Philadelphia, Pennsylvania, to Quincy, Massachusetts, stopped in
+            Newark, New Jersey, where he was greeted by a crowd and by a committee that saluted him
+            by firing a cannon.</p>
+         <p>A bystander said, "There goes the President and they are firing at his ass." Luther
+            Baldwin was indicted for replying that he did not care "if they fired through his ass."
+            He was convicted in the federal court for speaking "sedicious words tending to defame
+            the President and Government of the United States" and fined, assessed court costs and
+            expenses, and committed to jail until the fine and fees were paid. See J. Smith,
+            Freedom's Fetters 270-274 (1956).</p>
+         <p>The Alien and Sedition Laws constituted one of our sorriest chapters; and I had thought
+            we had done with them forever.<span class="sup">[2]</span>
+         </p>
+         <p>
+            <span class="star-pagination">*711</span> Yet the present statute has hardly fared
+            better. "Like the Statute of Treasons, section 871 was passed in a `relatively calm
+            peacetime spring,' but has been construed under circumstances when intolerance for free
+            speech was much greater than it normally might be." Note, Threatening the President:
+            Protected Dissenter or Political Assassin, 57 Geo. L. J. 553, 570 (1969). Convictions
+            under 18 U. S. C. § 871 have been sustained for displaying posters urging passersby to
+            "hang [President] Roosevelt." United States v. Apel, <span class="citation">
+               <a href="/ilnd/aBun/united-states-v-apel/">
+                  <span class="volume">44</span>
+                  <span class="reporter">F. Supp.</span>
+                  <span class="page">592</span>
+               </a>
+            </span>, 593 (D. C. N. D. Ill. 1942); for declaring that "President Wilson ought to be
+            killed. It is a wonder some one has not done it already. If I had an opportunity, I
+            would do it myself." United States v. Stickrath, <span class="citation no-link">
+               <span class="volume">242</span>
+               <span class="reporter">F.</span>
+               <span class="page">151</span>
+            </span>, 152 (D. C. S. D. Ohio 1917); for declaring that "Wilson is a wooden-headed son
+            of a bitch. I wish Wilson was in hell, and if I had the power I would put him there,"
+            Clark v. United States, <span class="citation no-link">
+               <span class="volume">250</span>
+               <span class="reporter">F.</span>
+               <span class="page">449</span>
+            </span> (C. A. 5th Cir. 1918). In sustaining an indictment under the statute against a
+            man who indicated that he would enjoy shooting President Wilson if he had the chance,
+            the trial court explained the thrust of § 871:</p> "The purpose of the statute was
+         undoubtedly, not only the protection of the President, but also the prohibition of just
+         such statements as those alleged in this indictment. The expression of such direful
+         intentions and desires, not only indicates a spirit of disloyalty to the nation bordering
+         upon treason, but is, in a very real sense, a menace to the peace and safety of the
+         country. . . . It arouses resentment <span class="star-pagination">*712</span> and concern
+         on the part of patriotic citizens." United States v. Jasick, <span class="citation no-link">
+            <span class="volume">252</span>
+            <span class="reporter">F.</span>
+            <span class="page">931</span>
+         </span>, 933 (D. C. E. D. Mich. 1918). <p>Suppression of speech as an effective police
+            measure is an old, old device, outlawed by our Constitution.</p>
+      </div>
+      <div type="dissent" judge="fortas">
+         <p>MR. JUSTICE FORTAS, with whom MR. JUSTICE HARLAN joins, dissenting.</p>
+         <p>The Court holds, without hearing, that this statute is constitutional and that it is
+            here wrongly applied. Neither of these rulings should be made without hearing, even if
+            we assume that they are correct.</p>
+         <p>Perhaps this is a trivial case because of its peculiar facts and because the petitioner
+            was merely given a suspended sentence. That does not justify the Court's action. It
+            should induce us to deny certiorari, not to decide the case on its merits and to
+            adjudicate the difficult questions that it presents.</p>
+      </div>
+      <div type="notes">
+         <p>[*] 18 U. S. C. § 871 (a) provides: </p>
+         <p>"Whoever knowingly and willfully deposits for conveyance in the mail or for a delivery
+            from any post office or by any letter carrier any letter, paper, writing, print,
+            missive, or document containing any threat to take the life of or to inflict bodily harm
+            upon the President of the United States, the President-elect, the Vice President or
+            other officer next in the order of succession to the office of President of the United
+            States, or the Vice President-elect, or knowingly and willfully otherwise makes any such
+            threat against the President, President-elect, Vice President or other officer next in
+            the order of succession to the office of President, or Vice President-elect, shall be
+            fined not more than $1,000 or imprisoned not more than five years, or both."</p>
+         <p>[1] The prosecution in those cases laid bare to the juries that the treasonous thoughts
+            were the heart of the matter; "the original of his Treasons proceeded from the
+            imagination of his heart; which imagination was in itself High-Treason, albeit the same
+            proceeded not to any overt fact: and the heart being possessed with the abundance of his
+            traitorous imagination, and not being able so to contain itself, burst forth in vile and
+            traitorous Speeches, and from thence to horrible and heinous actions." Trial of Sir John
+            Perrot, 1 How. St. Tr. 1315, 1318 (1592). "[T]he high treason charged, is the compassing
+            or imagining (in other words, the intending or designing) the death of the king; I mean
+            his NATURAL DEATH; which being a hidden operation of the mind, an overt act is any thing
+            which legally proves the existence of such traitorous design and intention&#x97;I say
+            that the design against the king's natural life, is the high treason under the first
+            branch of the statute; and whatever is evidence, which may be legally laid before a jury
+            to judge of the traitorous intention, is a legal overt act; because an overt act is
+            nothing but legal evidence embodied upon the record." Trial of Thomas Hardy, 24 How. St.
+            Tr. 199, 894 (1794). And see 84 Eng. Rep. 1057 (1708). </p>
+         <p>For a discussion of the adequacy of mere words as overt acts see 3 W. Holdsworth,
+            History of English Law 293 (1927).</p>
+         <p>[2] "In the Sedition Act cases, the tendency of words to produce acts against the peace
+            and security of the community was stretched to its utmost latitude. Likewise, judges and
+            juries, in their willingness to presume evil intent on the part of Republican writers,
+            largely nullified the safeguards erected by the Sedition Act itself. Criticism of the
+            President and Congress&#x97;in which every American indulges as his birthright&#x97;was
+            severely punished; yet this practice manifestly has only a remote tendency to injure and
+            bring into contempt the government of the United States. In short, much that has become
+            commonplace in American political life was put under the ban by the Federalist lawmakers
+            and judges of 1798." J. Miller, Crisis in Freedom 233 (1951).</p>
+      </div>
+   </body>
+</opinion>
